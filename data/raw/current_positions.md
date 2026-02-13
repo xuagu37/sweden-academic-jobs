@@ -1465,6 +1465,14 @@
 - **Deadline:** 2026-02-15
 
 
+### Professor in psychiatry combined with employment as specialist physician in psychiatry at Stockholm Health Care Services
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:869337/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Clinical Neuroscience
+- **Published:** 
+- **Deadline:** 2026-02-16
+
+
 ### Postdoctoral Researcher in Next-Generation Lineage Tracing for Immunology
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897027/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1513,12 +1521,20 @@
 - **Deadline:** 2026-02-16
 
 
-### Professor in psychiatry combined with employment as specialist physician in psychiatry at Stockholm Health Care Services
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:869337/type:job/where:4/apply:1)
+### Scholarship at basic or advanced level in research on extracellular vesicles
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897674/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Department of Clinical Neuroscience
+- **Department:** Department of Laboratory Medicine
 - **Published:** 
-- **Deadline:** 2026-02-16
+- **Deadline:** 2026-02-17
+
+
+### Lecturer in ---subject---
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899653/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Medical Epidemiology and Biostatistics
+- **Published:** 
+- **Deadline:** 2026-02-17
 
 
 ### Forskningsspecialist i fysiologi och visuell perception
@@ -1553,44 +1569,20 @@
 - **Deadline:** 2026-02-17
 
 
-### Forskningsspecialist i fysiologi och visuell perception
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897442/type:job/where:4/apply:1)
+### Psykolog med kursansvar till avdelningen för pedodonti
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900347/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Department of Clinical Neuroscience
+- **Department:** Department of Dental Medicine
 - **Published:** 
 - **Deadline:** 2026-02-17
 
 
-### Postdoctoral Researcher in Eating Disorder Epidemiology and Genetics
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897475/type:job/where:4/apply:1)
+### Postdoctoral Researcher in Diabetes Epidemiology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897077/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Department of Medical Epidemiology and Biostatistics
+- **Department:** The Institute of Environmental Medicine
 - **Published:** 
 - **Deadline:** 2026-02-17
-
-
-### Biträdande lektor i prehospital hjärtstoppsforskning
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897792/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Clinical Science and Education, Södersjukhuset
-- **Published:** 
-- **Deadline:** 2026-02-17
-
-
-### Doctoral (PhD) student position in Genetic Modification of NK cells
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:880275/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Medicine, Huddinge
-- **Published:** 
-- **Deadline:** 2026-02-17
-
-
-### Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Clinical Neuroscience
-- **Published:** 
-- **Deadline:** 2026-02-18
 
 
 ### Postdoctoral Researcher in Psychoneuroimmunology
@@ -1641,12 +1633,12 @@
 - **Deadline:** 2026-02-18
 
 
-### Postdoctoral studies in HPV epidemiology (scholarship)
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901174/type:job/where:4/apply:1)
+### Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Department for Clinical Science, Intervention and Technology
+- **Department:** Department of Clinical Neuroscience
 - **Published:** 
-- **Deadline:** 2026-02-20
+- **Deadline:** 2026-02-18
 
 
 ### Amanuens inom utveckling av datoralgoritmer för framtidens cellterapier
@@ -1705,6 +1697,14 @@
 - **Deadline:** 2026-02-20
 
 
+### Postdoctoral studies in HPV epidemiology (scholarship)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901174/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department for Clinical Science, Intervention and Technology
+- **Published:** 
+- **Deadline:** 2026-02-20
+
+
 ### Postdoctoral Researcher in affective learning and decision-making
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894717/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1729,18 +1729,18 @@
 - **Deadline:** 2026-02-22
 
 
-### Postdoctoral Researcher in Clinical Genetics with a Focus on Molecular Hematology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901944/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Molecular Medicine and Surgery
-- **Published:** 
-- **Deadline:** 2026-02-23
-
-
 ### Bioinformatician Position for Analyses of Autoimmune Diseases
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899649/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** The Institute of Environmental Medicine
+- **Published:** 
+- **Deadline:** 2026-02-23
+
+
+### Postdoctoral Researcher in Clinical Genetics with a Focus on Molecular Hematology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901944/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Molecular Medicine and Surgery
 - **Published:** 
 - **Deadline:** 2026-02-23
 
@@ -1751,22 +1751,6 @@
 - **Department:** Department of Medicine, Huddinge
 - **Published:** 
 - **Deadline:** 2026-02-24
-
-
-### Research Assistant in Experimental Neuroscience
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902638/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Silberberg
-- **Published:** 
-- **Deadline:** 2026-02-25
-
-
-### Postdoctoral Researcher in Spatial Metabolism of Human Adipose Tissue
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897720/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Medicine, Huddinge
-- **Published:** 
-- **Deadline:** 2026-02-25
 
 
 ### Professor in Vascular Surgery combined with employment as at least specialist physician at Karolinska University Hospital
@@ -1793,20 +1777,28 @@
 - **Deadline:** 2026-02-25
 
 
+### Research Assistant in Experimental Neuroscience
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902638/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Silberberg
+- **Published:** 
+- **Deadline:** 2026-02-25
+
+
+### Postdoctoral Researcher in Spatial Metabolism of Human Adipose Tissue
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897720/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Medicine, Huddinge
+- **Published:** 
+- **Deadline:** 2026-02-25
+
+
 ### Forskningssamordnare till avdelningen för psykologi
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902546/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Clinical Neuroscience
 - **Published:** 
 - **Deadline:** 2026-02-26
-
-
-### Administratör till forskargruppen Rekonstruktiv plastikkirurgi & global kirurgi
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904086/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Molecular Medicine and Surgery
-- **Published:** 
-- **Deadline:** 2026-02-27
 
 
 ### Postdoctoral Researcher in Mechanics of Heart Regeneration
@@ -1825,12 +1817,12 @@
 - **Deadline:** 2026-02-27
 
 
-### Postdoktor till forskargruppen Caring in Community Care, avdelningen för omvårdnad
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:892919/type:job/where:4/apply:1)
+### Administratör till forskargruppen Rekonstruktiv plastikkirurgi & global kirurgi
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904086/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Division of Nursing
+- **Department:** Department of Molecular Medicine and Surgery
 - **Published:** 
-- **Deadline:** 2026-02-28
+- **Deadline:** 2026-02-27
 
 
 ### Doctoral position in”New Oligonucleotide Constructs for Enhanced Delivery”
@@ -1865,18 +1857,26 @@
 - **Deadline:** 2026-02-28
 
 
-### Amanuens till ABC/Komet-projektet
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894283/type:job/where:4/apply:1)
+### Postdoktor till forskargruppen Caring in Community Care, avdelningen för omvårdnad
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:892919/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Department of Clinical Neuroscience
+- **Department:** Division of Nursing
 - **Published:** 
-- **Deadline:** 2026-03-01
+- **Deadline:** 2026-02-28
 
 
 ### PhD position in biodistribution and transport over the blood brain barrier of a biological drug candidate.
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:899854/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Medicine, Huddinge
+- **Published:** 
+- **Deadline:** 2026-03-01
+
+
+### Amanuens till ABC/Komet-projektet
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894283/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Clinical Neuroscience
 - **Published:** 
 - **Deadline:** 2026-03-01
 
@@ -1985,16 +1985,16 @@
 - **Deadline:** 2026-03-20
 
 
-### Postdoctoral researcher positions in developing computational tools for DNA-microscopy based spatial omics
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895772/type:job/where:4/apply:1)
+### Postdoctoral researcher positions in developing computational tools for DNA based data storage
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895724/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Division of Medical systems bioengineering
 - **Published:** 
 - **Deadline:** 2026-03-22
 
 
-### Postdoctoral researcher positions in developing computational tools for DNA based data storage
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895724/type:job/where:4/apply:1)
+### Postdoctoral researcher positions in developing computational tools for DNA-microscopy based spatial omics
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895772/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Division of Medical systems bioengineering
 - **Published:** 
@@ -2009,16 +2009,16 @@
 - **Deadline:** 2026-03-29
 
 
-### PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
+### PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Neuroscience
 - **Published:** 
 - **Deadline:** 2026-04-05
 
 
-### PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
+### PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Neuroscience
 - **Published:** 

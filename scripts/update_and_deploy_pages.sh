@@ -2,9 +2,8 @@
 
 set -e  # Exit on error
 
-# module load Mambaforge/23.3.1-1
-module load Miniforge3/24.11.3-2
-mamba activate sweden-academic-positions
+module load Miniforge3
+mamba activate sweden-academic-jobs
 
 python -m swedjobs
 bash scripts/deploy_pages.sh 

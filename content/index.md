@@ -1,4 +1,4 @@
-# Sweden Academic Positions
+# Sweden Academic Jobs
 
 Welcome! This site presents regularly scraped academic job listings from Swedish universities.
 
@@ -21,10 +21,10 @@ prerequisites
 ``` -->
 
 ```{toctree}
-:caption: Current Positions
+:caption: All Current Jobs
 :maxdepth: 1
 
-current_positions
+current_jobs
 chalmers
 dalarna
 gothenburg

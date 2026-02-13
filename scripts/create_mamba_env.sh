@@ -1,5 +1,6 @@
-module load Miniforge3/24.11.3-2
-mamba create -n sweden-academic-positions
+module load Miniforge3
+mamba create -n sweden-academic-jobs
+mamba activate sweden-academic-jobs
 mamba install selenium webdriver-manager bs4 
 pip install playwright sphinx sphinx-lesson
 playwright install  

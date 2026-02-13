@@ -90,7 +90,7 @@ def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 
     Converts Markdown headings (##, ###, etc.) to HTML <hN> tags in a Markdown file,
     unescapes &amp; in Markdown links, and converts job info blocks into HTML <ul>.
 
-    Handles both individual university .md files and merged current_positions.md.
+    Handles both individual university .md files and merged all_current_jobs.md.
 
     Args:
         input_path (str): Path to the input .md file.
@@ -311,8 +311,8 @@ def add_position_count(file_path: str):
     
 def merge_job_markdowns(input_dir: str, output_path: str):
     """
-    Merges multiple Markdown job files into a single file under the heading "Current Positions",
-    and injects the university name into each job entry. Skips 'current_positions.md'.
+    Merges multiple Markdown job files into a single file under the heading "All Current Positions",
+    and injects the university name into each job entry. Skips 'all_current_jobs.md'.
 
     Args:
         input_dir (str): Directory containing the .md files to merge.
@@ -321,11 +321,11 @@ def merge_job_markdowns(input_dir: str, output_path: str):
     input_dir = Path(input_dir)
     output_path = Path(output_path)
 
-    merged = ["# Current Positions\n"]
+    merged = ["# All Current Positions\n"]
 
     for md_file in sorted(input_dir.glob("*.md")):
         if md_file.name == output_path.name:
-            continue  # Skip current_positions.md
+            continue  # Skip all_current_jobs.md
 
         text = md_file.read_text(encoding="utf-8")
 
