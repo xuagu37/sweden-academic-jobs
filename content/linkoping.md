@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 23</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 24</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -67,6 +67,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2026-03-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in Applied Physics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28573)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-09
 
 </div>
 

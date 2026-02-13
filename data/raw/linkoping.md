@@ -30,6 +30,12 @@
 - **Published:** 
 - **Deadline:** 2026-03-15
 
+### PhD in Applied Physics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28573)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-09
+
 ### PhD student in Statistics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28230)
 - **Department:** 

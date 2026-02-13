@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 130</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 131</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -1277,6 +1277,16 @@
 - **Department:** Institutionen för ekologi och genetik
 - **Published:** 
 - **Deadline:** 1 March 2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistant/Amanuens</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=903905)
+- **Department:** Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
+- **Published:** 
+- **Deadline:** 2 March 2026
 
 </div>
 

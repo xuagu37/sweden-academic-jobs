@@ -756,6 +756,12 @@
 - **Published:** 
 - **Deadline:** 1 March 2026
 
+### Teaching assistant/Amanuens
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=903905)
+- **Department:** Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
+- **Published:** 
+- **Deadline:** 2 March 2026
+
 ### Kursadministratör
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=903988)
 - **Department:** Institutionen för biologisk grundutbildning

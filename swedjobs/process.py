@@ -1,86 +1,7 @@
 import re
 from pathlib import Path
 from datetime import date
-
-# def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 2):
-#     """
-#     Converts Markdown headings (##, ###, etc.) to HTML <hN> tags in a Markdown file.
-
-#     Args:
-#         input_path (str): Path to the input .md file.
-#         output_path (str): Path to the output .md file.
-#         level (int): Minimum heading level to convert (default is 2).
-#     """
-#     input_path = Path(input_path)
-#     output_path = Path(output_path)
-
-#     text = input_path.read_text(encoding="utf-8")
-
-#     # Match headings like ## Heading or ### Heading
-#     pattern = re.compile(r"^(#{%d,}) (.+)$" % level, re.MULTILINE)
-
-#     def replacer(match):
-#         hashes, title = match.groups()
-#         heading_level = len(hashes)
-#         return f"<h{heading_level}>{title.strip()}</h{heading_level}>\n"
-
-#     converted = pattern.sub(replacer, text)
-
-#     output_path.write_text(converted, encoding="utf-8")
-#     print(f"Converted headings for {input_path.name}...")
-    
-
-# def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 2):
-#     """
-#     Converts Markdown headings (##, ###, etc.) to HTML <hN> tags in a Markdown file,
-#     unescapes &amp; in Markdown links, and converts job info blocks into HTML <ul>.
-
-#     Args:
-#         input_path (str): Path to the input .md file.
-#         output_path (str): Path to the output .md file.
-#         level (int): Minimum heading level to convert (default is 2).
-#     """
-#     input_path = Path(input_path)
-#     output_path = Path(output_path)
-
-#     text = input_path.read_text(encoding="utf-8")
-
-#     # --- 1. Convert headings to HTML ---
-#     heading_pattern = re.compile(r"^(#{%d,}) (.+)$" % level, re.MULTILINE)
-
-#     def heading_replacer(match):
-#         hashes, title = match.groups()
-#         heading_level = len(hashes)
-#         return f"<h{heading_level}>{title.strip()}</h{heading_level}>\n"
-
-#     text = heading_pattern.sub(heading_replacer, text)
-
-#     # --- 2. Convert Markdown-style job bullet blocks into <ul><li> ---
-#     job_block_pattern = re.compile(
-#         r"""(?P<list>- \*\*Link:\*\* \[([^\]]+)\]\(([^)]+)\)\s*
-# - \*\*Department:\*\* ?(.*)\s*
-# - \*\*Published:\*\* ?(.*)\s*
-# - \*\*Deadline:\*\* ?(.*))""",
-#         re.MULTILINE,
-#     )
-
-#     def job_block_replacer(match):
-#         _, label, raw_url, dept, pub, deadline = match.groups()
-#         url = unescape(raw_url)
-#         return (
-#             "<ul>\n"
-#             f'  <li><strong>Link:</strong> <a href="{url}">{label}</a></li>\n'
-#             f'  <li><strong>Department:</strong> {dept}</li>\n'
-#             f'  <li><strong>Published:</strong> {pub}</li>\n'
-#             f'  <li><strong>Deadline:</strong> {deadline}</li>\n'
-#             "</ul>"
-#         )
-
-#     text = job_block_pattern.sub(job_block_replacer, text)
-
-#     output_path.write_text(text, encoding="utf-8")
-#     print(f"Converted headings and job blocks in {input_path.name}...")
-
+from collections import defaultdict
 import re
 from pathlib import Path
 from html import unescape
@@ -317,15 +238,29 @@ def add_job_count(file_path: str):
     
     
 def merge_job_markdowns(input_dir: str, output_path: str):
+    """
+    Merge per-university markdown files into a single markdown file grouped by university:
+
+    ## University A
+    ### job1
+    ### job2
+
+    ## University B
+    ### job1
+    ...
+    """
     input_dir = Path(input_dir)
     output_path = Path(output_path)
-
-    merged = ["# All Current Jobs\n"]
 
     SKIP_NAMES = {
         output_path.name,
         "all_current_jobs.md",
+        "current_positions.md",      # common merged output name
+        "test_merged.md",            # if you use a test file
+        "test_grouped.md",           # if you use a test file
     }
+
+    grouped: dict[str, list[str]] = defaultdict(list)
 
     for md_file in sorted(input_dir.glob("*.md")):
         if md_file.name in SKIP_NAMES:
@@ -339,35 +274,29 @@ def merge_job_markdowns(input_dir: str, output_path: str):
         m = re.search(r"^#\s*(.+)$", text, flags=re.MULTILINE)
         university = m.group(1).strip() if m else md_file.stem.replace("-", " ").title()
 
-        # Split into entries by "### "
-        # Keep only real job entries that start with "### "
+        # Split into entries by "### " (your raw files use this format)
         parts = text.split("\n### ")
         if len(parts) <= 1:
             continue  # no jobs in this file
 
-        # parts[0] is header area; each subsequent part is one job without the leading "### "
         for part in parts[1:]:
             block = "### " + part.strip()
 
-            # Ensure it contains a link line; otherwise skip (filters out weird content)
+            # Ensure it looks like a real job entry
             if "- **Link:**" not in block:
                 continue
 
-            # Inject university line once
-            if "**University:**" not in block:
-                # Insert after Link line if possible
-                lines = block.splitlines()
-                new_lines = []
-                inserted = False
-                for line in lines:
-                    new_lines.append(line)
-                    if (not inserted) and line.startswith("- **Link:**"):
-                        new_lines.append(f"- **University:** {university}")
-                        inserted = True
-                block = "\n".join(new_lines)
+            # Remove any existing injected university line; grouping makes it redundant
+            block = re.sub(r"^\s*-\s*\*\*University:\*\*.*(?:\r?\n)?", "", block, flags=re.MULTILINE)
 
-            merged.append(block + "\n")
+            grouped[university].append(block)
+
+    merged = ["# All Current Jobs\n"]
+
+    for university in sorted(grouped.keys()):
+        merged.append(f"## {university}\n")
+        merged.extend(grouped[university])
+        merged.append("")  # spacer
 
     output_path.write_text("\n\n".join(merged).strip() + "\n", encoding="utf-8")
     print(f"Merged into {output_path.name}, skipping self-reference.")
-    
