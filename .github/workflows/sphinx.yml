@@ -95,8 +95,14 @@ jobs:
         if: ${{ env.GENERATE_SINGLEHTML == 'true' }}
         run: |
           make singlehtml
-          python scripts/fix_html_links.py _build/singlehtml
           mv _build/singlehtml/ _build/dirhtml/singlehtml/
+
+      # 🔧 ADD THIS STEP HERE
+      - name: Post-process built HTML links
+        run: |
+          python scripts/fix_html_links.py
+          # Optional safety check: fail if any double-escape remains
+          ! grep -R "&amp;amp;" -n _build/dirhtml | head -n 1
 
       # PDF if requested
       - name: Generate PDF

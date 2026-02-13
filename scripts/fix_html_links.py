@@ -1,19 +1,20 @@
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
+
+
+_PATTERN = re.compile(r'((?:href|src)="[^"]*?)&amp;amp;([^"]*")')
+
 
 def fix_file(path: Path) -> bool:
     s = path.read_text(encoding="utf-8")
 
-    # Fix double-escaped ampersands in href/src attributes:
-    # ...?a=1&amp;amp;b=2  ->  ...?a=1&amp;b=2
-    new = re.sub(r'((?:href|src)="[^"]*?)&amp;amp;([^"]*")', r"\1&amp;\2", s)
-
-    # Some builds can create even worse chains; collapse repeatedly
-    # until stable (e.g., &amp;amp;amp; -> &amp;)
+    new = s
+    # Collapse repeatedly until stable: &amp;amp; -> &amp; (and deeper chains)
     while True:
-        newer = re.sub(r'((?:href|src)="[^"]*?)&amp;amp;([^"]*")', r"\1&amp;\2", new)
+        newer = _PATTERN.sub(r"\1&amp;\2", new)
         if newer == new:
             break
         new = newer
@@ -24,19 +25,40 @@ def fix_file(path: Path) -> bool:
     return False
 
 
-def main(build_dir: str = "_build/html") -> None:
-    root = Path(build_dir)
-    if not root.exists():
-        raise SystemExit(f"Build dir not found: {root.resolve()}")
+def iter_build_roots(arg: str | None) -> list[Path]:
+    if arg:
+        return [Path(arg)]
 
-    changed = 0
-    total = 0
-    for html_file in root.rglob("*.html"):
-        total += 1
-        if fix_file(html_file):
-            changed += 1
+    candidates = [
+        Path("_build/dirhtml"),
+        Path("_build/singlehtml"),
+        Path("_build/html"),
+    ]
+    # Use all candidates that exist
+    roots = [p for p in candidates if p.exists()]
+    return roots
 
-    print(f"Post-processed HTML: {changed}/{total} files updated in {root.resolve()}")
+
+def main() -> None:
+    arg = sys.argv[1] if len(sys.argv) > 1 else None
+    roots = iter_build_roots(arg)
+
+    if not roots:
+        raise SystemExit(
+            "Build dir not found. Tried: _build/dirhtml, _build/singlehtml, _build/html "
+            "(or pass a path: python scripts/fix_html_links.py _build/dirhtml)"
+        )
+
+    for root in roots:
+        changed = 0
+        total = 0
+        for html_file in root.rglob("*.html"):
+            total += 1
+            if fix_file(html_file):
+                changed += 1
+
+        print(f"Post-processed HTML: {changed}/{total} files updated in {root.resolve()}")
+
 
 if __name__ == "__main__":
     main()
