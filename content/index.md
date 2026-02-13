@@ -24,7 +24,7 @@ prerequisites
 :caption: All Current Jobs
 :maxdepth: 1
 
-current_jobs
+all_current_jobs
 chalmers
 dalarna
 gothenburg
