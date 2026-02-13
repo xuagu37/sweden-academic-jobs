@@ -1,7 +1,6 @@
 import re
 from pathlib import Path
 from datetime import date
-from collections import defaultdict
 import re
 from pathlib import Path
 from html import unescape
@@ -238,29 +237,15 @@ def add_job_count(file_path: str):
     
     
 def merge_job_markdowns(input_dir: str, output_path: str):
-    """
-    Merge per-university markdown files into a single markdown file grouped by university:
-
-    ## University A
-    ### job1
-    ### job2
-
-    ## University B
-    ### job1
-    ...
-    """
     input_dir = Path(input_dir)
     output_path = Path(output_path)
+
+    merged = ["# All Current Jobs\n"]
 
     SKIP_NAMES = {
         output_path.name,
         "all_current_jobs.md",
-        "current_positions.md",      # common merged output name
-        "test_merged.md",            # if you use a test file
-        "test_grouped.md",           # if you use a test file
     }
-
-    grouped: dict[str, list[str]] = defaultdict(list)
 
     for md_file in sorted(input_dir.glob("*.md")):
         if md_file.name in SKIP_NAMES:
@@ -274,29 +259,35 @@ def merge_job_markdowns(input_dir: str, output_path: str):
         m = re.search(r"^#\s*(.+)$", text, flags=re.MULTILINE)
         university = m.group(1).strip() if m else md_file.stem.replace("-", " ").title()
 
-        # Split into entries by "### " (your raw files use this format)
+        # Split into entries by "### "
+        # Keep only real job entries that start with "### "
         parts = text.split("\n### ")
         if len(parts) <= 1:
             continue  # no jobs in this file
 
+        # parts[0] is header area; each subsequent part is one job without the leading "### "
         for part in parts[1:]:
             block = "### " + part.strip()
 
-            # Ensure it looks like a real job entry
+            # Ensure it contains a link line; otherwise skip (filters out weird content)
             if "- **Link:**" not in block:
                 continue
 
-            # Remove any existing injected university line; grouping makes it redundant
-            block = re.sub(r"^\s*-\s*\*\*University:\*\*.*(?:\r?\n)?", "", block, flags=re.MULTILINE)
+            # Inject university line once
+            if "**University:**" not in block:
+                # Insert after Link line if possible
+                lines = block.splitlines()
+                new_lines = []
+                inserted = False
+                for line in lines:
+                    new_lines.append(line)
+                    if (not inserted) and line.startswith("- **Link:**"):
+                        new_lines.append(f"- **University:** {university}")
+                        inserted = True
+                block = "\n".join(new_lines)
 
-            grouped[university].append(block)
-
-    merged = ["# All Current Jobs\n"]
-
-    for university in sorted(grouped.keys()):
-        merged.append(f"## {university}\n")
-        merged.extend(grouped[university])
-        merged.append("")  # spacer
+            merged.append(block + "\n")
 
     output_path.write_text("\n\n".join(merged).strip() + "\n", encoding="utf-8")
     print(f"Merged into {output_path.name}, skipping self-reference.")
+    
