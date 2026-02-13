@@ -27,6 +27,7 @@ prerequisites
 all_current_jobs
 chalmers
 dalarna
+gavle
 gothenburg
 karlstad
 ki
