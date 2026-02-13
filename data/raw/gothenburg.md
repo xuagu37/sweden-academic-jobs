@@ -1,5 +1,17 @@
 # Gothenburg University
 
+### Postdoctor in Health economics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39594)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-12
+
+### Research Assistant
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39719)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-12
+
 ### Researcher Specialized in Agent-Based Environmental Modelling
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39741)
 - **Department:** 
@@ -36,11 +48,11 @@
 - **Published:** 
 - **Deadline:** 2026-03-05
 
-### Senior Lecturer in Occupational Therapy
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39318)
+### Associate Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39633)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-03-02
+- **Deadline:** 2026-03-03
 
 ### Postdoctor in Hand Surgery and 3D virtual surgical planning
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39702)
@@ -48,11 +60,11 @@
 - **Published:** 
 - **Deadline:** 2026-03-04
 
-### Associate Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39633)
+### Senior Lecturer in Occupational Therapy
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39318)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-03-03
+- **Deadline:** 2026-03-02
 
 ### Postdoctor in Epidemiological and Clinical Studies in Obstetrics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39676)
@@ -60,11 +72,11 @@
 - **Published:** 
 - **Deadline:** 2026-03-03
 
-### Doctoral student in Medical Science - Immune dysregulation in early juvenile idiopathic arthritis (JIA)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39657)
+### Researcher position in spintronics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39689)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-03-02
+- **Deadline:** 2026-03-06
 
 ### Doctoral student in Medical Science - Airborne exposures and small airway dysfunction
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39302)
@@ -72,17 +84,17 @@
 - **Published:** 
 - **Deadline:** 2026-03-05
 
-### Researcher position in spintronics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39689)
+### Doctoral student in Medical Science - Immune dysregulation in early juvenile idiopathic arthritis (JIA)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39657)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-03-06
+- **Deadline:** 2026-03-02
 
-### Amanuens within research in Formal Methods at the Computing Science Division
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39672)
+### Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39667)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-02-20
+- **Deadline:** 2026-02-27
 
 ### Amanuens within research, Software Engineering
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39525)
@@ -90,11 +102,11 @@
 - **Published:** 
 - **Deadline:** 2026-02-20
 
-### Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39667)
+### Amanuens within research in Formal Methods at the Computing Science Division
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39672)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-02-27
+- **Deadline:** 2026-02-20
 
 ### Doctoral student in Health Care Sciences – Intensive Care Environment
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39141)
@@ -156,23 +168,29 @@
 - **Published:** 
 - **Deadline:** 2026-03-01
 
-### Doctoral student in Medical Science - Mitochondrial function in preterm infants
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39556)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-02-24
-
 ### Postdoctor in structure and function of membrane proteins in native systems
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39614)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2026-04-04
 
+### Doctoral student in Medical Science - Mitochondrial function in preterm infants
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39556)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-24
+
 ### Senior lecturer in Child Culture Design
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39603)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2026-03-17
+
+### Researcher in Obstetrics and Gynecology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39558)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-19
 
 ### Associate Senior Lecturer (Assistant Professor) in Molecular and translational medicine
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39523)
@@ -228,12 +246,6 @@
 - **Published:** 
 - **Deadline:** 2026-03-16
 
-### Researcher in Obstetrics and Gynecology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39558)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-02-19
-
 ### Associate Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39587)
 - **Department:** 
@@ -258,17 +270,17 @@
 - **Published:** 
 - **Deadline:** 2026-02-22
 
-### Postdoctor in Obstetrics and Gynecology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39450)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-02-24
-
 ### Associate Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39491)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2026-02-17
+
+### Postdoctor in Obstetrics and Gynecology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39450)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-24
 
 ### Postdoctor in Neuroscience/Neuroendocrinology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39472)

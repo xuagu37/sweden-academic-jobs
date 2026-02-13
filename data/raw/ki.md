@@ -1,11 +1,5 @@
 # Karolinska Institute
 
-### Postdoctoral researcher in women’s health epidemiology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898980/type:job/where:4/apply:1)
-- **Department:** The Institute of Environmental Medicine
-- **Published:** 
-- **Deadline:** 2026-02-13
-
 ### Doctoral (PhD) student position in molecular epidemiology with focus on cardiovascular diseases
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:892020/type:job/where:4/apply:1)
 - **Department:** Department of Medicine, Solna
@@ -60,15 +54,21 @@
 - **Published:** 
 - **Deadline:** 2026-02-13
 
-### Lab manager in organoid technology, endoderm biology and omics.
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895416/type:job/where:4/apply:1)
-- **Department:** Division of Medical systems bioengineering
+### Postdoctoral researcher in women’s health epidemiology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898980/type:job/where:4/apply:1)
+- **Department:** The Institute of Environmental Medicine
 - **Published:** 
-- **Deadline:** 2026-02-14
+- **Deadline:** 2026-02-13
 
 ### Postdoctoral studies on Bruton’s Tyrosin Kinase – from inhibitors to gene correction
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898225/type:job/where:4/apply:1)
 - **Department:** Department of Laboratory Medicine
+- **Published:** 
+- **Deadline:** 2026-02-14
+
+### Lab manager in organoid technology, endoderm biology and omics.
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895416/type:job/where:4/apply:1)
+- **Department:** Division of Medical systems bioengineering
 - **Published:** 
 - **Deadline:** 2026-02-14
 
@@ -83,18 +83,6 @@
 - **Department:** Molecular Metabolism
 - **Published:** 
 - **Deadline:** 2026-02-15
-
-### Doctoral position in health data science
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:887419/type:job/where:4/apply:1)
-- **Department:** Department of Global Public Health
-- **Published:** 
-- **Deadline:** 2026-02-16
-
-### Junior utvecklare inom IAM och integrationer till IT-avdelningen på Karolinska Institutet
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899655/type:job/where:4/apply:1)
-- **Department:** IT-avdelningen
-- **Published:** 
-- **Deadline:** 2026-02-16
 
 ### Professor in psychiatry combined with employment as specialist physician in psychiatry at Stockholm Health Care Services
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:869337/type:job/where:4/apply:1)
@@ -126,6 +114,18 @@
 - **Published:** 
 - **Deadline:** 2026-02-16
 
+### Doctoral position in health data science
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:887419/type:job/where:4/apply:1)
+- **Department:** Department of Global Public Health
+- **Published:** 
+- **Deadline:** 2026-02-16
+
+### Junior utvecklare inom IAM och integrationer till IT-avdelningen på Karolinska Institutet
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899655/type:job/where:4/apply:1)
+- **Department:** IT-avdelningen
+- **Published:** 
+- **Deadline:** 2026-02-16
+
 ### Scholarship at basic or advanced level in research on extracellular vesicles
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897674/type:job/where:4/apply:1)
 - **Department:** Department of Laboratory Medicine
@@ -150,18 +150,6 @@
 - **Published:** 
 - **Deadline:** 2026-02-17
 
-### Psykolog med kursansvar till avdelningen för pedodonti
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900347/type:job/where:4/apply:1)
-- **Department:** Department of Dental Medicine
-- **Published:** 
-- **Deadline:** 2026-02-17
-
-### Postdoctoral Researcher in Diabetes Epidemiology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897077/type:job/where:4/apply:1)
-- **Department:** The Institute of Environmental Medicine
-- **Published:** 
-- **Deadline:** 2026-02-17
-
 ### Scholarship at basic or advanced level in research on extracellular vesicles
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897674/type:job/where:4/apply:1)
 - **Department:** Department of Laboratory Medicine
@@ -174,11 +162,17 @@
 - **Published:** 
 - **Deadline:** 2026-02-17
 
-### Lecturer in ---subject---
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900519/type:job/where:4/apply:1)
-- **Department:** Department for Clinical Science, Intervention and Technology
+### Forskningsspecialist i fysiologi och visuell perception
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897442/type:job/where:4/apply:1)
+- **Department:** Department of Clinical Neuroscience
 - **Published:** 
-- **Deadline:** 2026-02-18
+- **Deadline:** 2026-02-17
+
+### Postdoctoral Researcher in Eating Disorder Epidemiology and Genetics
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897475/type:job/where:4/apply:1)
+- **Department:** Department of Medical Epidemiology and Biostatistics
+- **Published:** 
+- **Deadline:** 2026-02-17
 
 ### Senior Lecturer in Endocrinology combined with position as least specialist physician at Karolinska University Hospital
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:878655/type:job/where:4/apply:1)
@@ -216,17 +210,11 @@
 - **Published:** 
 - **Deadline:** 2026-02-18
 
-### Postdoctoral Researcher in Autism and Psychiatric Epidemiology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:896647/type:job/where:4/apply:1)
-- **Department:** Department of Medical Epidemiology and Biostatistics
+### Lecturer in ---subject---
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900519/type:job/where:4/apply:1)
+- **Department:** Department for Clinical Science, Intervention and Technology
 - **Published:** 
-- **Deadline:** 2026-02-20
-
-### Biträdande lektor i reumatologi med fokus på inflammatoriska processer i hjärnan
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899840/type:job/where:4/apply:1)
-- **Department:** Rheumatology division
-- **Published:** 
-- **Deadline:** 2026-02-20
+- **Deadline:** 2026-02-18
 
 ### Postdoctoral Researcher in Indoor Air Quality – Risk Assessment and Management
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894763/type:job/where:4/apply:1)
@@ -264,6 +252,18 @@
 - **Published:** 
 - **Deadline:** 2026-02-20
 
+### Postdoctoral Researcher in Autism and Psychiatric Epidemiology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:896647/type:job/where:4/apply:1)
+- **Department:** Department of Medical Epidemiology and Biostatistics
+- **Published:** 
+- **Deadline:** 2026-02-20
+
+### Biträdande lektor i reumatologi med fokus på inflammatoriska processer i hjärnan
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899840/type:job/where:4/apply:1)
+- **Department:** Rheumatology division
+- **Published:** 
+- **Deadline:** 2026-02-20
+
 ### Research assistant in peripheral neuroimmunology
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898878/type:job/where:4/apply:1)
 - **Department:** Department of Physiology and Pharmacology
@@ -282,15 +282,15 @@
 - **Published:** 
 - **Deadline:** 2026-02-22
 
-### Bioinformatician Position for Analyses of Autoimmune Diseases
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899649/type:job/where:4/apply:1)
-- **Department:** The Institute of Environmental Medicine
-- **Published:** 
-- **Deadline:** 2026-02-23
-
 ### Postdoctoral Researcher in Clinical Genetics with a Focus on Molecular Hematology
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901944/type:job/where:4/apply:1)
 - **Department:** Department of Molecular Medicine and Surgery
+- **Published:** 
+- **Deadline:** 2026-02-23
+
+### Bioinformatician Position for Analyses of Autoimmune Diseases
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899649/type:job/where:4/apply:1)
+- **Department:** The Institute of Environmental Medicine
 - **Published:** 
 - **Deadline:** 2026-02-23
 
@@ -299,18 +299,6 @@
 - **Department:** Department of Medicine, Huddinge
 - **Published:** 
 - **Deadline:** 2026-02-24
-
-### Doctoral (PhD) student position in biostatistics
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:900575/type:job/where:4/apply:1)
-- **Department:** Department of Medical Epidemiology and Biostatistics
-- **Published:** 
-- **Deadline:** 2026-02-25
-
-### Postdoctoral position in the Nordic Brain Network group: brain imaging data in the context of clinical cohorts and trials, for personalized dementia prediction modelling
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902911/type:job/where:4/apply:1)
-- **Department:** Division of Clinical Geriatric
-- **Published:** 
-- **Deadline:** 2026-02-25
 
 ### Research Assistant in Experimental Neuroscience
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902638/type:job/where:4/apply:1)
@@ -330,11 +318,29 @@
 - **Published:** 
 - **Deadline:** 2026-02-25
 
+### Doctoral (PhD) student position in biostatistics
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:900575/type:job/where:4/apply:1)
+- **Department:** Department of Medical Epidemiology and Biostatistics
+- **Published:** 
+- **Deadline:** 2026-02-25
+
+### Postdoctoral position in the Nordic Brain Network group: brain imaging data in the context of clinical cohorts and trials, for personalized dementia prediction modelling
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902911/type:job/where:4/apply:1)
+- **Department:** Division of Clinical Geriatric
+- **Published:** 
+- **Deadline:** 2026-02-25
+
 ### Forskningssamordnare till avdelningen för psykologi
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902546/type:job/where:4/apply:1)
 - **Department:** Department of Clinical Neuroscience
 - **Published:** 
 - **Deadline:** 2026-02-26
+
+### Administratör till forskargruppen Rekonstruktiv plastikkirurgi & global kirurgi
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904086/type:job/where:4/apply:1)
+- **Department:** Department of Molecular Medicine and Surgery
+- **Published:** 
+- **Deadline:** 2026-02-27
 
 ### Postdoctoral Researcher in Mechanics of Heart Regeneration
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903516/type:job/where:4/apply:1)
@@ -348,11 +354,17 @@
 - **Published:** 
 - **Deadline:** 2026-02-27
 
-### Administratör till forskargruppen Rekonstruktiv plastikkirurgi & global kirurgi
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904086/type:job/where:4/apply:1)
-- **Department:** Department of Molecular Medicine and Surgery
+### Postdoctoral researcher in Bioinformatics focusing on RNA biology and metabolic disease (scholarship)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:868318/type:job/where:4/apply:1)
+- **Department:** Department of Laboratory Medicine
 - **Published:** 
-- **Deadline:** 2026-02-27
+- **Deadline:** 2026-02-28
+
+### Postdoktor till forskargruppen Caring in Community Care, avdelningen för omvårdnad
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:892919/type:job/where:4/apply:1)
+- **Department:** Division of Nursing
+- **Published:** 
+- **Deadline:** 2026-02-28
 
 ### Doctoral position in”New Oligonucleotide Constructs for Enhanced Delivery”
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:896801/type:job/where:4/apply:1)
@@ -369,18 +381,6 @@
 ### Research Assistant position in Patrik Ernfors’ group
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902191/type:job/where:4/apply:1)
 - **Department:** Division of Molecular Neurobiology
-- **Published:** 
-- **Deadline:** 2026-02-28
-
-### Postdoctoral researcher in Bioinformatics focusing on RNA biology and metabolic disease (scholarship)
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:868318/type:job/where:4/apply:1)
-- **Department:** Department of Laboratory Medicine
-- **Published:** 
-- **Deadline:** 2026-02-28
-
-### Postdoktor till forskargruppen Caring in Community Care, avdelningen för omvårdnad
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:892919/type:job/where:4/apply:1)
-- **Department:** Division of Nursing
 - **Published:** 
 - **Deadline:** 2026-02-28
 
@@ -408,15 +408,15 @@
 - **Published:** 
 - **Deadline:** 2026-03-03
 
-### Postdoctoral studies in in liquid biopsy biomarker discovery and early detection of cancer (scholarship)
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903013/type:job/where:4/apply:1)
-- **Department:** division of Genome Biology
-- **Published:** 
-- **Deadline:** 2026-03-04
-
 ### Senior Lecturer in medical psychology combined with employment as licensed psychologist at the Centre for Epidemiology and Community Medicine, Region Stockholm
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:889160/type:job/where:4/apply:1)
 - **Department:** Department of Global Public Health
+- **Published:** 
+- **Deadline:** 2026-03-04
+
+### Postdoctoral studies in in liquid biopsy biomarker discovery and early detection of cancer (scholarship)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903013/type:job/where:4/apply:1)
+- **Department:** division of Genome Biology
 - **Published:** 
 - **Deadline:** 2026-03-04
 
@@ -425,12 +425,6 @@
 - **Department:** Department of Clinical Neuroscience
 - **Published:** 
 - **Deadline:** 2026-03-05
-
-### Professor in prehospital emergency care combined with employment as specialist nurse at Södersjukhuset
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:878903/type:job/where:4/apply:1)
-- **Department:** Department of Clinical Science and Education, Södersjukhuset
-- **Published:** 
-- **Deadline:** 2026-03-06
 
 ### Postdoctoral researcher in precision nutrition and/or epidemiology
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903395/type:job/where:4/apply:1)
@@ -441,6 +435,12 @@
 ### PhD position in mechanisms of CNS regeneration
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:901806/type:job/where:4/apply:1)
 - **Department:** Department of Cell and Molecular Biology
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+### Professor in prehospital emergency care combined with employment as specialist nurse at Södersjukhuset
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:878903/type:job/where:4/apply:1)
+- **Department:** Department of Clinical Science and Education, Södersjukhuset
 - **Published:** 
 - **Deadline:** 2026-03-06
 
@@ -492,14 +492,14 @@
 - **Published:** 
 - **Deadline:** 2026-03-29
 
-### PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
+### PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
 - **Department:** Department of Neuroscience
 - **Published:** 
 - **Deadline:** 2026-04-05
 
-### PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
+### PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
 - **Department:** Department of Neuroscience
 - **Published:** 
 - **Deadline:** 2026-04-05

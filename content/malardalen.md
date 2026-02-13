@@ -1,5 +1,5 @@
 # Mälardalen University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 2</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
 
 
 <div id="filters" style="margin: 1em 0;">

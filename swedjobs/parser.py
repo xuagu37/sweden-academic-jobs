@@ -311,12 +311,6 @@ def parse_jobs_ki(filepath: str):
 def parse_jobs_kth(filepath: str):
     """
     Parses job listings from KTH's HTML page.
-
-    Args:
-        filepath (str): Path to the saved HTML file.
-
-    Returns:
-        List[Dict]: Parsed job entries with title, URL, department, and deadline.
     """
     base_url = "https://www.kth.se"
     jobs = []
@@ -324,33 +318,34 @@ def parse_jobs_kth(filepath: str):
     with open(filepath, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 
-    for row in soup.select("table.table tbody tr"):
+    # KTH page table typically has no special class
+    for row in soup.select("table tbody tr"):
         cols = row.find_all("td")
         if len(cols) < 4:
             continue
 
-        # Title and URL
         title_link = cols[0].find("a")
+        if not title_link or not title_link.get("href"):
+            continue
+
         title = title_link.get_text(strip=True)
         url = title_link["href"]
         if not url.startswith("http"):
             url = base_url + url
 
-        # Department
         department = cols[2].get_text(strip=True)
-
-        # Deadline
         deadline = cols[3].get_text(strip=True)
 
         jobs.append({
             "title": title,
             "url": url,
             "department": department,
-            "published": "",  # KTH doesn't provide this info
-            "deadline": deadline
+            "published": "",
+            "deadline": deadline,
         })
 
     return jobs
+
 
 def parse_jobs_linkoping(html_path: str) -> list[dict]:
     """
@@ -648,57 +643,56 @@ def parse_jobs_chalmers(html_path: str) -> list[dict]:
 
     return jobs
 
+from bs4 import BeautifulSoup
 
 def parse_jobs_slu(html_path: str) -> list[dict]:
     """
-    Parses job postings from SLU's ReachMee-powered vacancies page.
-
-    Args:
-        html_path (str): Path to the saved HTML file.
-
-    Returns:
-        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    Parses job postings from SLU's ReachMee vacancies page.
     """
     with open(html_path, encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 
-    jobs = []
+    jobs: list[dict] = []
 
-    # Each job is contained in a <tr class="jobs ...">
-    for row in soup.select("tr.jobs"):
+    # SLU job list is a table with id="jobsTable"
+    for row in soup.select("#jobsTable tbody tr"):
         tds = row.find_all("td")
         if len(tds) < 4:
             continue
 
-        # Title and URL
-        title_tag = tds[0].find("a")
-        if not title_tag:
+        # Title + URL
+        a = tds[0].find("a", href=True)
+        if not a:
             continue
 
-        title = title_tag.get_text(strip=True)
-        url = title_tag.get("href")
-        if not url.startswith("http"):
+        title = a.get_text(strip=True)
+        url = a["href"].strip()
+        if url.startswith("/"):
             url = "https://web103.reachmee.com" + url
 
-        # Department (unit)
+        # Department
         department = tds[1].get_text(strip=True)
 
-        # City/location (optional)
-        # city = tds[2].get_text(strip=True)  # Uncomment if needed
-
-        # Deadline from hidden span
-        deadline_tag = tds[3].find("span", attrs={"data-order": "1"})
-        deadline = deadline_tag.get_text(strip=True) if deadline_tag else ""
+        # Deadline (shown as "Published to" on page)
+        # Hidden ISO date exists in: <span data-order="1" style="display:none">YYYY-MM-DD</span>
+        deadline = ""
+        hidden = tds[3].find("span", attrs={"data-order": "1"})
+        if hidden:
+            deadline = hidden.get_text(strip=True)
+        else:
+            # fallback: parse visible dd/mm/yyyy text
+            deadline = tds[3].get_text(" ", strip=True).replace("Published to:", "").strip()
 
         jobs.append({
             "title": title,
             "url": url,
             "department": department,
-            "published": "",  # Not provided in HTML block
+            "published": "",
             "deadline": deadline,
         })
 
     return jobs
+
 
 
 from bs4 import BeautifulSoup

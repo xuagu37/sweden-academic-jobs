@@ -1,5 +1,11 @@
 # Stockholm University
 
+### PhD student in Metabolic regulation of proteome function
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893150/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2026-02-13
+
 ### PhD student in Molecular Biosciences
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894430/where:4/)
 - **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
@@ -9,12 +15,6 @@
 ### Postdoctoral Fellow in Social Psychology
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:887501/where:4/)
 - **Department:** Department of Psychology
-- **Published:** 
-- **Deadline:** 2026-02-13
-
-### PhD student in Metabolic regulation of proteome function
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893150/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
 - **Deadline:** 2026-02-13
 
@@ -48,6 +48,12 @@
 - **Published:** 
 - **Deadline:** 2026-02-20
 
+### PhD student in Bioinformatics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892435/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2026-02-22
+
 ### PhD student in Biochemistry
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892649/where:4/)
 - **Department:** Department of Biochemistry and Biophysics
@@ -60,17 +66,17 @@
 - **Published:** 
 - **Deadline:** 2026-02-22
 
-### PhD student in Bioinformatics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892435/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2026-02-22
-
 ### Scientific Programmer with IT Responsibilities
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896129/where:4/)
 - **Department:** Department of Meteorology
 - **Published:** 
 - **Deadline:** 2026-02-22
+
+### Postdoctoral Fellow in High Energy Physics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:904110/where:4/)
+- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
+- **Published:** 
+- **Deadline:** 2026-02-24
 
 ### Researcher in demography
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:899206/where:4/)
@@ -96,18 +102,6 @@
 - **Published:** 
 - **Deadline:** 2026-02-28
 
-### Postdoctoral Fellow in Quantum Information and Complex Dynamical Systems
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896438/where:4/)
-- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
-- **Published:** 
-- **Deadline:** 2026-02-28
-
-### PhD student in Physical Geography: Remote sensing of ice shelves in East Antarctica
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896551/where:4/)
-- **Department:** Department of Physical Geography
-- **Published:** 
-- **Deadline:** 2026-02-28
-
 ### Postdoctoral Fellow in parasite population genetics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896511/where:4/)
 - **Department:** Department of Zoology
@@ -120,11 +114,17 @@
 - **Published:** 
 - **Deadline:** 2026-02-28
 
-### Postdoctoral fellow at Stockholm Resilience Centre
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900820/where:4/)
-- **Department:** Stockholm Resilience Centre
+### Postdoctoral Fellow in Quantum Information and Complex Dynamical Systems
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896438/where:4/)
+- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
 - **Published:** 
-- **Deadline:** 2026-03-01
+- **Deadline:** 2026-02-28
+
+### PhD student in Physical Geography: Remote sensing of ice shelves in East Antarctica
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896551/where:4/)
+- **Department:** Department of Physical Geography
+- **Published:** 
+- **Deadline:** 2026-02-28
 
 ### PhD student in Law
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895023/where:4/)
@@ -132,14 +132,20 @@
 - **Published:** 
 - **Deadline:** 2026-03-01
 
-### PhD student in Education - the Research School FYSALIS
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895419/where:4/)
+### Postdoctoral fellow at Stockholm Resilience Centre
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900820/where:4/)
+- **Department:** Stockholm Resilience Centre
+- **Published:** 
+- **Deadline:** 2026-03-01
+
+### PhD student in Education
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892822/where:4/)
 - **Department:** Department of Education
 - **Published:** 
 - **Deadline:** 2026-03-02
 
-### PhD student in Education
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892822/where:4/)
+### PhD student in Education - the Research School FYSALIS
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895419/where:4/)
 - **Department:** Department of Education
 - **Published:** 
 - **Deadline:** 2026-03-02

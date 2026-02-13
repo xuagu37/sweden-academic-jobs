@@ -768,3 +768,9 @@
 - **Published:** 
 - **Deadline:** 2 March 2026
 
+### PhD student position – translational diabetes research
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=904034)
+- **Department:** Department of Medical Sciences
+- **Published:** 
+- **Deadline:** 2 March 2026
+

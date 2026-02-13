@@ -282,31 +282,38 @@ def update_index_date(path="content/index.md"):
     print(f"Updated 'Last updated' in {file_path} to {today}...")
     
     
-    
 def add_position_count(file_path: str):
     path = Path(file_path)
     text = path.read_text(encoding="utf-8")
 
     # Count number of job entries
-    job_count = len(re.findall(r'<div class="job"\s', text))-1
+    matches = re.findall(r'<div class="job"\s', text)
+    job_count = len(matches)
 
-    # Prepare the counter line
+    # Never go negative (defensive)
+    if job_count < 0:
+        job_count = 0
+
     count_line = f'<p style="font-size: 1.2em; font-weight: bold;">Total positions: {job_count}</p>'
 
-    # Insert the line after the main heading (first line starting with "# ")
     updated = re.sub(
-        r"^(# .+?)\n(?!_Total positions:)",
+        r"^(# .+?)\n",
         rf"\1\n{count_line}\n",
         text,
         count=1,
         flags=re.MULTILINE
     )
 
-    # Replace any existing count line if present
-    updated = re.sub(r"_Total positions: \d+_", count_line, updated)
+    # If you want “replace existing count line”, match the exact HTML we insert
+    updated = re.sub(
+        r'<p style="font-size: 1\.2em; font-weight: bold;">Total positions: \d+</p>',
+        count_line,
+        updated
+    )
 
     path.write_text(updated, encoding="utf-8")
     print(f"Added job count to {file_path}...")
+
     
     
 def merge_job_markdowns(input_dir: str, output_path: str):

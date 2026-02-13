@@ -82,8 +82,17 @@ def main() -> int:
 
         print(f"\nScraping jobs for {name}...")
         fetcher(url, save_to=str(html_file))
+        
+        try:
+            jobs = job_parser(str(html_file))
+        except Exception as e:
+            print(f"ERROR: parsing failed for {slug}: {e}")
+            jobs = []
 
-        jobs = job_parser(str(html_file))
+        if jobs is None:
+            print(f"WARNING: parser returned None for {slug}. Treating as 0 jobs.")
+            jobs = []        
+
         job_count = len(jobs)
         print(f"Found {job_count} jobs for {name}")
 

@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 128</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 130</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -1295,6 +1295,16 @@
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=904029)
 - **Department:** Institutionen för organismbiologi
+- **Published:** 
+- **Deadline:** 2 March 2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student position – translational diabetes research</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=904034)
+- **Department:** Department of Medical Sciences
 - **Published:** 
 - **Deadline:** 2 March 2026
 </div></div>
