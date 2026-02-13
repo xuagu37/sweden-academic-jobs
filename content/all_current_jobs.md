@@ -1,5 +1,5 @@
 # All Current Jobs
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 648</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 650</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -3561,20 +3561,10 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Regenerative neurobiology (PA2026/262)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant in Project assistant in Sustainable Chemistry and Biotechnology (PA2026/333)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896448/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 13 Feb 2026
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD (PA2026/253)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896163/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898000/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 13 Feb 2026
 
@@ -3591,10 +3581,20 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant in Project assistant in Sustainable Chemistry and Biotechnology (PA2026/333)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Regenerative neurobiology (PA2026/262)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898000/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896448/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 13 Feb 2026
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD (PA2026/253)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896163/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 13 Feb 2026
 
@@ -3631,16 +3631,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant in genetics and diabetes (PA2026/391)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899545/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 17 Feb 2026
-
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Position in Remote Sensing of Crop Growth (PA2026/236)</h3>
 
@@ -3651,10 +3641,40 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant in genetics and diabetes (PA2026/391)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899545/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 17 Feb 2026
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Infection Medicine (PA2026/314)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897562/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 18 Feb 2026
+
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Research Fellow in Multimodal Liquid Biopsy Analytics (Extracellular Vesicles, ToF-SIMS/MALDI, and Machine Learning) (PA2026/374)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899001/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 18 Feb 2026
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in immunotechnology (PA2026/350)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898446/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 18 Feb 2026
 
@@ -3671,22 +3691,12 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Infection Medicine (PA2026/314)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellow at the Division of Molecular Skeletal Biology (PA2026/266)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897562/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896559/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 18 Feb 2026
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral fellow in immunotechnology (PA2026/350)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898446/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 18 Feb 2026
+- **Deadline:** 19 Feb 2026
 
 
 </div>
@@ -3715,16 +3725,6 @@
 <h3>Assistant Researcher to the Unit Clinical Memory Research (PA2026/281)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896957/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 19 Feb 2026
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellow at the Division of Molecular Skeletal Biology (PA2026/266)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896559/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 19 Feb 2026
 
@@ -3771,20 +3771,20 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Associate researcher in Neurosurgery (PA2026/355)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Bioinformatician in Microbial Gene Context Analysis (PA2026/425)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898553/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:900954/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 23 Feb 2026
 
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Bioinformatician in Microbial Gene Context Analysis (PA2026/425)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate researcher in Neurosurgery (PA2026/355)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:900954/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898553/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 23 Feb 2026
 
@@ -3831,6 +3831,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Scientist at the STM/Mjolnir lab (temporary) (PA2026/505)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903292/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 27 Feb 2026
+
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral Student in Service Studies for the project “Sustainable Leadership for the Benefit of Citizens.” (PA2025/3699)</h3>
 
@@ -3847,56 +3857,6 @@
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897386/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 28 Feb 2026
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Control System Software Engineer (PA2026/432)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901063/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral Students in Automatic Control (PA2026/40)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891846/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellows in Automatic Control (PA2026/109)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893105/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>At least one Doctoral student in Psychology (PA2026/175)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:894675/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor (Associate Senior Lecturer) with specialization in Cognitive Robotics (PA2025/3065)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:870505/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
 
 
 </div>
@@ -3922,11 +3882,51 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral fellow in protein crystallography/computational chemistry (PA2026/7)</h3>
+<h3>At least one Doctoral student in Psychology (PA2026/175)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890925/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:894675/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 2 Mar 2026
+- **Deadline:** 1 Mar 2026
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Control System Software Engineer (PA2026/432)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901063/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor (Associate Senior Lecturer) with specialization in Cognitive Robotics (PA2025/3065)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:870505/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellows in Automatic Control (PA2026/109)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893105/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral Students in Automatic Control (PA2026/40)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891846/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
 
 
 </div>
@@ -3935,6 +3935,16 @@
 <h3>Research Engineer at the Department of Earth and Environmental Sciences (PA2026/311)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897522/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 2 Mar 2026
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in protein crystallography/computational chemistry (PA2026/7)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890925/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 2 Mar 2026
 
@@ -3981,20 +3991,20 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher to the group for protein chemistry (PA2026/445)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Assistant for the research project The Widening Gulf Between History and Memory: The Holocaust and the Undigested Past in Post-Communist Europe (PA2026/344)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901516/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898315/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 3 Mar 2026
 
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Assistant for the research project The Widening Gulf Between History and Memory: The Holocaust and the Undigested Past in Post-Communist Europe (PA2026/344)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher to the group for protein chemistry (PA2026/445)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898315/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901516/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 3 Mar 2026
 
@@ -4061,6 +4071,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Gender Studies (PA2026/483)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902476/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 10 Mar 2026
+
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD-Student in Gender Studies (PA2026/482)</h3>
 
@@ -4072,11 +4092,11 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in Gender Studies (PA2026/483)</h3>
+<h3>PostDoc Electrochemistry (PA2026/499)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902476/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903111/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 10 Mar 2026
+- **Deadline:** 15 Mar 2026
 
 
 </div>
@@ -4992,9 +5012,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
+<h3>Doctoral student in philosophy</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -5002,9 +5022,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in philosophy</h3>
+<h3>Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -5022,9 +5042,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)</h3>
+<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -5082,39 +5102,19 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in ethnology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Gender Studies, focusing on Educational Sciences</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Sámi (Language didactics)</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in history</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history_877484/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in ethnology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -5131,10 +5131,30 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Sámi (Language didactics)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Staff Scientist in Membrane Biology 9 months</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Gender Studies, focusing on Educational Sciences</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -5172,16 +5192,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>2 PhD students for the Department of Political Science</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/2-phd-students-for-the-department-of-political-science_901941/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-31
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD position in plant science</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-_900417/)
@@ -5195,6 +5205,16 @@
 <h3>Post doctor within Host-Pathogen Interactions</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-within-host-pathogen-interactions_900503/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-31
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>2 PhD students for the Department of Political Science</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/2-phd-students-for-the-department-of-political-science_901941/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-31
 

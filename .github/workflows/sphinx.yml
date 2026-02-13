@@ -95,6 +95,7 @@ jobs:
         if: ${{ env.GENERATE_SINGLEHTML == 'true' }}
         run: |
           make singlehtml
+          python scripts/fix_html_links.py _build/singlehtml
           mv _build/singlehtml/ _build/dirhtml/singlehtml/
 
       # PDF if requested

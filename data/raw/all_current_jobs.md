@@ -2125,14 +2125,8 @@
 - **Deadline:**
 
 
-### PhD Regenerative neurobiology (PA2026/262)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896448/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 13 Feb 2026
-
-
-### PhD (PA2026/253)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896163/type:job/where:4/apply:1)
+### Project assistant in Project assistant in Sustainable Chemistry and Biotechnology (PA2026/333)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898000/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 13 Feb 2026
 
@@ -2143,8 +2137,14 @@
 - **Deadline:** 13 Feb 2026
 
 
-### Project assistant in Project assistant in Sustainable Chemistry and Biotechnology (PA2026/333)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898000/type:job/where:4/apply:1)
+### PhD Regenerative neurobiology (PA2026/262)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896448/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 13 Feb 2026
+
+
+### PhD (PA2026/253)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896163/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 13 Feb 2026
 
@@ -2167,20 +2167,32 @@
 - **Deadline:** 16 Feb 2026
 
 
-### Project assistant in genetics and diabetes (PA2026/391)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899545/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 17 Feb 2026
-
-
 ### Postdoctoral Position in Remote Sensing of Crop Growth (PA2026/236)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896077/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 17 Feb 2026
 
 
+### Project assistant in genetics and diabetes (PA2026/391)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899545/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 17 Feb 2026
+
+
+### PhD student in Infection Medicine (PA2026/314)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897562/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 18 Feb 2026
+
+
 ### Postdoctoral Research Fellow in Multimodal Liquid Biopsy Analytics (Extracellular Vesicles, ToF-SIMS/MALDI, and Machine Learning) (PA2026/374)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899001/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 18 Feb 2026
+
+
+### Post-doctoral fellow in immunotechnology (PA2026/350)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898446/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 18 Feb 2026
 
@@ -2191,16 +2203,10 @@
 - **Deadline:** 18 Feb 2026
 
 
-### PhD student in Infection Medicine (PA2026/314)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897562/type:job/where:4/apply:1)
+### Postdoctoral fellow at the Division of Molecular Skeletal Biology (PA2026/266)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896559/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 18 Feb 2026
-
-
-### Post-doctoral fellow in immunotechnology (PA2026/350)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898446/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 18 Feb 2026
+- **Deadline:** 19 Feb 2026
 
 
 ### Staff scientist LUNARC (PA2026/277)
@@ -2217,12 +2223,6 @@
 
 ### Assistant Researcher to the Unit Clinical Memory Research (PA2026/281)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896957/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 19 Feb 2026
-
-
-### Postdoctoral fellow at the Division of Molecular Skeletal Biology (PA2026/266)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896559/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 19 Feb 2026
 
@@ -2251,14 +2251,14 @@
 - **Deadline:** 22 Feb 2026
 
 
-### Associate researcher in Neurosurgery (PA2026/355)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898553/type:job/where:4/apply:1)
+### Bioinformatician in Microbial Gene Context Analysis (PA2026/425)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:900954/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 23 Feb 2026
 
 
-### Bioinformatician in Microbial Gene Context Analysis (PA2026/425)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:900954/type:job/where:4/apply:1)
+### Associate researcher in Neurosurgery (PA2026/355)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898553/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 23 Feb 2026
 
@@ -2287,6 +2287,12 @@
 - **Deadline:** 27 Feb 2026
 
 
+### Scientist at the STM/Mjolnir lab (temporary) (PA2026/505)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903292/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 27 Feb 2026
+
+
 ### Doctoral Student in Service Studies for the project “Sustainable Leadership for the Benefit of Citizens.” (PA2025/3699)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:887353/type:job/where:4/apply:1)
 - **University:** Lund University
@@ -2297,36 +2303,6 @@
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897386/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 28 Feb 2026
-
-
-### Control System Software Engineer (PA2026/432)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901063/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-### Doctoral Students in Automatic Control (PA2026/40)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891846/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-### Postdoctoral fellows in Automatic Control (PA2026/109)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893105/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-### At least one Doctoral student in Psychology (PA2026/175)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:894675/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-### Assistant Professor (Associate Senior Lecturer) with specialization in Cognitive Robotics (PA2025/3065)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:870505/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
 
 
 ### Doctoral student in East and South‐East Asia Studies (PA2026/103)
@@ -2341,14 +2317,44 @@
 - **Deadline:** 1 Mar 2026
 
 
-### Post-doctoral fellow in protein crystallography/computational chemistry (PA2026/7)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890925/type:job/where:4/apply:1)
+### At least one Doctoral student in Psychology (PA2026/175)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:894675/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 2 Mar 2026
+- **Deadline:** 1 Mar 2026
+
+
+### Control System Software Engineer (PA2026/432)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901063/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
+### Assistant Professor (Associate Senior Lecturer) with specialization in Cognitive Robotics (PA2025/3065)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:870505/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
+### Postdoctoral fellows in Automatic Control (PA2026/109)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893105/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
+### Doctoral Students in Automatic Control (PA2026/40)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891846/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
 
 
 ### Research Engineer at the Department of Earth and Environmental Sciences (PA2026/311)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897522/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 2 Mar 2026
+
+
+### Post-doctoral fellow in protein crystallography/computational chemistry (PA2026/7)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890925/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 2 Mar 2026
 
@@ -2377,14 +2383,14 @@
 - **Deadline:** 2 Mar 2026
 
 
-### Postdoctoral researcher to the group for protein chemistry (PA2026/445)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901516/type:job/where:4/apply:1)
+### Assistant for the research project The Widening Gulf Between History and Memory: The Holocaust and the Undigested Past in Post-Communist Europe (PA2026/344)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898315/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 3 Mar 2026
 
 
-### Assistant for the research project The Widening Gulf Between History and Memory: The Holocaust and the Undigested Past in Post-Communist Europe (PA2026/344)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898315/type:job/where:4/apply:1)
+### Postdoctoral researcher to the group for protein chemistry (PA2026/445)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901516/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 3 Mar 2026
 
@@ -2425,16 +2431,22 @@
 - **Deadline:** 8 Mar 2026
 
 
+### Postdoctoral researcher in Gender Studies (PA2026/483)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902476/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 10 Mar 2026
+
+
 ### PhD-Student in Gender Studies (PA2026/482)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902469/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 10 Mar 2026
 
 
-### Postdoctoral researcher in Gender Studies (PA2026/483)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902476/type:job/where:4/apply:1)
+### PostDoc Electrochemistry (PA2026/499)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903111/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 10 Mar 2026
+- **Deadline:** 15 Mar 2026
 
 
 ### Technician to CoSAXS and ForMAX (PA2026/79)
@@ -2983,14 +2995,14 @@
 - **Deadline:** 2026-02-28
 
 
-### Doctoral student in English, Russian, French, or Spanish Literature
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+### Doctoral student in philosophy
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
 
-### Doctoral student in philosophy
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -3001,8 +3013,8 @@
 - **Deadline:** 2026-03-06
 
 
-### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
+### Doctoral student in English, Russian, French, or Spanish Literature
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -3037,26 +3049,14 @@
 - **Deadline:** 2026-03-06
 
 
-### Doctoral student in ethnology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-### PhD position in Gender Studies, focusing on Educational Sciences
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-### Doctoral student in Sámi (Language didactics)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
 ### Doctoral student in history
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history_877484/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+### Doctoral student in ethnology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -3067,8 +3067,20 @@
 - **Deadline:** 2026-03-06
 
 
+### Doctoral student in Sámi (Language didactics)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
 ### Staff Scientist in Membrane Biology 9 months
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+### PhD position in Gender Studies, focusing on Educational Sciences
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -3091,12 +3103,6 @@
 - **Deadline:** 2026-03-26
 
 
-### 2 PhD students for the Department of Political Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/2-phd-students-for-the-department-of-political-science_901941/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-31
-
-
 ### PhD position in plant science
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-_900417/)
 - **University:** Umeå University
@@ -3105,6 +3111,12 @@
 
 ### Post doctor within Host-Pathogen Interactions
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-within-host-pathogen-interactions_900503/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-31
+
+
+### 2 PhD students for the Department of Political Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/2-phd-students-for-the-department-of-political-science_901941/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-31
 

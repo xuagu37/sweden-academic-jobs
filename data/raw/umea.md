@@ -60,20 +60,20 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctor-2-years-in-organic-electronics-with-focus-on-the-development-of-a-novel-light-emission-technology_896234/)
 - **Deadline:** 2026-02-28
 
-### Doctoral student in English, Russian, French, or Spanish Literature
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
-- **Deadline:** 2026-03-06
-
 ### Doctoral student in philosophy
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+- **Deadline:** 2026-03-06
+
+### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
 - **Deadline:** 2026-03-06
 
 ### Doctoral student in Media and communications studies
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
 - **Deadline:** 2026-03-06
 
-### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
+### Doctoral student in English, Russian, French, or Spanish Literature
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
 - **Deadline:** 2026-03-06
 
 ### Doctoral student in History of Science and Ideas
@@ -96,28 +96,28 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-educational-work-with-focus-on-language-_894412/)
 - **Deadline:** 2026-03-06
 
-### Doctoral student in ethnology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
-- **Deadline:** 2026-03-06
-
-### PhD position in Gender Studies, focusing on Educational Sciences
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
-- **Deadline:** 2026-03-06
-
-### Doctoral student in Sámi (Language didactics)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
-- **Deadline:** 2026-03-06
-
 ### Doctoral student in history
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history_877484/)
+- **Deadline:** 2026-03-06
+
+### Doctoral student in ethnology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **Deadline:** 2026-03-06
 
 ### Doctoral student in Religious Studies/Theology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
 - **Deadline:** 2026-03-06
 
+### Doctoral student in Sámi (Language didactics)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
+- **Deadline:** 2026-03-06
+
 ### Staff Scientist in Membrane Biology 9 months
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **Deadline:** 2026-03-06
+
+### PhD position in Gender Studies, focusing on Educational Sciences
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
 - **Deadline:** 2026-03-06
 
 ### Postdoctoral position in computational eco-epidemiology
@@ -132,15 +132,15 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-3-years-within-mountain-plant-community-and-ecosystem-processes-across-a-globally-distributed-experiment-_896357/)
 - **Deadline:** 2026-03-26
 
-### 2 PhD students for the Department of Political Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/2-phd-students-for-the-department-of-political-science_901941/)
-- **Deadline:** 2026-03-31
-
 ### PhD position in plant science
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-_900417/)
 - **Deadline:** 2026-03-31
 
 ### Post doctor within Host-Pathogen Interactions
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-within-host-pathogen-interactions_900503/)
+- **Deadline:** 2026-03-31
+
+### 2 PhD students for the Department of Political Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/2-phd-students-for-the-department-of-political-science_901941/)
 - **Deadline:** 2026-03-31
 
