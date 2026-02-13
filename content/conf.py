@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Sweden Academic Positions"
-copyright = "2025, Xuan Gu"
-author = "Xuan Gu"
+project = "Sweden Academic Jobs"
+copyright = "2026, Sweden Academic Jobs"
+author = "Sweden Academic Jobs"
 github_user = "xuagu37"
 github_repo_name = ""  # auto-detected from dirname if blank
 github_version = "main"

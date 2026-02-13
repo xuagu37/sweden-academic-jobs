@@ -294,7 +294,7 @@ def add_position_count(file_path: str):
     if job_count < 0:
         job_count = 0
 
-    count_line = f'<p style="font-size: 1.2em; font-weight: bold;">Total positions: {job_count}</p>'
+    count_line = f'<p style="font-size: 1.2em; font-weight: bold;">Total jobs: {job_count}</p>'
 
     updated = re.sub(
         r"^(# .+?)\n",
@@ -306,7 +306,7 @@ def add_position_count(file_path: str):
 
     # If you want “replace existing count line”, match the exact HTML we insert
     updated = re.sub(
-        r'<p style="font-size: 1\.2em; font-weight: bold;">Total positions: \d+</p>',
+        r'<p style="font-size: 1\.2em; font-weight: bold;">Total jobs: \d+</p>',
         count_line,
         updated
     )
@@ -318,7 +318,7 @@ def add_position_count(file_path: str):
     
 def merge_job_markdowns(input_dir: str, output_path: str):
     """
-    Merges multiple Markdown job files into a single file under the heading "All Current Positions",
+    Merges multiple Markdown job files into a single file under the heading "All Current Jobs",
     and injects the university name into each job entry. Skips 'all_current_jobs.md'.
 
     Args:
@@ -328,7 +328,7 @@ def merge_job_markdowns(input_dir: str, output_path: str):
     input_dir = Path(input_dir)
     output_path = Path(output_path)
 
-    merged = ["# All Current Positions\n"]
+    merged = ["# All Current Jobs\n"]
 
     for md_file in sorted(input_dir.glob("*.md")):
         if md_file.name == output_path.name:

@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 35</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 35</p>
 
 
 <div id="filters" style="margin: 1em 0;">

@@ -1,5 +1,5 @@
 # Dalarna University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 0</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 0</p>
 
 
 <div id="filters" style="margin: 1em 0;">

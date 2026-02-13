@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 130</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 130</p>
 
 
 <div id="filters" style="margin: 1em 0;">
