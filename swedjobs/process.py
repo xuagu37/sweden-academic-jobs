@@ -282,7 +282,7 @@ def update_index_date(path="content/index.md"):
     print(f"Updated 'Last updated' in {file_path} to {today}...")
     
     
-def add_position_count(file_path: str):
+def add_job_count(file_path: str):
     path = Path(file_path)
     text = path.read_text(encoding="utf-8")
 

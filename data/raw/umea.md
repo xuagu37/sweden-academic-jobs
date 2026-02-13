@@ -60,6 +60,12 @@
 - **Published:** 
 - **Deadline:** 2026-02-27
 
+### PhD Student in Education with a focus on AI in Teacher Education (GRAITE)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
+- **Department:** Department of Education
+- **Published:** 
+- **Deadline:** 2026-02-27
+
 ### PhD Student in Education with a Focus on Vocational Education
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-education-with-a-focus-on-vocational-education_897383/)
 - **Department:** Department of Education
@@ -68,12 +74,6 @@
 
 ### KOPIA AV KOPIA AV PhD Student in Education with a focus on AI in Teacher Education (LH)
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/kopia-av-kopia-av-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-lh_897641/)
-- **Department:** Department of Education
-- **Published:** 
-- **Deadline:** 2026-02-27
-
-### PhD Student in Education with a focus on AI in Teacher Education (GRAITE)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
 - **Department:** Department of Education
 - **Published:** 
 - **Deadline:** 2026-02-27
@@ -144,6 +144,12 @@
 - **Published:** 
 - **Deadline:** 2026-03-06
 
+### Staff Scientist in Membrane Biology 9 months
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **Department:** Department of Medical and Translational Biology
+- **Published:** 
+- **Deadline:** 2026-03-06
+
 ### Doctoral student in ethnology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **Department:** Department of Culture and Media Studies
@@ -159,12 +165,6 @@
 ### Doctoral student in Religious Studies/Theology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
 - **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-### Staff Scientist in Membrane Biology 9 months
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
-- **Department:** Department of Medical and Translational Biology
 - **Published:** 
 - **Deadline:** 2026-03-06
 

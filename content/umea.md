@@ -121,6 +121,16 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Education with a focus on AI in Teacher Education (GRAITE)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
+- **Department:** Department of Education
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Education with a Focus on Vocational Education</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-education-with-a-focus-on-vocational-education_897383/)
@@ -134,16 +144,6 @@
 <h3>KOPIA AV KOPIA AV PhD Student in Education with a focus on AI in Teacher Education (LH)</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/kopia-av-kopia-av-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-lh_897641/)
-- **Department:** Department of Education
-- **Published:** 
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Education with a focus on AI in Teacher Education (GRAITE)</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
 - **Department:** Department of Education
 - **Published:** 
 - **Deadline:** 2026-02-27
@@ -260,6 +260,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist in Membrane Biology 9 months</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **Department:** Department of Medical and Translational Biology
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in ethnology</h3>
 
@@ -285,16 +295,6 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
 - **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Staff Scientist in Membrane Biology 9 months</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
-- **Department:** Department of Medical and Translational Biology
 - **Published:** 
 - **Deadline:** 2026-03-06
 

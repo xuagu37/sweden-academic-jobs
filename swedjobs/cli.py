@@ -6,7 +6,7 @@ from .process import (
     convert_md_headings_to_html,
     add_search_and_filter,
     update_index_date,
-    add_position_count,
+    add_job_count,
     merge_job_markdowns,
 )
 
@@ -109,7 +109,7 @@ def main() -> int:
         print(f"Processing jobs for {name}...")
         convert_md_headings_to_html(str(raw_md), str(processed_md))
         add_search_and_filter(Path(processed_md))
-        add_position_count(str(processed_md))
+        add_job_count(str(processed_md))
 
     # Update index date if index exists
     index_md = CONTENT_DIR / "index.md"
@@ -129,7 +129,7 @@ def main() -> int:
         str(CONTENT_DIR / "all_current_jobs.md"),
     )
     add_search_and_filter(Path(CONTENT_DIR / "all_current_jobs.md"))
-    add_position_count(str(CONTENT_DIR / "all_current_jobs.md"))
+    add_job_count(str(CONTENT_DIR / "all_current_jobs.md"))
 
     print("\nAll universities merged successfully!")
     return 0

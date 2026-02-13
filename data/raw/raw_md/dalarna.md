@@ -1,2 +1,0 @@
-# Dalarna University
-
