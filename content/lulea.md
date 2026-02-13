@@ -1,5 +1,5 @@
 # Luleå University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 16</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 15</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -24,8 +24,6 @@
 <h3>Postdoc position in Robotics and Artificial Intelligence</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9826)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -34,8 +32,6 @@
 <h3>Postdoc position in Robotics and Artificial Intelligence</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9828)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -44,8 +40,6 @@
 <h3>Professor of Cyber-Physical Systems</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9742)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -54,8 +48,6 @@
 <h3>Associate Professor of Cyber-Physical Systems</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9748)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -64,8 +56,6 @@
 <h3>Postdoc position in Space Systems with focus on spacecraft avionics</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9783)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -74,8 +64,6 @@
 <h3>PhD student in Biochemical Process Engineering</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9780)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -84,8 +72,6 @@
 <h3>Senior Lecturer in Machine Learning</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9842)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -94,8 +80,6 @@
 <h3>PhD Student in Mineral Processing</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9786)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -104,8 +88,6 @@
 <h3>PhD Student in Urban Water Engineering – climate change effects and adaptation in urban streams</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9797)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -114,8 +96,6 @@
 <h3>PhD Student in Urban Water Engineering – Stormwater sediment: from risk to resource</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9800)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -124,8 +104,6 @@
 <h3>PhD Student in Urban Water Engineering – hydrological dynamics in nature-based stormwater solutions</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9806)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -134,8 +112,6 @@
 <h3>Senior Research Engineer in Robotics and Artificial Intelligence</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9862)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -144,8 +120,6 @@
 <h3>PhD Student in Robotics and Artificial Intelligence</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9860)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -154,8 +128,6 @@
 <h3>PhD Student in Robotics and Artificial Intelligence</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9864)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 
 
 </div>
@@ -164,8 +136,6 @@
 <h3>Postdoctoral position in Applied Geochemistry</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9695)
-- **Department:** 
-- **Published:** 
 - **Deadline:**
 </div></div>
 

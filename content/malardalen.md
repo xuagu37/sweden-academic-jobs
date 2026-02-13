@@ -1,5 +1,5 @@
 # Mälardalen University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 2</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -24,8 +24,6 @@
 <h3>PhD Student in Medical and Health Engineering</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3651)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 2026-02-17
 
 </div>
@@ -34,8 +32,6 @@
 <h3>Rights of priority for re-employment at Mälardalen University</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3376)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 2026-12-31
 </div></div>
 

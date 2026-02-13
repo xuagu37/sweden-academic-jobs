@@ -102,8 +102,8 @@ def main() -> int:
             for job in jobs:
                 f.write(f"### {job['title']}\n")
                 f.write(f"- **Link:** [View job posting]({job['url']})\n")
-                f.write(f"- **Department:** {job['department']}\n")
-                f.write(f"- **Published:** {job['published']}\n")
+                # f.write(f"- **Department:** {job['department']}\n")
+                # f.write(f"- **Published:** {job['published']}\n")
                 f.write(f"- **Deadline:** {job['deadline']}\n\n")
 
         print(f"Processing jobs for {name}...")

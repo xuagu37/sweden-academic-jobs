@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 5</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 4</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -24,8 +24,6 @@
 <h3>Professor of Biology specialising in molecular physiology</h3>
 
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250355)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 2026-02-27
 
 </div>
@@ -34,8 +32,6 @@
 <h3>Doctoral student in Biology with specialisation in Toxicology</h3>
 
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260029)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 2026-03-04
 
 </div>
@@ -44,8 +40,6 @@
 <h3>Senior lecturers in Statistics</h3>
 
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260028)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 2026-03-06
 
 </div>
@@ -54,8 +48,6 @@
 <h3>Postdoctoral researchers in Computer Science, Cybersecurity</h3>
 
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260006)
-- **Department:** 
-- **Published:** 
 - **Deadline:** 2026-03-11
 </div></div>
 

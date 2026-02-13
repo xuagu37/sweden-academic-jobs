@@ -207,7 +207,7 @@ def add_job_count(file_path: str):
     text = path.read_text(encoding="utf-8")
 
     # Count number of job entries
-    matches = re.findall(r'<div class="job"\s', text)
+    matches = re.findall(r'Deadline:', text)
     job_count = len(matches)
 
     # Never go negative (defensive)
