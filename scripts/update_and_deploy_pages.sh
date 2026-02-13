@@ -6,6 +6,6 @@ set -e  # Exit on error
 module load Miniforge3/24.11.3-2
 mamba activate sweden-academic-positions
 
-python -m scripts.main
+python -m swedjobs
 bash scripts/deploy_pages.sh 
 

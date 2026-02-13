@@ -60,6 +60,12 @@
 - **Published:** 
 - **Deadline:** 2026-02-27
 
+### PhD Student in Education with a focus on AI in Teacher Education (GRAITE)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
+- **Department:** Department of Education
+- **Published:** 
+- **Deadline:** 2026-02-27
+
 ### PhD Student in Education with a Focus on Vocational Education
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-education-with-a-focus-on-vocational-education_897383/)
 - **Department:** Department of Education
@@ -68,12 +74,6 @@
 
 ### KOPIA AV KOPIA AV PhD Student in Education with a focus on AI in Teacher Education (LH)
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/kopia-av-kopia-av-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-lh_897641/)
-- **Department:** Department of Education
-- **Published:** 
-- **Deadline:** 2026-02-27
-
-### PhD Student in Education with a focus on AI in Teacher Education (GRAITE)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
 - **Department:** Department of Education
 - **Published:** 
 - **Deadline:** 2026-02-27
@@ -89,6 +89,24 @@
 - **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2026-02-28
+
+### Doctoral student in English, Russian, French, or Spanish Literature
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+- **Department:** Department of Language Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+### Doctoral student in philosophy
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+### Doctoral student in Media and communications studies
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
+- **Department:** Department of Culture and Media Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
 
 ### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
@@ -126,20 +144,8 @@
 - **Published:** 
 - **Deadline:** 2026-03-06
 
-### Doctoral student in philosophy
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-### Doctoral student in English, Russian, French, or Spanish Literature
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
-- **Department:** Department of Language Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-### Doctoral student in Media and communications studies
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
+### Doctoral student in ethnology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **Department:** Department of Culture and Media Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
@@ -171,12 +177,6 @@
 ### PhD position in Gender Studies, focusing on Educational Sciences
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
 - **Department:** 
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-### Doctoral student in ethnology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
-- **Department:** Department of Culture and Media Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
 

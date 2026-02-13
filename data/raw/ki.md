@@ -1,5 +1,17 @@
 # Karolinska Institute
 
+### Postdoctoral Researcher in <subject area>
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895168/type:job/where:4/apply:1)
+- **Department:** Department for Clinical Science, Intervention and Technology
+- **Published:** 
+- **Deadline:** 2026-02-13
+
+### Research Assistant with experience in qualitative methods for process evaluation of the National Board of Health and Welfare’s national development team
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898777/type:job/where:4/apply:1)
+- **Department:** Department of Learning, Informatics, Management and Ethics
+- **Published:** 
+- **Deadline:** 2026-02-13
+
 ### Postdoctoral researcher in women’s health epidemiology
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898980/type:job/where:4/apply:1)
 - **Department:** The Institute of Environmental Medicine
@@ -48,18 +60,6 @@
 - **Published:** 
 - **Deadline:** 2026-02-13
 
-### Postdoctoral Researcher in <subject area>
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895168/type:job/where:4/apply:1)
-- **Department:** Department for Clinical Science, Intervention and Technology
-- **Published:** 
-- **Deadline:** 2026-02-13
-
-### Research Assistant with experience in qualitative methods for process evaluation of the National Board of Health and Welfare’s national development team
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898777/type:job/where:4/apply:1)
-- **Department:** Department of Learning, Informatics, Management and Ethics
-- **Published:** 
-- **Deadline:** 2026-02-13
-
 ### Lab manager in organoid technology, endoderm biology and omics.
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895416/type:job/where:4/apply:1)
 - **Department:** Division of Medical systems bioengineering
@@ -83,6 +83,18 @@
 - **Department:** Molecular Metabolism
 - **Published:** 
 - **Deadline:** 2026-02-15
+
+### Research Assistant in Neuroscience
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893855/type:job/where:4/apply:1)
+- **Department:** Meletis
+- **Published:** 
+- **Deadline:** 2026-02-16
+
+### Post doctoral bioinformatics studies in vaccine immunology (scholarship)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899914/type:job/where:4/apply:1)
+- **Department:** Immunology and Respiratory Medicine
+- **Published:** 
+- **Deadline:** 2026-02-16
 
 ### Doctoral position in health data science
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:887419/type:job/where:4/apply:1)
@@ -114,17 +126,17 @@
 - **Published:** 
 - **Deadline:** 2026-02-16
 
-### Research Assistant in Neuroscience
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893855/type:job/where:4/apply:1)
-- **Department:** Meletis
+### Psykolog med kursansvar till avdelningen för pedodonti
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900347/type:job/where:4/apply:1)
+- **Department:** Department of Dental Medicine
 - **Published:** 
-- **Deadline:** 2026-02-16
+- **Deadline:** 2026-02-17
 
-### Post doctoral bioinformatics studies in vaccine immunology (scholarship)
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899914/type:job/where:4/apply:1)
-- **Department:** Immunology and Respiratory Medicine
+### Postdoctoral Researcher in Diabetes Epidemiology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897077/type:job/where:4/apply:1)
+- **Department:** The Institute of Environmental Medicine
 - **Published:** 
-- **Deadline:** 2026-02-16
+- **Deadline:** 2026-02-17
 
 ### Scholarship at basic or advanced level in research on extracellular vesicles
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897674/type:job/where:4/apply:1)
@@ -162,17 +174,17 @@
 - **Published:** 
 - **Deadline:** 2026-02-17
 
-### Psykolog med kursansvar till avdelningen för pedodonti
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900347/type:job/where:4/apply:1)
-- **Department:** Department of Dental Medicine
+### Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
+- **Department:** Department of Clinical Neuroscience
 - **Published:** 
-- **Deadline:** 2026-02-17
+- **Deadline:** 2026-02-18
 
-### Postdoctoral Researcher in Diabetes Epidemiology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897077/type:job/where:4/apply:1)
-- **Department:** The Institute of Environmental Medicine
+### Postdoctoral Researcher in Psychoneuroimmunology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894098/type:job/where:4/apply:1)
+- **Department:** Department of Clinical Neuroscience
 - **Published:** 
-- **Deadline:** 2026-02-17
+- **Deadline:** 2026-02-18
 
 ### Postdoc within epidemiology and register based research about heart failure in older people
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897678/type:job/where:4/apply:1)
@@ -204,17 +216,23 @@
 - **Published:** 
 - **Deadline:** 2026-02-18
 
-### Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
-- **Department:** Department of Clinical Neuroscience
+### Postdoctoral studies in HPV epidemiology (scholarship)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901174/type:job/where:4/apply:1)
+- **Department:** Department for Clinical Science, Intervention and Technology
 - **Published:** 
-- **Deadline:** 2026-02-18
+- **Deadline:** 2026-02-20
 
-### Postdoctoral Researcher in Psychoneuroimmunology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894098/type:job/where:4/apply:1)
-- **Department:** Department of Clinical Neuroscience
+### Amanuens inom utveckling av datoralgoritmer för framtidens cellterapier
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898360/type:job/where:4/apply:1)
+- **Department:** Department of Laboratory Medicine
 - **Published:** 
-- **Deadline:** 2026-02-18
+- **Deadline:** 2026-02-20
+
+### Postdoctoral Researcher in Registry-Based Psoriasis Research
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:890949/type:job/where:4/apply:1)
+- **Department:** Dermatology and venereology division
+- **Published:** 
+- **Deadline:** 2026-02-20
 
 ### Research specialist in single-cell genomics and malaria
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900414/type:job/where:4/apply:1)
@@ -246,24 +264,6 @@
 - **Published:** 
 - **Deadline:** 2026-02-20
 
-### Postdoctoral studies in HPV epidemiology (scholarship)
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901174/type:job/where:4/apply:1)
-- **Department:** Department for Clinical Science, Intervention and Technology
-- **Published:** 
-- **Deadline:** 2026-02-20
-
-### Amanuens inom utveckling av datoralgoritmer för framtidens cellterapier
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898360/type:job/where:4/apply:1)
-- **Department:** Department of Laboratory Medicine
-- **Published:** 
-- **Deadline:** 2026-02-20
-
-### Postdoctoral Researcher in Registry-Based Psoriasis Research
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:890949/type:job/where:4/apply:1)
-- **Department:** Dermatology and venereology division
-- **Published:** 
-- **Deadline:** 2026-02-20
-
 ### Postdoctoral Researcher in affective learning and decision-making
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894717/type:job/where:4/apply:1)
 - **Department:** Department of Clinical Neuroscience
@@ -282,15 +282,15 @@
 - **Published:** 
 - **Deadline:** 2026-02-22
 
-### Bioinformatician Position for Analyses of Autoimmune Diseases
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899649/type:job/where:4/apply:1)
-- **Department:** The Institute of Environmental Medicine
-- **Published:** 
-- **Deadline:** 2026-02-23
-
 ### Postdoctoral Researcher in Clinical Genetics with a Focus on Molecular Hematology
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901944/type:job/where:4/apply:1)
 - **Department:** Department of Molecular Medicine and Surgery
+- **Published:** 
+- **Deadline:** 2026-02-23
+
+### Bioinformatician Position for Analyses of Autoimmune Diseases
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899649/type:job/where:4/apply:1)
+- **Department:** The Institute of Environmental Medicine
 - **Published:** 
 - **Deadline:** 2026-02-23
 
@@ -354,6 +354,12 @@
 - **Published:** 
 - **Deadline:** 2026-02-27
 
+### Postdoctoral Researcher in antibiotic resistance
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901033/type:job/where:4/apply:1)
+- **Department:** Microbial Pathogenesis.Loh
+- **Published:** 
+- **Deadline:** 2026-02-28
+
 ### Research Assistant position in Patrik Ernfors’ group
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902191/type:job/where:4/apply:1)
 - **Department:** Division of Molecular Neurobiology
@@ -375,12 +381,6 @@
 ### Doctoral position in”New Oligonucleotide Constructs for Enhanced Delivery”
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:896801/type:job/where:4/apply:1)
 - **Department:** Department of Laboratory Medicine
-- **Published:** 
-- **Deadline:** 2026-02-28
-
-### Postdoctoral Researcher in antibiotic resistance
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901033/type:job/where:4/apply:1)
-- **Department:** Microbial Pathogenesis.Loh
 - **Published:** 
 - **Deadline:** 2026-02-28
 
@@ -450,15 +450,15 @@
 - **Published:** 
 - **Deadline:** 2026-03-08
 
-### Postdoctoral Researcher studying epigenetic changes in quiescent cells
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898374/type:job/where:4/apply:1)
-- **Department:** Department of Medicine, Huddinge
-- **Published:** 
-- **Deadline:** 2026-03-10
-
 ### Djurtekniker (sommarvikariat)
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902539/type:job/where:4/apply:1)
 - **Department:** Department of Comparative Medicine
+- **Published:** 
+- **Deadline:** 2026-03-10
+
+### Postdoctoral Researcher studying epigenetic changes in quiescent cells
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898374/type:job/where:4/apply:1)
+- **Department:** Department of Medicine, Huddinge
 - **Published:** 
 - **Deadline:** 2026-03-10
 
@@ -474,14 +474,14 @@
 - **Published:** 
 - **Deadline:** 2026-03-20
 
-### Postdoctoral researcher positions in developing computational tools for DNA based data storage
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895724/type:job/where:4/apply:1)
+### Postdoctoral researcher positions in developing computational tools for DNA-microscopy based spatial omics
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895772/type:job/where:4/apply:1)
 - **Department:** Division of Medical systems bioengineering
 - **Published:** 
 - **Deadline:** 2026-03-22
 
-### Postdoctoral researcher positions in developing computational tools for DNA-microscopy based spatial omics
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895772/type:job/where:4/apply:1)
+### Postdoctoral researcher positions in developing computational tools for DNA based data storage
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895724/type:job/where:4/apply:1)
 - **Department:** Division of Medical systems bioengineering
 - **Published:** 
 - **Deadline:** 2026-03-22
