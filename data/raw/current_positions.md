@@ -1353,30 +1353,6 @@
 - **Deadline:** 22.Mar.2026
 
 
-### Postdoctoral Researcher in <subject area>
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895168/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department for Clinical Science, Intervention and Technology
-- **Published:** 
-- **Deadline:** 2026-02-13
-
-
-### Research Assistant with experience in qualitative methods for process evaluation of the National Board of Health and Welfare’s national development team
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898777/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Learning, Informatics, Management and Ethics
-- **Published:** 
-- **Deadline:** 2026-02-13
-
-
-### Postdoctoral researcher in women’s health epidemiology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898980/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** The Institute of Environmental Medicine
-- **Published:** 
-- **Deadline:** 2026-02-13
-
-
 ### Doctoral (PhD) student position in molecular epidemiology with focus on cardiovascular diseases
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:892020/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1433,18 +1409,42 @@
 - **Deadline:** 2026-02-13
 
 
-### Lab manager in organoid technology, endoderm biology and omics.
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895416/type:job/where:4/apply:1)
+### Postdoctoral Researcher in <subject area>
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895168/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Division of Medical systems bioengineering
+- **Department:** Department for Clinical Science, Intervention and Technology
 - **Published:** 
-- **Deadline:** 2026-02-14
+- **Deadline:** 2026-02-13
+
+
+### Research Assistant with experience in qualitative methods for process evaluation of the National Board of Health and Welfare’s national development team
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898777/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Learning, Informatics, Management and Ethics
+- **Published:** 
+- **Deadline:** 2026-02-13
+
+
+### Postdoctoral researcher in women’s health epidemiology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898980/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** The Institute of Environmental Medicine
+- **Published:** 
+- **Deadline:** 2026-02-13
 
 
 ### Postdoctoral studies on Bruton’s Tyrosin Kinase – from inhibitors to gene correction
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898225/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Laboratory Medicine
+- **Published:** 
+- **Deadline:** 2026-02-14
+
+
+### Lab manager in organoid technology, endoderm biology and omics.
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895416/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Division of Medical systems bioengineering
 - **Published:** 
 - **Deadline:** 2026-02-14
 
@@ -1463,6 +1463,22 @@
 - **Department:** Molecular Metabolism
 - **Published:** 
 - **Deadline:** 2026-02-15
+
+
+### Postdoctoral Researcher in Next-Generation Lineage Tracing for Immunology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897027/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Laboratory Medicine
+- **Published:** 
+- **Deadline:** 2026-02-16
+
+
+### Title TA
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899182/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Clinical Science and Education, Södersjukhuset
+- **Published:** 
+- **Deadline:** 2026-02-16
 
 
 ### Research Assistant in Neuroscience
@@ -1505,50 +1521,34 @@
 - **Deadline:** 2026-02-16
 
 
-### Postdoctoral Researcher in Next-Generation Lineage Tracing for Immunology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897027/type:job/where:4/apply:1)
+### Forskningsspecialist i fysiologi och visuell perception
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897442/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Department of Laboratory Medicine
+- **Department:** Department of Clinical Neuroscience
 - **Published:** 
-- **Deadline:** 2026-02-16
+- **Deadline:** 2026-02-17
 
 
-### Title TA
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899182/type:job/where:4/apply:1)
+### Postdoctoral Researcher in Eating Disorder Epidemiology and Genetics
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897475/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Medical Epidemiology and Biostatistics
+- **Published:** 
+- **Deadline:** 2026-02-17
+
+
+### Biträdande lektor i prehospital hjärtstoppsforskning
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897792/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Clinical Science and Education, Södersjukhuset
 - **Published:** 
-- **Deadline:** 2026-02-16
-
-
-### Psykolog med kursansvar till avdelningen för pedodonti
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900347/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Dental Medicine
-- **Published:** 
 - **Deadline:** 2026-02-17
 
 
-### Postdoctoral Researcher in Diabetes Epidemiology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897077/type:job/where:4/apply:1)
+### Doctoral (PhD) student position in Genetic Modification of NK cells
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:880275/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** The Institute of Environmental Medicine
-- **Published:** 
-- **Deadline:** 2026-02-17
-
-
-### Scholarship at basic or advanced level in research on extracellular vesicles
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897674/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Laboratory Medicine
-- **Published:** 
-- **Deadline:** 2026-02-17
-
-
-### Lecturer in ---subject---
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899653/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Medical Epidemiology and Biostatistics
+- **Department:** Department of Medicine, Huddinge
 - **Published:** 
 - **Deadline:** 2026-02-17
 
@@ -1753,14 +1753,6 @@
 - **Deadline:** 2026-02-24
 
 
-### Postdoctoral position in the Nordic Brain Network group: brain imaging data in the context of clinical cohorts and trials, for personalized dementia prediction modelling
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902911/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Division of Clinical Geriatric
-- **Published:** 
-- **Deadline:** 2026-02-25
-
-
 ### Research Assistant in Experimental Neuroscience
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902638/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1793,12 +1785,28 @@
 - **Deadline:** 2026-02-25
 
 
+### Postdoctoral position in the Nordic Brain Network group: brain imaging data in the context of clinical cohorts and trials, for personalized dementia prediction modelling
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902911/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Division of Clinical Geriatric
+- **Published:** 
+- **Deadline:** 2026-02-25
+
+
 ### Forskningssamordnare till avdelningen för psykologi
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902546/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Clinical Neuroscience
 - **Published:** 
 - **Deadline:** 2026-02-26
+
+
+### Administratör till forskargruppen Rekonstruktiv plastikkirurgi & global kirurgi
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904086/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Molecular Medicine and Surgery
+- **Published:** 
+- **Deadline:** 2026-02-27
 
 
 ### Postdoctoral Researcher in Mechanics of Heart Regeneration
@@ -1817,12 +1825,20 @@
 - **Deadline:** 2026-02-27
 
 
-### Administratör till forskargruppen Rekonstruktiv plastikkirurgi & global kirurgi
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904086/type:job/where:4/apply:1)
+### Postdoktor till forskargruppen Caring in Community Care, avdelningen för omvårdnad
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:892919/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Department of Molecular Medicine and Surgery
+- **Department:** Division of Nursing
 - **Published:** 
-- **Deadline:** 2026-02-27
+- **Deadline:** 2026-02-28
+
+
+### Doctoral position in”New Oligonucleotide Constructs for Enhanced Delivery”
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:896801/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Laboratory Medicine
+- **Published:** 
+- **Deadline:** 2026-02-28
 
 
 ### Postdoctoral Researcher in antibiotic resistance
@@ -1843,22 +1859,6 @@
 
 ### Postdoctoral researcher in Bioinformatics focusing on RNA biology and metabolic disease (scholarship)
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:868318/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Laboratory Medicine
-- **Published:** 
-- **Deadline:** 2026-02-28
-
-
-### Postdoktor till forskargruppen Caring in Community Care, avdelningen för omvårdnad
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:892919/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Division of Nursing
-- **Published:** 
-- **Deadline:** 2026-02-28
-
-
-### Doctoral position in”New Oligonucleotide Constructs for Enhanced Delivery”
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:896801/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Laboratory Medicine
 - **Published:** 
@@ -1921,6 +1921,14 @@
 - **Deadline:** 2026-03-05
 
 
+### PhD position in mechanisms of CNS regeneration
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:901806/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Cell and Molecular Biology
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+
 ### Professor in prehospital emergency care combined with employment as specialist nurse at Södersjukhuset
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:878903/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1933,14 +1941,6 @@
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903395/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Medicine, Huddinge
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-
-### PhD position in mechanisms of CNS regeneration
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:901806/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Cell and Molecular Biology
 - **Published:** 
 - **Deadline:** 2026-03-06
 
@@ -2009,16 +2009,16 @@
 - **Deadline:** 2026-03-29
 
 
-### PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
+### PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Neuroscience
 - **Published:** 
 - **Deadline:** 2026-04-05
 
 
-### PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
+### PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Neuroscience
 - **Published:** 
@@ -3241,14 +3241,6 @@
 - **Deadline:** 2026-02-27
 
 
-### PhD Student in Education with a focus on AI in Teacher Education (GRAITE)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
-- **University:** Umeå University
-- **Department:** Department of Education
-- **Published:** 
-- **Deadline:** 2026-02-27
-
-
 ### PhD Student in Education with a Focus on Vocational Education
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-education-with-a-focus-on-vocational-education_897383/)
 - **University:** Umeå University
@@ -3259,6 +3251,14 @@
 
 ### KOPIA AV KOPIA AV PhD Student in Education with a focus on AI in Teacher Education (LH)
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/kopia-av-kopia-av-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-lh_897641/)
+- **University:** Umeå University
+- **Department:** Department of Education
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+
+### PhD Student in Education with a focus on AI in Teacher Education (GRAITE)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
 - **University:** Umeå University
 - **Department:** Department of Education
 - **Published:** 
@@ -3281,14 +3281,6 @@
 - **Deadline:** 2026-02-28
 
 
-### Doctoral student in English, Russian, French, or Spanish Literature
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
-- **University:** Umeå University
-- **Department:** Department of Language Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-
 ### Doctoral student in philosophy
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
 - **University:** Umeå University
@@ -3297,42 +3289,10 @@
 - **Deadline:** 2026-03-06
 
 
-### Doctoral student in Media and communications studies
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
-- **University:** Umeå University
-- **Department:** Department of Culture and Media Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-
 ### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
 - **University:** Umeå University
 - **Department:** Department of Language Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-
-### Doctoral student in History of Science and Ideas
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-of-science-and-ideas_877483/)
-- **University:** Umeå University
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-
-### Doctoral student in Archaeology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-archaeology_877494/)
-- **University:** Umeå University
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-
-### Doctoral student in History and Education
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
-- **University:** Umeå University
-- **Department:** Department of Historical, Philosophical and Religious Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
 
@@ -3353,10 +3313,42 @@
 - **Deadline:** 2026-03-06
 
 
-### Doctoral student in ethnology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
+### Doctoral student in History and Education
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
+- **University:** Umeå University
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+
+### Doctoral student in Archaeology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-archaeology_877494/)
+- **University:** Umeå University
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+
+### Doctoral student in History of Science and Ideas
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-of-science-and-ideas_877483/)
+- **University:** Umeå University
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+
+### Doctoral student in Media and communications studies
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
 - **University:** Umeå University
 - **Department:** Department of Culture and Media Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+
+### Doctoral student in English, Russian, French, or Spanish Literature
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+- **University:** Umeå University
+- **Department:** Department of Language Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
 
@@ -3369,10 +3361,18 @@
 - **Deadline:** 2026-03-06
 
 
-### Doctoral student in Religious Studies/Theology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
+### Doctoral student in ethnology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **University:** Umeå University
-- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Department:** Department of Culture and Media Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+
+### PhD position in Gender Studies, focusing on Educational Sciences
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
+- **University:** Umeå University
+- **Department:** 
 - **Published:** 
 - **Deadline:** 2026-03-06
 
@@ -3385,18 +3385,18 @@
 - **Deadline:** 2026-03-06
 
 
-### Staff Scientist in Membrane Biology 9 months
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+### Doctoral student in Religious Studies/Theology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
 - **University:** Umeå University
-- **Department:** Department of Medical and Translational Biology
+- **Department:** Department of Historical, Philosophical and Religious Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
 
 
-### PhD position in Gender Studies, focusing on Educational Sciences
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
+### Staff Scientist in Membrane Biology 9 months
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
 - **University:** Umeå University
-- **Department:** 
+- **Department:** Department of Medical and Translational Biology
 - **Published:** 
 - **Deadline:** 2026-03-06
 
