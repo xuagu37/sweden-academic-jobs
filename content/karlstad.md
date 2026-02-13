@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 14</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,52 +21,142 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Projektassistent datavetenskap</h3>
+<h3>Universitetsadjunkt i risk och miljöstudier</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:864967/iframeEmbedded:0/where:4)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895307/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 19.Dec.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkt i musik med inriktning slagverk</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:883409/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 29.Dec.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>IT-pedagog, vikariat</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:884536/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 02.Jan.2026
+- **Deadline:** 15.Feb.2026
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Risk and Environmental Studies</h3>
+<h3>Doctoral studentship in Social Work</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:852707/iframeEmbedded:0/where:4)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:876073/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 13.Jan.2026
+- **Deadline:** 16.Feb.2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Postdoktor i medie- och kommunikationsvetenskap</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893616/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 18.Feb.2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student positions in Mathematics Education</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:878246/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 25.Feb.2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Doktorand i omvårdnad</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:887013/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 28.Feb.2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i genusvetenskap, vikariat 100 %</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:898848/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 01.Mar.2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Projektassistent forskning inom de samhällsvetenskapliga ämnenas didaktik</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:894726/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 01.Mar.2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in science education or technology education</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:888726/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 01.Mar.2026
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior lecturer in information systems</h3>
+<h3>University lecturer in computer science with a specialisation in artificial intelligence (temporary position)</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:884077/iframeEmbedded:0/where:4)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:878594/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 02.Feb.2026
+- **Deadline:** 03.Mar.2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuens i psykologi</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893805/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 04.Mar.2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Projektkoordinator</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895052/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 15.Mar.2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>5 Doctoral Studentships in Subject-Specific Education</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:894655/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 16.Mar.2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science at Karlstad University in cooperation with Cybercampus Sweden</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:887414/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 16.Mar.2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior lecturer in Gender Studies</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:898962/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 22.Mar.2026
 </div></div>
 
 <script>

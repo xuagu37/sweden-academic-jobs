@@ -1,5 +1,5 @@
 # Mälardalen University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 2</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,43 +20,23 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer in Industrial Systems focusing on Circular factories</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Medical and Health Engineering</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3539)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3651)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-01-07
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Industrial Systems – Business Models and Services</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3550)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-15
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Preferential Right to Increased Employment at Mälardalen University</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3371)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-07
+- **Deadline:** 2026-02-17
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Rights of priority for re-employment at Mälardalen University</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3370)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3376)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-01-07
+- **Deadline:** 2026-12-31
 </div></div>
 
 <script>

@@ -1,10 +1,52 @@
 # Linköping University
 
-### Research Assistant
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28173)
+### PhD Position in Industrial Marketing
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28393)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-12-29
+- **Deadline:** 2026-04-16
+
+### Postdoc in cognitive science with a focus on children and AI
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28554)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-04-15
+
+### PhD Student in Computational Mathematics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28545)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-04-09
+
+### Postdoc in Ethology
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28497)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-31
+
+### Postdoc on Virtual Knowledge Graph Integration
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28487)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-15
+
+### PhD student in Statistics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28230)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-03
+
+### PhD student in Bayesian Computational Mathematics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28185)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-02
+
+### Postdoctoral Researcher in Medical Image Processing
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28501)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-03-01
 
 ### PhD Student in Automatic Control
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28117)
@@ -12,153 +54,81 @@
 - **Published:** 
 - **Deadline:** 2026-02-27
 
+### PhD Student in Automatic Control with focus on sensor informatics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28521)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+### PhD Student in Automatic Control with focus on sensor fusion for distributed situational awareness
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28522)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+### PhD Student in Automatic Control with focus on sensor fusion for localization
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28525)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+### PhD Student in Automatic Control with focus on control allocation for future stealth aircraft
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28526)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+### PhD Student in Automatic Control for Adaptive Hearing Aids
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28528)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+### PhD Student in Automatic Control with focus on optimization under uncertainty
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28532)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+### PhD Student in Automatic Control with focus on learning robotics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28537)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+### PhD student in Visualization and Media Technology with a focus on visual learning and communication
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27975)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-25
+
+### Postdoctoral position on Active Optical Metasurfaces
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28502)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-25
+
+### Professor of Ageing and Social Change
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28195)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-22
+
+### PhD student in biomedical engineering, deep learning for medical images
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28118)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-19
+
 ### PhD student in secure distributed learning
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28209)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2026-02-16
 
-### Student assistents/amanuenses to the division Division of Environmental Technology and Management
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27815)
+### Research Engineer for Machine Learning in Materials Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28297)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2026-01-21
-
-### PhD student in energy systems with a focus on heating, ventilation and air-conditioning (HVAC)
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27984)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-19
-
-### Associate professor in visual media design
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27852)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-16
-
-### Visiting professor in occupational therapy
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27980)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-15
-
-### Research engineer within flight logistic
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28065)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-15
-
-### Research Assistant in Product Realisation
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28218)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-15
-
-### PhD student infrainformatics with focus on semantic and goal-oriented communication
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28227)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-15
-
-### PhD student in AI Security
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27883)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-12
-
-### Postdoc in Education with a specialisation in Digital Humanities
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28181)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-12
-
-### PhD student in Energy-Efficient Integrated Circuits and Architectures for 6G Communication System Frontends
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27759)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-09
-
-### Associate Professor in Cyber-Physical Systems
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28106)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-09
-
-### Assistant professor in Environmental Change
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28111)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-07
-
-### Teaching assistants in CyberSecurity
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28201)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-07
-
-### Postdoc in Vehicular Systems, within Optimized Planning of Electrified Vehicle Fleets
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28206)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-01-07
-
-### Postdoc position at the Division of Automatic Control within high-performance numerical methods for MPC under uncertainty
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28157)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-31
-
-### PhD student in Power-Efficient Integrated Circuit Design Techniques for Full-Duplex 6G Transceivers
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27878)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-29
-
-### PhD Position in Experimental Furniture Making and Craft Techniques
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28027)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-22
-
-### PhD Position in Explorative Furniture Upholstery with New Materials and Techniques
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28028)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-22
-
-### PhD in Materials Science on Advanced Doping Strategies for Organic Semiconductor - EU Training Network FADOS
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28039)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-22
-
-### PhD student in Bioengineering
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28107)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-22
-
-### Senior research engineer
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28103)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-20
-
-### Postdoc in Modern History with a focus on Culture, Crisis and Preparedness
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28003)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-19
-
-### Postdoc in Theoretical Physics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28073)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-16
-
-### Research assistant at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28097)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-16
+- **Deadline:** 2026-02-16
 

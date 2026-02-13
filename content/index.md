@@ -2,7 +2,7 @@
 
 Welcome! This site presents regularly scraped academic job listings from Swedish universities.
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-02-13_
 
 <!-- :::{prereq}
 prerequisites

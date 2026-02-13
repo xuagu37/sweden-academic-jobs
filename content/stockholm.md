@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 23</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,213 +20,133 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Theoretical Physics</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Molecular Biosciences</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:869369/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-12-17
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Experimental Astroparticle Physics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:875244/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-12-19
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Machine Learning for Astrophysics & Cosmology</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:859270/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-12-19
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Sociology</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:877052/where:4/)
-- **Department:** Swedish Institute for Social Research
-- **Published:** 
-- **Deadline:** 2025-12-19
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Laboratory manager</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883546/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894430/where:4/)
 - **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
-- **Deadline:** 2025-12-20
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in European Law</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:869367/where:4/)
-- **Department:** Department of Law
-- **Published:** 
-- **Deadline:** 2025-12-23
+- **Deadline:** 2026-02-13
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Theoretical attosecond Physics</h3>
+<h3>Postdoctoral Fellow in Social Psychology</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:884064/where:4/)
-- **Department:** Department of Physics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:887501/where:4/)
+- **Department:** Department of Psychology
 - **Published:** 
-- **Deadline:** 2025-12-24
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:885034/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-12-24
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Organic Chemistry</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:882159/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-12-28
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Lignin for Electrochemical Water Purification</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:881145/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-12-28
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Organic Geochemistry/ Paleoclimate</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:855899/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-12-31
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Automation and Data Management Technician for Sustainable Chemistry</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:882150/where:4/)
-- **Department:** Kemikum
-- **Published:** 
-- **Deadline:** 2026-01-02
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883893/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2026-01-07
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Sustainable Chemistry with focus on Life Cycle Assessment</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:869788/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2026-01-07
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Computational Cosmology and Machine Learning</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:875381/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2026-01-07
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in cryo-EM and cryo-ET</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:884763/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2026-01-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Infectious Disease Dynamics Inference</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:880739/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2026-01-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Experimental Particle Physics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:881687/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2026-01-16
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Computer and Systems Sciences, focusing on Data Science</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:880671/where:4/)
-- **Department:** Stockholms universitet
-- **Published:** 
-- **Deadline:** 2026-01-21
+- **Deadline:** 2026-02-13
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Petrology</h3>
+<h3>PhD student in Metabolic regulation of proteome function</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:879856/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893150/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2026-02-13
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Marine Seismic Sedimentology</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:884651/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
-- **Deadline:** 2026-01-31
+- **Deadline:** 2026-02-13
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Business Administration, with focus on Marketing</h3>
+<h3>PhD student in Animal Behaviour</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883231/where:4/)
-- **Department:** Stockholm Business School
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893229/where:4/)
+- **Department:** Department of Zoology
 - **Published:** 
-- **Deadline:** 2026-02-01
+- **Deadline:** 2026-02-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in avian song evolution</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893045/where:4/)
+- **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2026-02-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Tropical Convective Clouds and Aerosols</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900926/where:4/)
+- **Department:** Department of Meteorology
+- **Published:** 
+- **Deadline:** 2026-02-18
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Ecology and Evolution</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888446/where:4/)
+- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Published:** 
+- **Deadline:** 2026-02-20
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Biochemistry</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892649/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2026-02-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Bioinformatics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893396/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2026-02-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Bioinformatics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892435/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2026-02-22
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Scientific Programmer with IT Responsibilities</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896129/where:4/)
+- **Department:** Department of Meteorology
+- **Published:** 
+- **Deadline:** 2026-02-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in demography</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:899206/where:4/)
+- **Department:** Department of Sociology
+- **Published:** 
+- **Deadline:** 2026-02-25
 
 </div>
 
@@ -240,6 +160,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Psychology - Work and Organisational Psychology</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896673/where:4/)
+- **Department:** Department of Psychology
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate Professor in Zoology with focus on ecology and evolution</h3>
 
@@ -247,6 +177,176 @@
 - **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Quantum Information and Complex Dynamical Systems</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896438/where:4/)
+- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
+- **Published:** 
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physical Geography: Remote sensing of ice shelves in East Antarctica</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896551/where:4/)
+- **Department:** Department of Physical Geography
+- **Published:** 
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in parasite population genetics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896511/where:4/)
+- **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Biodiversity</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883518/where:4/)
+- **Department:** Stockholms universitet
+- **Published:** 
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellow at Stockholm Resilience Centre</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900820/where:4/)
+- **Department:** Stockholm Resilience Centre
+- **Published:** 
+- **Deadline:** 2026-03-01
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Law</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895023/where:4/)
+- **Department:** Department of Law
+- **Published:** 
+- **Deadline:** 2026-03-01
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Education - the Research School FYSALIS</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895419/where:4/)
+- **Department:** Department of Education
+- **Published:** 
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Education</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892822/where:4/)
+- **Department:** Department of Education
+- **Published:** 
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physics: open quantum system simulations with trapped ions</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894049/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physics: 2D quantum simulations with trapped Rydberg ions</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894025/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemical Physics: Quantum Chemical Simulations of Light-Induced Pathways</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888169/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Theoretical Physics: Theoretical Cosmology of the Early Universe</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888131/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in quantum simulations with trapped Rydberg ions</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900483/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2026-03-09
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Social Anthropology</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896831/where:4/)
+- **Department:** Department of Social Anthropology
+- **Published:** 
+- **Deadline:** 2026-03-15
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Senior Nordita Fellow</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895929/where:4/)
+- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
+- **Published:** 
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Procedural law with a focus on Arbitration Law</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:897645/where:4/)
+- **Department:** Stockholms universitet
+- **Published:** 
+- **Deadline:** 2026-03-27
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer and Systems Sciences, with focus on Data Science</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:901900/where:4/)
+- **Department:** Department of Computer and Systems Sciences
+- **Published:** 
+- **Deadline:** 2026-04-15
 </div></div>
 
 <script>
