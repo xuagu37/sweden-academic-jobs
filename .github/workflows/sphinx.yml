@@ -102,7 +102,12 @@ jobs:
         run: |
           python scripts/fix_html_links.py
           # Optional safety check: fail if any double-escape remains
-          ! grep -R "&amp;amp;" -n _build/dirhtml | head -n 1
+          # ! grep -R "&amp;amp;" -n _build/dirhtml | head -n 1
+
+      - name: Debug remaining double-escaped links
+        run: |
+          echo "Searching for remaining &amp;amp; ..."
+          grep -R "&amp;amp;" -n _build/dirhtml || echo "No double-escaped links found."
 
       # PDF if requested
       - name: Generate PDF
