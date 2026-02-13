@@ -317,44 +317,57 @@ def add_job_count(file_path: str):
     
     
 def merge_job_markdowns(input_dir: str, output_path: str):
-    """
-    Merges multiple Markdown job files into a single file under the heading "All Current Jobs",
-    and injects the university name into each job entry. Skips 'all_current_jobs.md'.
-
-    Args:
-        input_dir (str): Directory containing the .md files to merge.
-        output_path (str): Path to write the merged Markdown file.
-    """
     input_dir = Path(input_dir)
     output_path = Path(output_path)
 
     merged = ["# All Current Jobs\n"]
 
+    SKIP_NAMES = {
+        output_path.name,
+        "all_current_jobs.md",
+    }
+
     for md_file in sorted(input_dir.glob("*.md")):
-        if md_file.name == output_path.name:
-            continue  # Skip all_current_jobs.md
+        if md_file.name in SKIP_NAMES:
+            continue
 
-        text = md_file.read_text(encoding="utf-8")
+        text = md_file.read_text(encoding="utf-8").strip()
+        if not text:
+            continue
 
-        # Try to extract the university name from the heading or filename
-        match = re.search(r"#\s*(.+)", text)
-        university = match.group(1).strip() if match else md_file.stem.replace("-", " ").title()
+        # University name from first H1
+        m = re.search(r"^#\s*(.+)$", text, flags=re.MULTILINE)
+        university = m.group(1).strip() if m else md_file.stem.replace("-", " ").title()
 
-        # Extract individual job entries
-        job_blocks = re.findall(r"(### .+?)(?=\n### |\Z)", text, re.DOTALL)
+        # Split into entries by "### "
+        # Keep only real job entries that start with "### "
+        parts = text.split("\n### ")
+        if len(parts) <= 1:
+            continue  # no jobs in this file
 
-        for block in job_blocks:
-            # Avoid duplicate university lines
-            if "**University:**" in block:
-                merged.append(block.strip() + "\n")
-            else:
-                updated_block = re.sub(
-                    r"(### .+?\n)(- \*\*Link:\*\* .+?\n)",
-                    rf"\1\2- **University:** {university}\n",
-                    block
-                )
-                merged.append(updated_block.strip() + "\n")
+        # parts[0] is header area; each subsequent part is one job without the leading "### "
+        for part in parts[1:]:
+            block = "### " + part.strip()
 
-    output_path.write_text("\n\n".join(merged), encoding="utf-8")
+            # Ensure it contains a link line; otherwise skip (filters out weird content)
+            if "- **Link:**" not in block:
+                continue
+
+            # Inject university line once
+            if "**University:**" not in block:
+                # Insert after Link line if possible
+                lines = block.splitlines()
+                new_lines = []
+                inserted = False
+                for line in lines:
+                    new_lines.append(line)
+                    if (not inserted) and line.startswith("- **Link:**"):
+                        new_lines.append(f"- **University:** {university}")
+                        inserted = True
+                block = "\n".join(new_lines)
+
+            merged.append(block + "\n")
+
+    output_path.write_text("\n\n".join(merged).strip() + "\n", encoding="utf-8")
     print(f"Merged into {output_path.name}, skipping self-reference.")
     

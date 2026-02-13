@@ -100,21 +100,21 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in medical AI</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-medical-ai_896687/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2026-02-27
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Education with a focus on AI in Teacher Education (LH)</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-education-with-a-focus-on-ai-in-teacher-education-lh_892793/)
 - **Department:** Department of Education
+- **Published:** 
+- **Deadline:** 2026-02-27
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in medical AI</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-medical-ai_896687/)
+- **Department:** 
 - **Published:** 
 - **Deadline:** 2026-02-27
 
@@ -171,9 +171,19 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Language teaching and learning</h3>
+<h3>Doctoral student in philosophy</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
 - **Department:** Department of Language Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
@@ -181,10 +191,10 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral Student in Educational work with focus on language</h3>
+<h3>Doctoral student in Media and communications studies</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-educational-work-with-focus-on-language-_894412/)
-- **Department:** Department of Language Studies
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
+- **Department:** Department of Culture and Media Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
 
@@ -231,19 +241,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in philosophy</h3>
+<h3>Doctoral student in Language teaching and learning</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
 - **Department:** Department of Language Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
@@ -251,30 +251,20 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Media and communications studies</h3>
+<h3>Doctoral Student in Educational work with focus on language</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
-- **Department:** Department of Culture and Media Studies
-- **Published:** 
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Staff Scientist in Membrane Biology 9 months</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
-- **Department:** Department of Medical and Translational Biology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-educational-work-with-focus-on-language-_894412/)
+- **Department:** Department of Language Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in ethnology</h3>
+<h3>Doctoral student in Sámi (Language didactics)</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
-- **Department:** Department of Culture and Media Studies
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
+- **Department:** Department of Language Studies
 - **Published:** 
 - **Deadline:** 2026-03-06
 
@@ -301,10 +291,20 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Sámi (Language didactics)</h3>
+<h3>Doctoral student in ethnology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
-- **Department:** Department of Language Studies
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
+- **Department:** Department of Culture and Media Studies
+- **Published:** 
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist in Membrane Biology 9 months</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **Department:** Department of Medical and Translational Biology
 - **Published:** 
 - **Deadline:** 2026-03-06
 
