@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 130</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 118</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -76,14 +76,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>One PhD position, at the Department of Theology</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=865690)
-- **Deadline:** 13 February 2026
-
-</div>
-
 <div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
 <h3>Research Engineer</h3>
 
@@ -105,14 +97,6 @@
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=879167)
 - **Deadline:** 20 February 2026
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>At least five PhD positions at the Department of Theology</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=880419)
-- **Deadline:** 13 February 2026
 
 </div>
 
@@ -221,22 +205,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsassistent</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=887122)
-- **Deadline:** 13 February 2026
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Position in Energy Law</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=888215)
-- **Deadline:** 13 February 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Forskningsinfrastrukturspecialist</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=888306)
@@ -260,27 +228,11 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Doktorand i Vladimir Tolmachevs forskagrupp</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=891670)
-- **Deadline:** 13 February 2026
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>2 PhD student positions in Human Geography</h3>
 
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=891697)
 - **Deadline:** 16 March 2026
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Partial Differential Equations</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=891899)
-- **Deadline:** 13 February 2026
 
 </div>
 
@@ -325,14 +277,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>PR-amanuens för civilingenjörsprogrammet i informationsteknologi</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=893006)
-- **Deadline:** 13 February 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Universitetslektor i serbiska, kroatiska och bosniska (SKB)</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=893014)
@@ -369,14 +313,6 @@
 
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=893394)
 - **Deadline:** 11 March 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskare IBF</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=893731)
-- **Deadline:** 13 February 2026
 
 </div>
 
@@ -508,14 +444,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskare i teoretisk fysik</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=897294)
-- **Deadline:** 13 February 2026
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Two or more PhD positions in theoretical physics</h3>
 
@@ -553,14 +481,6 @@
 
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=897806)
 - **Deadline:** 18 February 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsassistent till Uppsala Centre for Molecular Imaging and Theranostics</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898012)
-- **Deadline:** 13 February 2026
 
 </div>
 
@@ -745,14 +665,6 @@
 
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899547)
 - **Deadline:** 2 April 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskare</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=899717)
-- **Deadline:** 13 February 2026
 
 </div>
 
@@ -1009,14 +921,6 @@
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=903713)
 - **Deadline:** 27 February 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>HR-generalist (vikariat)</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=903786)
-- **Deadline:** 1 March 2026
 
 </div>
 

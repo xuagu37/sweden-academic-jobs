@@ -1,27 +1,11 @@
 # Stockholm University
 
-### PhD student in Metabolic regulation of proteome function
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893150/where:4/)
-- **Deadline:** 2026-02-13
-
-### PhD student in Molecular Biosciences
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894430/where:4/)
-- **Deadline:** 2026-02-13
-
-### Postdoctoral Fellow in Social Psychology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:887501/where:4/)
-- **Deadline:** 2026-02-13
-
-### PhD student in Marine Seismic Sedimentology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:884651/where:4/)
-- **Deadline:** 2026-02-13
+### PhD student in avian song evolution
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893045/where:4/)
+- **Deadline:** 2026-02-15
 
 ### PhD student in Animal Behaviour
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893229/where:4/)
-- **Deadline:** 2026-02-15
-
-### PhD student in avian song evolution
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893045/where:4/)
 - **Deadline:** 2026-02-15
 
 ### Researcher in Tropical Convective Clouds and Aerosols
@@ -31,6 +15,10 @@
 ### PhD student in Ecology and Evolution
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888446/where:4/)
 - **Deadline:** 2026-02-20
+
+### Scientific Programmer with IT Responsibilities
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896129/where:4/)
+- **Deadline:** 2026-02-22
 
 ### PhD student in Bioinformatics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892435/where:4/)
@@ -42,10 +30,6 @@
 
 ### PhD student in Bioinformatics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893396/where:4/)
-- **Deadline:** 2026-02-22
-
-### Scientific Programmer with IT Responsibilities
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896129/where:4/)
 - **Deadline:** 2026-02-22
 
 ### Postdoctoral Fellow in High Energy Physics
@@ -64,24 +48,24 @@
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896673/where:4/)
 - **Deadline:** 2026-02-27
 
-### Associate Professor in Zoology with focus on ecology and evolution
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883922/where:4/)
-- **Deadline:** 2026-02-28
-
-### Postdoctoral Fellow in parasite population genetics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896511/where:4/)
-- **Deadline:** 2026-02-28
-
-### Assistant Professor in Biodiversity
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883518/where:4/)
-- **Deadline:** 2026-02-28
-
 ### Postdoctoral Fellow in Quantum Information and Complex Dynamical Systems
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896438/where:4/)
 - **Deadline:** 2026-02-28
 
 ### PhD student in Physical Geography: Remote sensing of ice shelves in East Antarctica
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896551/where:4/)
+- **Deadline:** 2026-02-28
+
+### Postdoctoral Fellow in parasite population genetics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896511/where:4/)
+- **Deadline:** 2026-02-28
+
+### Associate Professor in Zoology with focus on ecology and evolution
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883922/where:4/)
+- **Deadline:** 2026-02-28
+
+### Assistant Professor in Biodiversity
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883518/where:4/)
 - **Deadline:** 2026-02-28
 
 ### PhD student in Law
@@ -92,12 +76,12 @@
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900820/where:4/)
 - **Deadline:** 2026-03-01
 
-### PhD student in Education
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892822/where:4/)
-- **Deadline:** 2026-03-02
-
 ### PhD student in Education - the Research School FYSALIS
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895419/where:4/)
+- **Deadline:** 2026-03-02
+
+### PhD student in Education
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892822/where:4/)
 - **Deadline:** 2026-03-02
 
 ### PhD student in Physics: open quantum system simulations with trapped ions

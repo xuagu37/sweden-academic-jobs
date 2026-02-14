@@ -1,9 +1,5 @@
 # Umeå University
 
-### Project Assistant
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-assistant_894164/)
-- **Deadline:** 2026-02-13
-
 ### PhD student in Computing Science with focus on Computer Security
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-computer-security_894160/)
 - **Deadline:** 2026-02-15
@@ -64,14 +60,6 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
 - **Deadline:** 2026-03-06
 
-### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
-- **Deadline:** 2026-03-06
-
-### Doctoral student in Media and communications studies
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
-- **Deadline:** 2026-03-06
-
 ### Doctoral student in English, Russian, French, or Spanish Literature
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
 - **Deadline:** 2026-03-06
@@ -80,12 +68,20 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-of-science-and-ideas_877483/)
 - **Deadline:** 2026-03-06
 
-### Doctoral student in Archaeology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-archaeology_877494/)
+### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
+- **Deadline:** 2026-03-06
+
+### Doctoral student in Media and communications studies
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
 - **Deadline:** 2026-03-06
 
 ### Doctoral student in History and Education
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
+- **Deadline:** 2026-03-06
+
+### Doctoral student in Archaeology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-archaeology_877494/)
 - **Deadline:** 2026-03-06
 
 ### Doctoral student in Language teaching and learning

@@ -20,123 +20,123 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in Robotics and Artificial Intelligence</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9826)
-- **Deadline:** 
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in Robotics and Artificial Intelligence</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9828)
-- **Deadline:** 
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor of Cyber-Physical Systems</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9742)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9742#item-9742)
+- **Deadline:** 2026-02-15
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate Professor of Cyber-Physical Systems</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9748)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9748#item-9748)
+- **Deadline:** 2026-02-15
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc position in Space Systems with focus on spacecraft avionics</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9783)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9783#item-9783)
+- **Deadline:** 2026-02-15
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Biochemical Process Engineering</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9780)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9780#item-9780)
+- **Deadline:** 2026-02-16
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Machine Learning</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9842)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9842#item-9842)
+- **Deadline:** 2026-02-18
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Mineral Processing</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9786)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9786#item-9786)
+- **Deadline:** 2026-02-22
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Urban Water Engineering – climate change effects and adaptation in urban streams</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9797)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9797#item-9797)
+- **Deadline:** 2026-02-22
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Urban Water Engineering – Stormwater sediment: from risk to resource</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9800)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9800#item-9800)
+- **Deadline:** 2026-02-22
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Urban Water Engineering – hydrological dynamics in nature-based stormwater solutions</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9806)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9806#item-9806)
+- **Deadline:** 2026-02-22
 
 </div>
 
 <div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
 <h3>Senior Research Engineer in Robotics and Artificial Intelligence</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9862)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9862#item-9862)
+- **Deadline:** 2026-02-23
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Robotics and Artificial Intelligence</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9860)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9860#item-9860)
+- **Deadline:** 2026-02-24
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Robotics and Artificial Intelligence</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9864)
-- **Deadline:** 
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9864#item-9864)
+- **Deadline:** 2026-02-24
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral position in Applied Geochemistry</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9695)
-- **Deadline:**
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9695#item-9695)
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Students in Process Metallurgy</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9853#item-9853)
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in computational modeling of electrochemical C-H activa-tion</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9866#item-9866)
+- **Deadline:** 2026-03-01
 </div></div>
 
 <script>

@@ -486,28 +486,39 @@ def parse_jobs_lulea(html_path: str) -> list[dict]:
     """
     Parses job postings from Luleå University of Technology's vacancies page.
 
-    Args:
-        html_path (str): Path to the saved HTML file.
-
     Returns:
-        List[Dict]: List of jobs with title, url (anchor), published (empty), department (empty), and deadline.
+        List of dicts with title, url, department, published, deadline.
     """
+
     with open(html_path, encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 
-    base_url = "https://www.ltu.se"
+    base_url = (
+        "https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies"
+    )
+
     jobs = []
 
-    for li in soup.select("a[href^='#item-']"):
-        title = li.get_text(strip=True).removeprefix("Job:").strip()
-        anchor = li.get("href")
-        full_url = base_url + "/en/about-ltu/work-at-ltu/vacant-positions" + anchor
+    for a in soup.select("a[href^='#item-']"):
+        title = a.get_text(strip=True).removeprefix("Job:").strip()
+        anchor = a.get("href")  # e.g. "#item-9742"
 
-        # Try to find the next <p> tag that contains the deadline
-        deadline_tag = li.find_next("p")
+        # Extract numeric ID from anchor
+        job_id = anchor.replace("#item-", "").strip()
+
+        # Correct full URL format
+        full_url = f"{base_url}?rmjob={job_id}{anchor}"
+
         deadline = ""
-        if deadline_tag and "Last day to apply" in deadline_tag.text:
-            deadline = deadline_tag.get_text(strip=True).replace("Last day to apply:", "").strip()
+
+        # Look inside the same <li> for deadline paragraph
+        parent_li = a.find_parent("li")
+        if parent_li:
+            for p in parent_li.find_all("p"):
+                text = p.get_text(strip=True)
+                if "Last day to apply" in text:
+                    deadline = text.replace("Last day to apply:", "").strip()
+                    break
 
         jobs.append({
             "title": title,
@@ -518,6 +529,8 @@ def parse_jobs_lulea(html_path: str) -> list[dict]:
         })
 
     return jobs
+
+
 
 
 def convert_reachmee_url_malmo(raw_url: str) -> str:

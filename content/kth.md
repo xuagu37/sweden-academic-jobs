@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 56</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 55</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,14 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in conversational social robotics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900324?l=en)
-- **Deadline:** Application deadline:2026-02-13
 
 </div>
 

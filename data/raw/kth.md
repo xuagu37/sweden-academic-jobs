@@ -1,9 +1,5 @@
 # KTH
 
-### Postdoc in conversational social robotics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900324?l=en)
-- **Deadline:** Application deadline:2026-02-13
-
 ### Research engineer in interface development programming
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898910?l=en)
 - **Deadline:** Application deadline:2026-02-15
