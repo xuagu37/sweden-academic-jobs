@@ -2396,7 +2396,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899065?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-18
+- **Deadline:** 2026-02-18
 
 
 </div>
@@ -2406,7 +2406,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898304?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-21
+- **Deadline:** 2026-02-21
 
 
 </div>
@@ -2416,7 +2416,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/903797?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-22
+- **Deadline:** 2026-02-22
 
 
 </div>
@@ -2426,7 +2426,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900512?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-22
+- **Deadline:** 2026-02-22
 
 
 </div>
@@ -2436,7 +2436,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899395?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-22
+- **Deadline:** 2026-02-22
 
 
 </div>
@@ -2446,7 +2446,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/851095?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-22
+- **Deadline:** 2026-02-22
 
 
 </div>
@@ -2456,7 +2456,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/878751?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-23
+- **Deadline:** 2026-02-23
 
 
 </div>
@@ -2466,7 +2466,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898678?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-25
+- **Deadline:** 2026-02-25
 
 
 </div>
@@ -2476,7 +2476,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/886403?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-25
+- **Deadline:** 2026-02-25
 
 
 </div>
@@ -2486,7 +2486,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/874734?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-25
+- **Deadline:** 2026-02-25
 
 
 </div>
@@ -2496,7 +2496,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/901631?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-27
+- **Deadline:** 2026-02-27
 
 
 </div>
@@ -2506,7 +2506,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/878050?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-27
+- **Deadline:** 2026-02-27
 
 
 </div>
@@ -2516,7 +2516,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900382?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-28
+- **Deadline:** 2026-02-28
 
 
 </div>
@@ -2526,7 +2526,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/881712?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-02-28
+- **Deadline:** 2026-02-28
 
 
 </div>
@@ -2536,7 +2536,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904526?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-01
+- **Deadline:** 2026-03-01
 
 
 </div>
@@ -2546,7 +2546,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/895900?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-01
+- **Deadline:** 2026-03-01
 
 
 </div>
@@ -2556,7 +2556,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899298?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-01
+- **Deadline:** 2026-03-01
 
 
 </div>
@@ -2566,7 +2566,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899309?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-01
+- **Deadline:** 2026-03-01
 
 
 </div>
@@ -2576,7 +2576,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-02
+- **Deadline:** 2026-03-02
 
 
 </div>
@@ -2586,7 +2586,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900065?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-04
+- **Deadline:** 2026-03-04
 
 
 </div>
@@ -2596,7 +2596,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/897238?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2606,7 +2606,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/897278?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2616,7 +2616,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898105?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2626,7 +2626,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898169?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2636,7 +2636,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898368?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2646,7 +2646,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898543?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2656,7 +2656,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898564?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2666,7 +2666,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898611?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2676,7 +2676,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898733?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2686,7 +2686,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900491?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-05
+- **Deadline:** 2026-03-05
 
 
 </div>
@@ -2696,7 +2696,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904326?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-09
+- **Deadline:** 2026-03-09
 
 
 </div>
@@ -2706,7 +2706,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/877863?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-09
+- **Deadline:** 2026-03-09
 
 
 </div>
@@ -2716,7 +2716,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899845?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-11
+- **Deadline:** 2026-03-11
 
 
 </div>
@@ -2726,7 +2726,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/903300?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-11
+- **Deadline:** 2026-03-11
 
 
 </div>
@@ -2736,7 +2736,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/902965?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-11
+- **Deadline:** 2026-03-11
 
 
 </div>
@@ -2746,7 +2746,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/896294?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2756,7 +2756,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/896310?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2766,7 +2766,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/896519?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2776,7 +2776,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/897887?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2786,7 +2786,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898457?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2796,7 +2796,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898470?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2806,7 +2806,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898968?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2816,7 +2816,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899181?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2826,7 +2826,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899117?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2836,7 +2836,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/880357?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-12
+- **Deadline:** 2026-03-12
 
 
 </div>
@@ -2846,7 +2846,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900111?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-15
+- **Deadline:** 2026-03-15
 
 
 </div>
@@ -2856,7 +2856,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/901401?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-15
+- **Deadline:** 2026-03-15
 
 
 </div>
@@ -2866,7 +2866,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904319?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-16
+- **Deadline:** 2026-03-16
 
 
 </div>
@@ -2876,7 +2876,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/894652?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-16
+- **Deadline:** 2026-03-16
 
 
 </div>
@@ -2886,7 +2886,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/875645?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-16
+- **Deadline:** 2026-03-16
 
 
 </div>
@@ -2896,7 +2896,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898984?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-20
+- **Deadline:** 2026-03-20
 
 
 </div>
@@ -2906,7 +2906,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/903854?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-22
+- **Deadline:** 2026-03-22
 
 
 </div>
@@ -2916,7 +2916,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898070?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-26
+- **Deadline:** 2026-03-26
 
 
 </div>
@@ -2926,7 +2926,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904538?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-27
+- **Deadline:** 2026-03-27
 
 
 </div>
@@ -2936,7 +2936,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898147?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-03-31
+- **Deadline:** 2026-03-31
 
 
 </div>
@@ -2946,7 +2946,7 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/891334?l=en)
 - **University:** KTH
-- **Deadline:** Application deadline:2026-04-17
+- **Deadline:** 2026-04-17
 
 
 </div>

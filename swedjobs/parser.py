@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs, urlencode, urljoin
 from html import unescape
+import re
 
 def parse_jobs_lund(filepath: str):
     """
@@ -280,7 +281,6 @@ def parse_jobs_kth(filepath: str):
     with open(filepath, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 
-    # KTH page table typically has no special class
     for row in soup.select("table tbody tr"):
         cols = row.find_all("td")
         if len(cols) < 4:
@@ -296,7 +296,10 @@ def parse_jobs_kth(filepath: str):
             url = base_url + url
 
         department = cols[2].get_text(strip=True)
-        deadline = cols[3].get_text(strip=True)
+
+        deadline_text = cols[3].get_text(" ", strip=True)
+        m = re.search(r"\d{4}-\d{2}-\d{2}", deadline_text)
+        deadline = m.group(0) if m else deadline_text
 
         jobs.append({
             "title": title,
@@ -307,6 +310,7 @@ def parse_jobs_kth(filepath: str):
         })
 
     return jobs
+
 
 
 def parse_jobs_linkoping(html_path: str) -> list[dict]:

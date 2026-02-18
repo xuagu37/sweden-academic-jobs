@@ -51,10 +51,13 @@ DATE_RE = re.compile(
     r"|"
     r"\d{4}[./-]\d{1,2}[./-]\d{1,2}"
     r"|"
-    r"\d{1,2}\.[A-Za-z]{3,9}\.\d{4}"   # <-- add this
+    r"\d{1,2}\.[A-Za-z]{3,9}\.\d{4}"
+    r"|"
+    r"\d{6}"  # YYMMDD like 260218 (MIUN)
     r")",
     re.IGNORECASE,
 )
+
 
 
 
@@ -91,6 +94,23 @@ def normalize_date(date_str: str) -> str:
 
     # handle "15.Feb.2026" / "01.Mar.2026" -> "15 Feb 2026" / "01 Mar 2026"
     s = re.sub(r"^(\d{1,2})\.([A-Za-z]{3,9})\.(\d{4})$", r"\1 \2 \3", s)
+    
+    # Handle YYMMDD (e.g., 260218 -> 2026-02-18), but only if it looks like a real date
+    if re.fullmatch(r"\d{6}", s):
+        yy = int(s[:2])
+        mm = int(s[2:4])
+        dd = int(s[4:6])
+
+        # quick sanity check to avoid treating IDs as dates
+        if not (1 <= mm <= 12 and 1 <= dd <= 31):
+            return s  # not a date-like YYMMDD, keep original
+
+        year = 2000 + yy  # assumes 2000–2099
+        try:
+            dt = datetime(year, mm, dd)
+            return dt.strftime("%Y-%m-%d")
+        except ValueError:
+            return s
 
     # Try common formats first
     for fmt in (
@@ -185,10 +205,18 @@ def parse_md(md: str):
 
         # Deadline line: just look for a date anywhere in the line,
         # and then normalize it.
-        m = DATE_RE.search(line)
-        if m and current_job:
+        # Only interpret dates on Deadline lines (prevents matching IDs in Link URLs)
+        if current_job and ("deadline" in line.lower()):
+            m = DATE_RE.search(line)
+            if not m:
+                continue
+
             date_raw = m.group(1)
             date_norm = normalize_date(date_raw)
+
+            # Only keep deadlines we successfully normalized to ISO date
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date_norm):
+                continue
 
             job_low = current_job.lower()
             if any(k in job_low for k in phd_kw) and not any(e in job_low for e in exclude_kw):
