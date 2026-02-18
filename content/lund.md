@@ -1,5 +1,5 @@
 # Lund University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 59</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 55</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,46 +21,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Economic History (PA2026/35)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891747/type:job/where:4/apply:1)
-- **Deadline:** 15 Feb 2026
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer within antibody technology and cellular therapies (PA2026/352)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898448/type:job/where:4/apply:1)
-- **Deadline:** 16 Feb 2026
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Assistant researcher in Global Health (PA2026/249)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896142/type:job/where:4/apply:1)
-- **Deadline:** 16 Feb 2026
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Position in Remote Sensing of Crop Growth (PA2026/236)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896077/type:job/where:4/apply:1)
-- **Deadline:** 17 Feb 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant in genetics and diabetes (PA2026/391)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899545/type:job/where:4/apply:1)
-- **Deadline:** 17 Feb 2026
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Electrical Engineering focusing on digital circuit design for 6G (PA2026/105)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:892934/type:job/where:4/apply:1)
@@ -76,14 +36,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral fellow in immunotechnology (PA2026/350)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898446/type:job/where:4/apply:1)
-- **Deadline:** 18 Feb 2026
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Research Fellow in Multimodal Liquid Biopsy Analytics (Extracellular Vesicles, ToF-SIMS/MALDI, and Machine Learning) (PA2026/374)</h3>
 
@@ -92,26 +44,18 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellow at the Division of Molecular Skeletal Biology (PA2026/266)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in immunotechnology (PA2026/350)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896559/type:job/where:4/apply:1)
-- **Deadline:** 19 Feb 2026
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Assistant Researcher to the Unit Clinical Memory Research (PA2026/281)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896957/type:job/where:4/apply:1)
-- **Deadline:** 19 Feb 2026
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898446/type:job/where:4/apply:1)
+- **Deadline:** 18 Feb 2026
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Laboratory Assistant to the Unit of Clinical Memory Research (PA2026/295)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in Automatic Control with focus on Robotics (PA2026/29)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897247/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891647/type:job/where:4/apply:1)
 - **Deadline:** 19 Feb 2026
 
 </div>
@@ -124,10 +68,26 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in Automatic Control with focus on Robotics (PA2026/29)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellow at the Division of Molecular Skeletal Biology (PA2026/266)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891647/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896559/type:job/where:4/apply:1)
+- **Deadline:** 19 Feb 2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Laboratory Assistant to the Unit of Clinical Memory Research (PA2026/295)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897247/type:job/where:4/apply:1)
+- **Deadline:** 19 Feb 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Assistant Researcher to the Unit Clinical Memory Research (PA2026/281)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896957/type:job/where:4/apply:1)
 - **Deadline:** 19 Feb 2026
 
 </div>
@@ -140,14 +100,6 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer - fixed-term employment (PA2026/382)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899238/type:job/where:4/apply:1)
-- **Deadline:** 22 Feb 2026
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Machine Safety Engineer (PA2025/3482)</h3>
 
@@ -156,11 +108,11 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Bioinformatician in Microbial Gene Context Analysis (PA2026/425)</h3>
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineer - fixed-term employment (PA2026/382)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:900954/type:job/where:4/apply:1)
-- **Deadline:** 23 Feb 2026
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899238/type:job/where:4/apply:1)
+- **Deadline:** 22 Feb 2026
 
 </div>
 
@@ -168,6 +120,14 @@
 <h3>Associate researcher in Neurosurgery (PA2026/355)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898553/type:job/where:4/apply:1)
+- **Deadline:** 23 Feb 2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Bioinformatician in Microbial Gene Context Analysis (PA2026/425)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:900954/type:job/where:4/apply:1)
 - **Deadline:** 23 Feb 2026
 
 </div>
@@ -188,6 +148,14 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in immunotechnology (PA2026/349)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898445/type:job/where:4/apply:1)
+- **Deadline:** 27 Feb 2026
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Scientist at the STM/Mjolnir lab (temporary) (PA2026/505)</h3>
 
@@ -200,14 +168,6 @@
 <h3>Doctoral student in Immunotechnology (PA2026/377)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899103/type:job/where:4/apply:1)
-- **Deadline:** 27 Feb 2026
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in immunotechnology (PA2026/349)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898445/type:job/where:4/apply:1)
 - **Deadline:** 27 Feb 2026
 
 </div>
@@ -229,9 +189,25 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Human Rights Studies (PA2026/102)</h3>
+<h3>Doctoral Students in Automatic Control (PA2026/40)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:892871/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891846/type:job/where:4/apply:1)
+- **Deadline:** 1 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Control System Software Engineer (PA2026/432)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901063/type:job/where:4/apply:1)
+- **Deadline:** 1 Mar 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor (Associate Senior Lecturer) with specialization in Cognitive Robotics (PA2025/3065)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:870505/type:job/where:4/apply:1)
 - **Deadline:** 1 Mar 2026
 
 </div>
@@ -245,25 +221,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>At least one Doctoral student in Psychology (PA2026/175)</h3>
+<h3>Doctoral student in Human Rights Studies (PA2026/102)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:894675/type:job/where:4/apply:1)
-- **Deadline:** 1 Mar 2026
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral Students in Automatic Control (PA2026/40)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891846/type:job/where:4/apply:1)
-- **Deadline:** 1 Mar 2026
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor (Associate Senior Lecturer) with specialization in Cognitive Robotics (PA2025/3065)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:870505/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:892871/type:job/where:4/apply:1)
 - **Deadline:** 1 Mar 2026
 
 </div>
@@ -276,27 +236,11 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Control System Software Engineer (PA2026/432)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>At least one Doctoral student in Psychology (PA2026/175)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901063/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:894675/type:job/where:4/apply:1)
 - **Deadline:** 1 Mar 2026
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in CIS Engineering for Antimicrobials and Biocontrol (PA2026/13)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891067/type:job/where:4/apply:1)
-- **Deadline:** 2 Mar 2026
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position on transthyretin amyloid formation using X-rays, neutrons and electron microscopy (PA2026/115)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893315/type:job/where:4/apply:1)
-- **Deadline:** 2 Mar 2026
 
 </div>
 
@@ -312,6 +256,22 @@
 <h3>Post-doctoral fellow in physical chemistry: liquid-liquid phase separation in complex environments (PA2026/9)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890988/type:job/where:4/apply:1)
+- **Deadline:** 2 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position on transthyretin amyloid formation using X-rays, neutrons and electron microscopy (PA2026/115)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893315/type:job/where:4/apply:1)
+- **Deadline:** 2 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in CIS Engineering for Antimicrobials and Biocontrol (PA2026/13)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891067/type:job/where:4/apply:1)
 - **Deadline:** 2 Mar 2026
 
 </div>
@@ -365,14 +325,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computer Science with a focus on Sensor Fusion for Multi-task Learning (PA2026/525)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903830/type:job/where:4/apply:1)
-- **Deadline:** 6 Mar 2026
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral students in immunotechnology (PA2026/348)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898444/type:job/where:4/apply:1)
@@ -380,11 +332,11 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Control System Engineer for Beamlines, MAX IV (PA2026/107)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on Sensor Fusion for Multi-task Learning (PA2026/525)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893060/type:job/where:4/apply:1)
-- **Deadline:** 8 Mar 2026
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903830/type:job/where:4/apply:1)
+- **Deadline:** 6 Mar 2026
 
 </div>
 
@@ -397,10 +349,26 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Control System Engineer for Beamlines, MAX IV (PA2026/107)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893060/type:job/where:4/apply:1)
+- **Deadline:** 8 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>RF Engineer, MAX IV (PA2026/268)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896581/type:job/where:4/apply:1)
 - **Deadline:** 8 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistant as SI Leader for International master programmes at LTH (PA2026/435)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901194/type:job/where:4/apply:1)
+- **Deadline:** 9 Mar 2026
 
 </div>
 
@@ -421,7 +389,7 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>PostDoc Electrochemistry (PA2026/499)</h3>
+<h3>PostDoc in Electrochemical APXPS (PA2026/499)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903111/type:job/where:4/apply:1)
 - **Deadline:** 15 Mar 2026
@@ -468,18 +436,18 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer of Neurology combined with a Position as Specialist Physician/Consultant (PA2025/1658)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:827015/type:job/where:4/apply:1)
-- **Deadline:** 31 Mar 2026
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral Student in Media and Communication Studies (PA2026/227)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896015/type:job/where:4/apply:1)
+- **Deadline:** 31 Mar 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer of Neurology combined with a Position as Specialist Physician/Consultant (PA2025/1658)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:827015/type:job/where:4/apply:1)
 - **Deadline:** 31 Mar 2026
 
 </div>

@@ -21,38 +21,6 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Cyber-Physical Systems</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9742#item-9742)
-- **Deadline:** 2026-02-15
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor of Cyber-Physical Systems</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9748#item-9748)
-- **Deadline:** 2026-02-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in Space Systems with focus on spacecraft avionics</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9783#item-9783)
-- **Deadline:** 2026-02-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Biochemical Process Engineering</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9780#item-9780)
-- **Deadline:** 2026-02-16
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Machine Learning</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9842#item-9842)
@@ -68,35 +36,19 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Urban Water Engineering – climate change effects and adaptation in urban streams</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9797#item-9797)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Urban Water Engineering – Stormwater sediment: from risk to resource</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9800#item-9800)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Urban Water Engineering – hydrological dynamics in nature-based stormwater solutions</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9806#item-9806)
-- **Deadline:** 2026-02-22
-
-</div>
-
 <div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
 <h3>Senior Research Engineer in Robotics and Artificial Intelligence</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9862#item-9862)
 - **Deadline:** 2026-02-23
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Robotics and Artificial Intelligence</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9864#item-9864)
+- **Deadline:** 2026-02-24
 
 </div>
 
@@ -109,10 +61,10 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Robotics and Artificial Intelligence</h3>
+<h3>PhD Students in Process Metallurgy</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9864#item-9864)
-- **Deadline:** 2026-02-24
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9853#item-9853)
+- **Deadline:** 2026-02-28
 
 </div>
 
@@ -125,10 +77,26 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Students in Process Metallurgy</h3>
+<h3>PhD Student in Urban Water Engineering – hydrological dynamics in nature-based stormwater solutions</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9853#item-9853)
-- **Deadline:** 2026-02-28
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9806#item-9806)
+- **Deadline:** 2026-03-01
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Urban Water Engineering – Stormwater sediment: from risk to resource</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9800#item-9800)
+- **Deadline:** 2026-03-01
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Urban Water Engineering – climate change effects and adaptation in urban streams</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9797#item-9797)
+- **Deadline:** 2026-03-01
 
 </div>
 
@@ -137,6 +105,38 @@
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9866#item-9866)
 - **Deadline:** 2026-03-01
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor/Head of Subject of Fire Technology</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9701#item-9701)
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Soil Mechanics</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9945#item-9945)
+- **Deadline:** 2026-03-03
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuensis in Robotics and Artificial Intelligence</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9949#item-9949)
+- **Deadline:** 2026-03-03
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor/Head of Subject in Computer Science</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9705#item-9705)
+- **Deadline:** 2026-03-12
 </div></div>
 
 <script>

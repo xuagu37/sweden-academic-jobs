@@ -1,13 +1,5 @@
 # Karlstad University
 
-### Universitetsadjunkt i risk och miljöstudier
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895307/iframeEmbedded:0/where:4)
-- **Deadline:** 15.Feb.2026
-
-### Doctoral studentship in Social Work
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:876073/iframeEmbedded:0/where:4)
-- **Deadline:** 16.Feb.2026
-
 ### Postdoktor i medie- och kommunikationsvetenskap
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893616/iframeEmbedded:0/where:4)
 - **Deadline:** 18.Feb.2026

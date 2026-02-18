@@ -14,6 +14,7 @@ PY_SCRIPT="$SCRIPT_DIR/md_to_xhs_image.py"
 FONT="/System/Library/Fonts/Helvetica.ttc"
 
 mkdir -p "$OUT_DIR"
+rm -rf "$OUT_DIR"/*
 
 for f in "$RAW_DIR"/*.md; do
   uni=$(basename "$f" .md)

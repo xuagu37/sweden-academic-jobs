@@ -1,5 +1,13 @@
 # Chalmers University of Technology
 
+### Summer internship on Efficient Encoding of Quantum Information into a Propagating Mode
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14612)
+- **Deadline:** 2026-03-10
+
+### Assistant Professor in Data-driven cell and molecular biology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14582)
+- **Deadline:** 2026-04-17
+
 ### Postdoc in Evolved Star Science
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14588)
 - **Deadline:** 2026-03-20
@@ -120,18 +128,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14430)
 - **Deadline:** 2026-03-13
 
-### Doctoral student in Applied mathematics in communications
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14428)
-- **Deadline:** 2026-02-14
-
-### Chalmers söker en säkerhetssamordnare inom verksamhetssäkerhet
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14540)
-- **Deadline:** 2026-02-16
-
-### Administrativ chef till institutionen för Kemi och kemiteknik
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14333)
-- **Deadline:** 2026-02-17
-
 ### Doctoral student in machine learning theory
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14523)
 - **Deadline:** 2026-02-26
@@ -187,10 +183,6 @@
 ### Postdoc in Stochastic modeling of shape ensembles
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14519)
 - **Deadline:** 2026-02-28
-
-### Doctoral student in Materials Chemistry of Doped Organic Semiconductors in EU Training Network FADOS
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14188)
-- **Deadline:** 2026-02-16
 
 ### 15 Doctoral students in the field of Nanoscience and Nanotechnologies
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14529)
@@ -264,10 +256,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14498)
 - **Deadline:** 2026-03-08
 
-### Doctoral student in passive radar for Earth Observation
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14461)
-- **Deadline:** 2026-02-16
-
 ### 2 Doctoral students at the Department of Physics: Join us and expand knowledge
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14494)
 - **Deadline:** 2026-03-31
@@ -303,10 +291,6 @@
 ### Doctoral student in Optimal control of a superconducting bosonic processor
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14408)
 - **Deadline:** 2026-03-10
-
-### Assistant Professor in Integrated Electronics Design
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14415)
-- **Deadline:** 2026-02-15
 
 ### Doctoral student in photochemical reactivity under confinement
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14404)

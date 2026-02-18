@@ -35,15 +35,33 @@ import re
 from datetime import datetime
 from typing import List, Tuple
 from PIL import Image, ImageDraw, ImageFont
-from datetime import datetime
 
-DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2}|\d{1,2}\.[A-Za-z]{3}\.\d{4})")
+# More robust date matching:
+# - 2026-02-15
+# - 15 Feb 2026 / 15 February 2026 (optional comma)
+# - 15/02/2026 or 15.02.2026 or 15-02-2026
+# - 2026/02/15 or 2026.2.5 or 2026-2-5
+DATE_RE = re.compile(
+    r"("
+    r"\d{4}-\d{1,2}-\d{1,2}"
+    r"|"
+    r"\d{1,2}\s+[A-Za-z]{3,9},?\s+\d{4}"
+    r"|"
+    r"\d{1,2}[./-]\d{1,2}[./-]\d{4}"
+    r"|"
+    r"\d{4}[./-]\d{1,2}[./-]\d{1,2}"
+    r"|"
+    r"\d{1,2}\.[A-Za-z]{3,9}\.\d{4}"   # <-- add this
+    r")",
+    re.IGNORECASE,
+)
 
 
 
 def read_text(path: str) -> str:
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
+
 
 def normalize_university_name(name: str) -> str:
     mapping = {
@@ -57,28 +75,63 @@ def normalize_university_name(name: str) -> str:
     }
 
     low = name.lower().strip()
-
     for full, short in mapping.items():
         if full in low:
             return short
+    return name  # fallback
 
-    return name  # fallback if not matched
 
 def normalize_date(date_str: str) -> str:
     """
-    Convert supported date formats to YYYY-MM-DD
+    Convert supported date formats to YYYY-MM-DD (best effort).
+    If cannot parse, returns original string.
     """
+    s = date_str.strip()
+    s = s.replace(",", "")  # "15 Feb, 2026" -> "15 Feb 2026"
 
-    # already ISO
-    if "-" in date_str:
-        return date_str
+    # handle "15.Feb.2026" / "01.Mar.2026" -> "15 Feb 2026" / "01 Mar 2026"
+    s = re.sub(r"^(\d{1,2})\.([A-Za-z]{3,9})\.(\d{4})$", r"\1 \2 \3", s)
 
-    # format: 15.Feb.2026
+    # Try common formats first
+    for fmt in (
+        "%Y-%m-%d",
+        "%d %b %Y",
+        "%d %B %Y",
+        "%d/%m/%Y",
+        "%d.%m.%Y",
+        "%d-%m-%Y",
+        "%Y/%m/%d",
+        "%Y.%m.%d",
+        "%Y-%m-%d",
+    ):
+        try:
+            dt = datetime.strptime(s, fmt)
+            return dt.strftime("%Y-%m-%d")
+        except ValueError:
+            pass
+
+    # Handle numeric dates with single-digit month/day: 2026-2-5 or 2026/2/5 or 2026.2.5
+    s2 = re.sub(r"[./]", "-", s)
     try:
-        dt = datetime.strptime(date_str, "%d.%b.%Y")
-        return dt.strftime("%Y-%m-%d")
-    except ValueError:
-        return date_str  # fallback
+        if re.fullmatch(r"\d{4}-\d{1,2}-\d{1,2}", s2):
+            y, m, d = s2.split("-")
+            dt = datetime(int(y), int(m), int(d))
+            return dt.strftime("%Y-%m-%d")
+    except Exception:
+        pass
+
+    # Handle dd-m-yyyy where d/m may be 1 digit
+    try:
+        if re.fullmatch(r"\d{1,2}-\d{1,2}-\d{4}", s2):
+            d, m, y = s2.split("-")
+            dt = datetime(int(y), int(m), int(d))
+            return dt.strftime("%Y-%m-%d")
+    except Exception:
+        pass
+
+    return s
+
+
 
 def parse_md(md: str):
     """
@@ -90,14 +143,13 @@ def parse_md(md: str):
 
     ### Job title
     - **Link:** ...
-    - **Deadline:** YYYY-MM-DD
+    - **Deadline:** <various formats>
     """
 
     title = None
     items = []
     current_job = None
 
-    # broader phd keywords (EN)
     phd_kw = (
         "phd",
         "ph.d",
@@ -106,32 +158,22 @@ def parse_md(md: str):
         "doctorate student",
         "doctoral student",
     )
-    
-    exclude_kw = (
-    "postdoc",
-    "post-doc",
-    "postdoctoral",
-    "post doctoral",
-    )
 
-    # accept more deadline labels (case-insensitive)
-    deadline_labels = (
-        "deadline",
-        "closing date",
-        "closing",
-        "apply by",
-        "application deadline",
-        "last day to apply",
+    exclude_kw = (
+        "postdoc",
+        "post-doc",
+        "postdoctoral",
+        "post doctoral",
     )
 
     for raw in md.splitlines():
         line = raw.strip()
-        low = line.lower()
 
         # Document title
         if line.startswith("# "):
             raw_title = line[2:].strip()
             title = normalize_university_name(raw_title)
+            continue
 
         # Job title (accept ### and ##)
         if line.startswith("### "):
@@ -141,7 +183,8 @@ def parse_md(md: str):
             current_job = line[3:].strip()
             continue
 
-        # Deadline line (accept multiple labels)
+        # Deadline line: just look for a date anywhere in the line,
+        # and then normalize it.
         m = DATE_RE.search(line)
         if m and current_job:
             date_raw = m.group(1)
@@ -158,13 +201,12 @@ def parse_md(md: str):
     return title, items
 
 
-
 def sort_items(items):
     def key(x):
         try:
             return datetime.strptime(x[1], "%Y-%m-%d")
         except Exception:
-            return datetime.max
+            return datetime.max  # unparsed dates go last
 
     return sorted(items, key=key)
 
@@ -174,7 +216,6 @@ def wrap_text(draw, text, font, max_width):
     Word-aware wrapping for English.
     Falls back to character wrapping if a single word is too long.
     """
-
     words = text.split(" ")
     lines = []
     current_line = ""
@@ -413,7 +454,7 @@ def main():
         help='Path to a TTF/TTC font. mac example: "/System/Library/Fonts/Hiragino Sans GB.ttc"',
     )
     ap.add_argument("--width", type=int, default=1080, help="Image width, default 1080 (XHS friendly)")
-    ap.add_argument("--max-height", type=int, default=1400, help="Max height per image (default 2400)")
+    ap.add_argument("--max-height", type=int, default=1400, help="Max height per image (default 1400)")
     ap.add_argument("--left-ratio", type=float, default=0.82, help="Job title column width ratio (default 0.82)")
     ap.add_argument("--job-font", type=int, default=30, help="Job title font size (default 30)")
     ap.add_argument("--deadline-font", type=int, default=24, help="Deadline font size (default 24)")

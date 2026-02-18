@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 30</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 33</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,22 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in avian song evolution</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893045/where:4/)
-- **Deadline:** 2026-02-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Animal Behaviour</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893229/where:4/)
-- **Deadline:** 2026-02-15
 
 </div>
 
@@ -63,7 +47,7 @@
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Bioinformatics</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892435/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893396/where:4/)
 - **Deadline:** 2026-02-22
 
 </div>
@@ -79,7 +63,7 @@
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Bioinformatics</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893396/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892435/where:4/)
 - **Deadline:** 2026-02-22
 
 </div>
@@ -100,14 +84,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computer and Systems Sciences, with focus on Design of Energy Markets</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:876328/where:4/)
-- **Deadline:** 2026-02-27
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Researcher in Psychology - Work and Organisational Psychology</h3>
 
@@ -116,18 +92,18 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Quantum Information and Complex Dynamical Systems</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer and Systems Sciences, with focus on Design of Energy Markets</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896438/where:4/)
-- **Deadline:** 2026-02-28
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:876328/where:4/)
+- **Deadline:** 2026-02-27
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Physical Geography: Remote sensing of ice shelves in East Antarctica</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Zoology with focus on ecology and evolution</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896551/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883922/where:4/)
 - **Deadline:** 2026-02-28
 
 </div>
@@ -141,18 +117,34 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor in Zoology with focus on ecology and evolution</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883922/where:4/)
-- **Deadline:** 2026-02-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in Biodiversity</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883518/where:4/)
 - **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physical Geography: Remote sensing of ice shelves in East Antarctica</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896551/where:4/)
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Quantum Information and Complex Dynamical Systems</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896438/where:4/)
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellow at Stockholm Resilience Centre</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900820/where:4/)
+- **Deadline:** 2026-03-01
 
 </div>
 
@@ -164,11 +156,27 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellow at Stockholm Resilience Centre</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemical Physics: Quantum Chemical Simulations of Light-Induced Pathways</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900820/where:4/)
-- **Deadline:** 2026-03-01
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888169/where:4/)
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physics: 2D quantum simulations with trapped Rydberg ions</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894025/where:4/)
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physics: open quantum system simulations with trapped ions</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894049/where:4/)
+- **Deadline:** 2026-03-02
 
 </div>
 
@@ -189,30 +197,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Physics: open quantum system simulations with trapped ions</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894049/where:4/)
-- **Deadline:** 2026-03-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Physics: 2D quantum simulations with trapped Rydberg ions</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894025/where:4/)
-- **Deadline:** 2026-03-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Chemical Physics: Quantum Chemical Simulations of Light-Induced Pathways</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888169/where:4/)
-- **Deadline:** 2026-03-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Theoretical Physics: Theoretical Cosmology of the Early Universe</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888131/where:4/)
@@ -224,6 +208,14 @@
 <h3>Postdoctoral Fellow in quantum simulations with trapped Rydberg ions</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900483/where:4/)
+- **Deadline:** 2026-03-09
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Eco-evolutionary Modelling and Machine Learning</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:902750/where:4/)
 - **Deadline:** 2026-03-09
 
 </div>
@@ -244,11 +236,43 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Astronomy</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900572/where:4/)
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Law</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:903529/where:4/)
+- **Deadline:** 2026-03-20
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Procedural law with a focus on Arbitration Law</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:897645/where:4/)
 - **Deadline:** 2026-03-27
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in International Relations</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:904114/where:4/)
+- **Deadline:** 2026-04-10
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in International Relations</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:904113/where:4/)
+- **Deadline:** 2026-04-10
 
 </div>
 

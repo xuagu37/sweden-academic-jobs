@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 55</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 56</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,50 +20,10 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in interface development programming</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898910?l=en)
-- **Deadline:** Application deadline:2026-02-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher/Research software engineer in AI/machine learning</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/895841?l=en)
-- **Deadline:** Application deadline:2026-02-16
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in photonic semiconductor nanostructures</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/896606?l=en)
-- **Deadline:** Application deadline:2026-02-16
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher / Research software engineer in AI/machine learning</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899921?l=en)
-- **Deadline:** Application deadline:2026-02-17
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in networked control systems</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899065?l=en)
-- **Deadline:** Application deadline:2026-02-18
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Theoretical Condensed Matter Physics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/880357?l=en)
 - **Deadline:** Application deadline:2026-02-18
 
 </div>
@@ -169,6 +129,14 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/881712?l=en)
 - **Deadline:** Application deadline:2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in sonic interaction design for sleep technology</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904526?l=en)
+- **Deadline:** Application deadline:2026-03-01
 
 </div>
 
@@ -292,6 +260,14 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in atmospheric turbulence</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904326?l=en)
+- **Deadline:** Application deadline:2026-03-09
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Optimal Transport for Optimization and Machine Learning</h3>
 
@@ -397,6 +373,14 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Theoretical Condensed Matter Physics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/880357?l=en)
+- **Deadline:** Application deadline:2026-03-12
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Distributed Computing</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900111?l=en)
@@ -409,6 +393,14 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/901401?l=en)
 - **Deadline:** Application deadline:2026-03-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in underwater communication</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904319?l=en)
+- **Deadline:** Application deadline:2026-03-16
 
 </div>
 
@@ -436,11 +428,27 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in wireless communications</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/903854?l=en)
+- **Deadline:** Application deadline:2026-03-22
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Sustainable Metallurgy: Slag Design & Refractories</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898070?l=en)
 - **Deadline:** Application deadline:2026-03-26
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in machine learning, autonomous decision-making, and optimization.</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904538?l=en)
+- **Deadline:** Application deadline:2026-03-27
 
 </div>
 

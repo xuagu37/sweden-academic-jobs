@@ -1,5 +1,13 @@
 # Swedish University of Agricultural Sciences
 
+### Residency in Large Animal-/Equine Surgery
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14622)
+- **Deadline:** 2026-03-18
+
+### Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14678)
+- **Deadline:** 2026-03-03
+
 ### Postdoc in marine ecosystem-based fisheries assessment
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14609)
 - **Deadline:** 2026-02-28
@@ -68,10 +76,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14446)
 - **Deadline:** 2026-02-27
 
-### Doktorand
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14153)
-- **Deadline:** 2026-02-15
-
 ### Postdoc in computer vision for analysis of cattle behaviour and welfare
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14433)
 - **Deadline:** 2026-02-27
@@ -79,10 +83,6 @@
 ### Senior Lecturer/Associate Professor* in Rural Development in the Global South
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14320)
 - **Deadline:** 2026-04-13
-
-### Field staff wanted for field-based forest research during season 2026
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14435)
-- **Deadline:** 2026-02-15
 
 ### PhD position in the topic of “Agricultural Water Management”
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14426)

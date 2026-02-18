@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 23</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 24</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -57,6 +57,30 @@
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28487)
 - **Deadline:** 2026-03-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28588)
+- **Deadline:** 2026-03-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28589)
+- **Deadline:** 2026-03-10
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in the field of electrochemical energy storage</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28593)
+- **Deadline:** 2026-03-10
 
 </div>
 
@@ -185,22 +209,6 @@
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28118)
 - **Deadline:** 2026-02-19
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in secure distributed learning</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28209)
-- **Deadline:** 2026-02-16
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineer for Machine Learning in Materials Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28297)
-- **Deadline:** 2026-02-16
 </div></div>
 
 <script>

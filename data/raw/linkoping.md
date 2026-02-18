@@ -20,6 +20,18 @@
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28487)
 - **Deadline:** 2026-03-15
 
+### PhD student in Medical Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28588)
+- **Deadline:** 2026-03-10
+
+### PhD student in Medical Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28589)
+- **Deadline:** 2026-03-10
+
+### Postdoctoral position in the field of electrochemical energy storage
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28593)
+- **Deadline:** 2026-03-10
+
 ### PhD in Applied Physics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28573)
 - **Deadline:** 2026-03-09
@@ -83,12 +95,4 @@
 ### PhD student in biomedical engineering, deep learning for medical images
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28118)
 - **Deadline:** 2026-02-19
-
-### PhD student in secure distributed learning
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28209)
-- **Deadline:** 2026-02-16
-
-### Research Engineer for Machine Learning in Materials Science
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28297)
-- **Deadline:** 2026-02-16
 

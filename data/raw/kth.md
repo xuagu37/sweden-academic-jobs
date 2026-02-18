@@ -1,27 +1,7 @@
 # KTH
 
-### Research engineer in interface development programming
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898910?l=en)
-- **Deadline:** Application deadline:2026-02-15
-
-### Researcher/Research software engineer in AI/machine learning
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/895841?l=en)
-- **Deadline:** Application deadline:2026-02-16
-
-### Postdoc in photonic semiconductor nanostructures
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/896606?l=en)
-- **Deadline:** Application deadline:2026-02-16
-
-### Researcher / Research software engineer in AI/machine learning
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899921?l=en)
-- **Deadline:** Application deadline:2026-02-17
-
 ### Postdoc in networked control systems
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899065?l=en)
-- **Deadline:** Application deadline:2026-02-18
-
-### Doctoral student in Theoretical Condensed Matter Physics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/880357?l=en)
 - **Deadline:** Application deadline:2026-02-18
 
 ### Doctoral student in High-Level Synthesis for Electronic Systems Design
@@ -75,6 +55,10 @@
 ### Postdoc in Formal Verification of Protocols and Secure Compilation
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/881712?l=en)
 - **Deadline:** Application deadline:2026-02-28
+
+### Postdoc in sonic interaction design for sleep technology
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904526?l=en)
+- **Deadline:** Application deadline:2026-03-01
 
 ### Doctoral student in Predicting hydrological extremes with Earth data
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/895900?l=en)
@@ -136,6 +120,10 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900491?l=en)
 - **Deadline:** Application deadline:2026-03-05
 
+### Postdoc in atmospheric turbulence
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904326?l=en)
+- **Deadline:** Application deadline:2026-03-09
+
 ### Doctoral student in Optimal Transport for Optimization and Machine Learning
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/877863?l=en)
 - **Deadline:** Application deadline:2026-03-09
@@ -188,6 +176,10 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/899117?l=en)
 - **Deadline:** Application deadline:2026-03-12
 
+### Doctoral student in Theoretical Condensed Matter Physics
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/880357?l=en)
+- **Deadline:** Application deadline:2026-03-12
+
 ### Doctoral student in Distributed Computing
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900111?l=en)
 - **Deadline:** Application deadline:2026-03-15
@@ -195,6 +187,10 @@
 ### Doctoral students in Human Computer Interaction for XR in education and industry
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/901401?l=en)
 - **Deadline:** Application deadline:2026-03-15
+
+### Postdoctoral researcher in underwater communication
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904319?l=en)
+- **Deadline:** Application deadline:2026-03-16
 
 ### Doctoral student in  Nuclear Power Safety
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/894652?l=en)
@@ -208,9 +204,17 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898984?l=en)
 - **Deadline:** Application deadline:2026-03-20
 
+### Postdoc in wireless communications
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/903854?l=en)
+- **Deadline:** Application deadline:2026-03-22
+
 ### Doctoral student in Sustainable Metallurgy: Slag Design & Refractories
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898070?l=en)
 - **Deadline:** Application deadline:2026-03-26
+
+### Postdoc in machine learning, autonomous decision-making, and optimization.
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904538?l=en)
+- **Deadline:** Application deadline:2026-03-27
 
 ### Doctoral student in Experimental Fluid Mechanics & Artificial Intelligence
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898147?l=en)
