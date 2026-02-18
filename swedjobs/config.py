@@ -18,6 +18,7 @@ from .parser import (
     parse_jobs_dalarna,
     parse_jobs_gavle,
     parse_jobs_malardalen,
+    parse_jobs_miun,
 )
 
 UNIVERSITIES = [
@@ -147,4 +148,11 @@ UNIVERSITIES = [
         "fetcher": fetch_html,
         "parser": parse_jobs_malardalen,
     },
+    {
+        "slug": "miun",
+        "name": "Mid Sweden University",
+        "url": "https://www.miun.se/en/work-at-the-university/career/",
+        "fetcher": fetch_html,
+        "parser": parse_jobs_miun,
+    },    
 ]

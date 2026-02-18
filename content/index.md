@@ -37,6 +37,7 @@ lulea
 lund
 malardalen
 malmo
+miun
 slu
 sodertorn
 stockholm

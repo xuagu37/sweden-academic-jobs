@@ -62,44 +62,6 @@ def parse_jobs_lund(filepath: str):
 
     return jobs
 
-# def parse_jobs_uppsala(filepath: str):
-#     """
-#     Parses job listings from Uppsala University's HTML page using known class markers.
-
-#     Args:
-#         filepath (str): Path to the saved HTML file.
-
-#     Returns:
-#         List[Dict]: Parsed job entries with title, URL, department, and deadline.
-#     """
-#     with open(filepath, "r", encoding="utf-8") as f:
-#         html = f.read()
-
-#     soup = BeautifulSoup(html, "html.parser")
-#     jobs = []
-
-#     rows = soup.find_all("tr")
-#     for row in rows:
-#         title_td = row.find("td", class_="pos-title")
-#         dept_td = row.find("td", class_="pos-subcompany")
-#         deadline_td = row.find("td", class_="pos-ends")
-
-#         if title_td and title_td.a:
-#             title = title_td.a.get_text(strip=True)
-#             url = title_td.a.get("href")
-#             department = dept_td.get_text(strip=True) if dept_td else "N/A"
-#             deadline = deadline_td.get_text(strip=True) if deadline_td else "N/A"
-
-#             jobs.append({
-#                 "title": title,
-#                 "url": url,
-#                 "department": department,
-#                 "published": "",  # Published not available
-#                 "deadline": deadline
-#             })
-
-#     return jobs
-
 def parse_jobs_uppsala(filepath: str):
     """
     Parses job listings from Uppsala University's job page HTML structure.
@@ -916,6 +878,54 @@ def parse_jobs_malardalen(html_path: str) -> list[dict]:
             "department": "",
             "published": "",
             "deadline": deadline_match,
+        })
+
+    return jobs
+
+
+def parse_jobs_miun(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Mid Sweden University's vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, and deadline.
+    """
+    from bs4 import BeautifulSoup
+    from html import unescape
+
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    # Target the vacancies table
+    rows = soup.select("div.link-table table tbody tr")
+
+    for row in rows:
+        title_tag = row.select_one('td[data-header="Position"] a')
+        deadline_tag = row.select_one('td[data-header="Apply before"]')
+
+        if not title_tag or not deadline_tag:
+            continue
+
+        title = title_tag.get_text(strip=True)
+
+        raw_url = title_tag.get("href", "")
+        url = (
+            f"https://www.miun.se{unescape(raw_url)}"
+            if raw_url.startswith("/")
+            else unescape(raw_url)
+        )
+
+        deadline = deadline_tag.get_text(strip=True)
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "deadline": deadline,
         })
 
     return jobs

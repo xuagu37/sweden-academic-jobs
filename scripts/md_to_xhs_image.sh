@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+module load Miniforge3
+mamba activate sweden-academic-jobs
+
 # Get absolute path to this script
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 

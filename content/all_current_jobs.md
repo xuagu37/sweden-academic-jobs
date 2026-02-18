@@ -1,5 +1,5 @@
 # All Current Jobs
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 604</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 611</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -1651,20 +1651,10 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Lab manager inom forskningsområde kardiovaskulär medicin/kardiologi</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Lecturer in ---subject---</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895958/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc within epidemiology and register based research about heart failure in older people</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897678/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900519/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-18
 
@@ -1675,16 +1665,6 @@
 <h3>Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in ---subject---</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900519/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-18
 
@@ -1722,41 +1702,21 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens inom utveckling av datoralgoritmer för framtidens cellterapier</h3>
+<h3>Lab manager inom forskningsområde kardiovaskulär medicin/kardiologi</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898360/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895958/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research specialist in single-cell genomics and malaria</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900414/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
+- **Deadline:** 2026-02-18
 
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher for project on AI and work environment</h3>
+<h3>Postdoc within epidemiology and register based research about heart failure in older people</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901506/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897678/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Autism and Psychiatric Epidemiology</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:896647/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
+- **Deadline:** 2026-02-18
 
 
 </div>
@@ -1772,9 +1732,9 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Registry-Based Psoriasis Research</h3>
+<h3>Postdoctoral Researcher in Autism and Psychiatric Epidemiology</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:890949/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:896647/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-20
 
@@ -1801,12 +1761,42 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in affective learning and decision-making</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuens inom utveckling av datoralgoritmer för framtidens cellterapier</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894717/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898360/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Deadline:** 2026-02-22
+- **Deadline:** 2026-02-20
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Registry-Based Psoriasis Research</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:890949/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-20
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research specialist in single-cell genomics and malaria</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900414/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-20
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher for project on AI and work environment</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901506/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-20
 
 
 </div>
@@ -1825,6 +1815,16 @@
 <h3>Research assistant in peripheral neuroimmunology</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898878/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-22
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in affective learning and decision-making</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894717/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-22
 
@@ -1861,20 +1861,10 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral (PhD) student position in biostatistics</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor in Vascular Surgery combined with employment as at least specialist physician at Karolinska University Hospital</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:900575/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-25
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in the Nordic Brain Network group: brain imaging data in the context of clinical cohorts and trials, for personalized dementia prediction modelling</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902911/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:803480/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-25
 
@@ -1902,9 +1892,29 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral (PhD) student position in biostatistics</h3>
+<h3>Doctoral position in health data science</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:900575/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:887419/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-25
+
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor in Vascular Surgery combined with employment as at least specialist physician at Karolinska University Hospital</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:803480/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-25
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Experimental Neuroscience</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902638/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-25
 
@@ -1917,26 +1927,6 @@
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902546/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-26
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Vikarierande HR-chef sökes till CLINTEC</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903229/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-27
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Administratör till forskargruppen Rekonstruktiv plastikkirurgi & global kirurgi</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904086/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-27
 
 
 </div>
@@ -1962,6 +1952,16 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral studies on Extrahepatic delivery of RNA therapeutics (scholarship)</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898358/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-27
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in Mechanics of Heart Regeneration</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903516/type:job/where:4/apply:1)
@@ -1971,12 +1971,22 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral position in”New Oligonucleotide Constructs for Enhanced Delivery”</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Vikarierande HR-chef sökes till CLINTEC</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:896801/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903229/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Deadline:** 2026-02-28
+- **Deadline:** 2026-02-27
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Administratör till forskargruppen Rekonstruktiv plastikkirurgi & global kirurgi</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904086/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-27
 
 
 </div>
@@ -1985,6 +1995,26 @@
 <h3>Projektledare med fokus på processledning till FyFa</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899879/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-28
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral studies on Bruton’s Tyrosin Kinase – from inhibitors to gene correction</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898225/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-28
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Bioinformatics focusing on RNA biology and metabolic disease (scholarship)</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:868318/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-28
 
@@ -2011,20 +2041,20 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in Bioinformatics focusing on RNA biology and metabolic disease (scholarship)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant position in Patrik Ernfors’ group</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:868318/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902191/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-28
 
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant position in Patrik Ernfors’ group</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral position in”New Oligonucleotide Constructs for Enhanced Delivery”</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902191/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:896801/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-28
 
@@ -2067,26 +2097,6 @@
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903271/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-01
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>1-2 adjunkter i klinisk farmakologi sökes</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900509/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-03-02
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc within epidemiology and register based research about fractures and osteoporosis among older adults</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904813/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-03-02
 
 
 </div>
@@ -2145,6 +2155,26 @@
 <h3>Doctoral (PhD) student position in Quantitative Super-Resolution Microscopy for Podocyte Mechanobiology and Precision Diagnostics</h3>
 
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:903791/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-02
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>1-2 adjunkter i klinisk farmakologi sökes</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900509/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-02
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc within epidemiology and register based research about fractures and osteoporosis among older adults</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904813/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-02
 
@@ -2261,20 +2291,20 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Djurtekniker (sommarvikariat)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher studying epigenetic changes in quiescent cells</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902539/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898374/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-10
 
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher studying epigenetic changes in quiescent cells</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Djurtekniker (sommarvikariat)</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898374/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902539/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-10
 
@@ -2332,9 +2362,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors</h3>
+<h3>PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-04-05
 
@@ -2342,9 +2372,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors</h3>
+<h3>PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-04-05
 
@@ -3881,6 +3911,46 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Wireless Network Security and Trustworthy AI</h3>
+
+- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/postdoctoral-researcher-in-wireless--network-security-and-trustworthy-ai/)
+- **University:** Mid Sweden University
+- **Deadline:** 260304
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>A doctoral (PhD) student in Computer Engineering with focus on Visual AI</h3>
+
+- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/a-doctoral-phd-student-in-computer-engineering-with-focus-on-visual-ai/)
+- **University:** Mid Sweden University
+- **Deadline:** 260218
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD candidate in Sport Science - focus on cross-country skiing and biathlon</h3>
+
+- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/phd-candidate-in-sport-science---focus-on-cross-country-skiing-and-biathlon/)
+- **University:** Mid Sweden University
+- **Deadline:** 260220
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD candidate in Sport Science - focus on athlete health and performance</h3>
+
+- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/phd-candidate-in-sport-science---focus-on-athlete-health-and-performance/)
+- **University:** Mid Sweden University
+- **Deadline:** 260220
+
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor of Biology specialising in molecular physiology</h3>
 
@@ -4582,6 +4652,16 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Education with a focus on AI in Teacher Education (GRAITE)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
+- **University:** Umeå University
+- **Deadline:** 2026-02-27
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Education with a Focus on Vocational Education</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-education-with-a-focus-on-vocational-education_897383/)
@@ -4595,16 +4675,6 @@
 <h3>KOPIA AV KOPIA AV PhD Student in Education with a focus on AI in Teacher Education (LH)</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/kopia-av-kopia-av-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-lh_897641/)
-- **University:** Umeå University
-- **Deadline:** 2026-02-27
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Education with a focus on AI in Teacher Education (GRAITE)</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
 - **University:** Umeå University
 - **Deadline:** 2026-02-27
 
@@ -4632,9 +4702,39 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in philosophy</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Media and communications studies</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -4662,9 +4762,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in History and Education</h3>
+<h3>Doctoral student in Language teaching and learning</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -4672,9 +4772,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Language teaching and learning</h3>
+<h3>Doctoral student in History and Education</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -4692,29 +4792,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)</h3>
+<h3>Doctoral student in ethnology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Media and communications studies</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -4732,9 +4812,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in ethnology</h3>
+<h3>Doctoral student in Religious Studies/Theology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -4745,16 +4825,6 @@
 <h3>Doctoral student in Sámi (Language didactics)</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Religious Studies/Theology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 

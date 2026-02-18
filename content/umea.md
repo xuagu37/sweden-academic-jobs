@@ -69,6 +69,14 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Education with a focus on AI in Teacher Education (GRAITE)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
+- **Deadline:** 2026-02-27
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Education with a Focus on Vocational Education</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-education-with-a-focus-on-vocational-education_897383/)
@@ -80,14 +88,6 @@
 <h3>KOPIA AV KOPIA AV PhD Student in Education with a focus on AI in Teacher Education (LH)</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/kopia-av-kopia-av-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-lh_897641/)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Education with a focus on AI in Teacher Education (GRAITE)</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/-phd-student-in-education-with-a-focus-on-ai-in-teacher-education-graite_892865/)
 - **Deadline:** 2026-02-27
 
 </div>
@@ -109,9 +109,33 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in philosophy</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Media and communications studies</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -133,17 +157,17 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in History and Education</h3>
+<h3>Doctoral student in Language teaching and learning</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
 - **Deadline:** 2026-03-06
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Language teaching and learning</h3>
+<h3>Doctoral student in History and Education</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -157,25 +181,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)</h3>
+<h3>Doctoral student in ethnology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Media and communications studies</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -189,9 +197,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in ethnology</h3>
+<h3>Doctoral student in Religious Studies/Theology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -200,14 +208,6 @@
 <h3>Doctoral student in Sámi (Language didactics)</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Religious Studies/Theology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-religious-studiestheology_877488/)
 - **Deadline:** 2026-03-06
 
 </div>
