@@ -1,5 +1,5 @@
 # Karolinska Institute
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 74</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 78</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,174 +21,6 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in ---subject---</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900519/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Senior Research Infrastructure Specialist in vaccine immunology</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900878/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Endocrinology combined with position as least specialist physician at Karolinska University Hospital</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:878655/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Psychoneuroimmunology</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894098/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Lab manager inom forskningsområde kardiovaskulär medicin/kardiologi</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895958/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc within epidemiology and register based research about heart failure in older people</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897678/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Biträdande lektor i reumatologi med fokus på inflammatoriska processer i hjärnan</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899840/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Autism and Psychiatric Epidemiology</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:896647/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Indoor Air Quality – Risk Assessment and Management</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894763/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral studies in HPV epidemiology (scholarship)</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901174/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-20
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens inom utveckling av datoralgoritmer för framtidens cellterapier</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898360/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Registry-Based Psoriasis Research</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:890949/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-20
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research specialist in single-cell genomics and malaria</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900414/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher for project on AI and work environment</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901506/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral (PhD) student position in online autism support</h3>
-
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879039/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant in peripheral neuroimmunology</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898878/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in affective learning and decision-making</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894717/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Bioinformatician Position for Analyses of Autoimmune Diseases</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899649/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-23
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Clinical Genetics with a Focus on Molecular Hematology</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901944/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-23
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Cardiology combined with position as specialist physician at the Karolinska University Hospital - prolonged application period</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:877855/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-24
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor in Vascular Surgery combined with employment as at least specialist physician at Karolinska University Hospital</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:803480/type:job/where:4/apply:1)
@@ -196,18 +28,18 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant in Experimental Neuroscience</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in biostatistics</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902638/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:900575/type:job/where:4/apply:1)
 - **Deadline:** 2026-02-25
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Spatial Metabolism of Human Adipose Tissue</h3>
+<h3>Postdoctoral position in the Nordic Brain Network group: brain imaging data in the context of clinical cohorts and trials, for personalized dementia prediction modelling</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897720/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902911/type:job/where:4/apply:1)
 - **Deadline:** 2026-02-25
 
 </div>
@@ -220,10 +52,10 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor in Vascular Surgery combined with employment as at least specialist physician at Karolinska University Hospital</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Spatial Metabolism of Human Adipose Tissue</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:803480/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897720/type:job/where:4/apply:1)
 - **Deadline:** 2026-02-25
 
 </div>
@@ -292,22 +124,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Projektledare med fokus på processledning till FyFa</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899879/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-28
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral studies on Bruton’s Tyrosin Kinase – from inhibitors to gene correction</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898225/type:job/where:4/apply:1)
-- **Deadline:** 2026-02-28
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral researcher in Bioinformatics focusing on RNA biology and metabolic disease (scholarship)</h3>
 
@@ -348,11 +164,19 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in biodistribution and transport over the blood brain barrier of a biological drug candidate.</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Projektledare med fokus på processledning till FyFa</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:899854/type:job/where:4/apply:1)
-- **Deadline:** 2026-03-01
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899879/type:job/where:4/apply:1)
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral studies on Bruton’s Tyrosin Kinase – from inhibitors to gene correction</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898225/type:job/where:4/apply:1)
+- **Deadline:** 2026-02-28
 
 </div>
 
@@ -360,14 +184,6 @@
 <h3>Programmerare Behovsanställning</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902079/type:job/where:4/apply:1)
-- **Deadline:** 2026-03-01
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens till ABC/Komet-projektet</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894283/type:job/where:4/apply:1)
 - **Deadline:** 2026-03-01
 
 </div>
@@ -381,9 +197,25 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsassistent med fokus på hjärnavbildning inom Lewy Body sjukdom</h3>
+<h3>Amanuens till ABC/Komet-projektet</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904523/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894283/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-01
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in biodistribution and transport over the blood brain barrier of a biological drug candidate.</h3>
+
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:899854/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-01
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position(s) in adaptive immunity in cancer (up to 2)</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901699/type:job/where:4/apply:1)
 - **Deadline:** 2026-03-02
 
 </div>
@@ -392,6 +224,14 @@
 <h3>Doctoral (PhD) student position in Molecular Virology and Immunology</h3>
 
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:904581/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position(s) in adaptive immunity in cancer (up to 2)</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901699/type:job/where:4/apply:1)
 - **Deadline:** 2026-03-02
 
 </div>
@@ -408,14 +248,6 @@
 <h3>Adjunkt inom käkkirurgi till avdelningen för oral diagnostik och kirurgi</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904673/type:job/where:4/apply:1)
-- **Deadline:** 2026-03-02
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position(s) in adaptive immunity in cancer (up to 2)</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901699/type:job/where:4/apply:1)
 - **Deadline:** 2026-03-02
 
 </div>
@@ -492,6 +324,14 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Ekonom till Karolinska Institutet – Vikariat</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906280/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-06
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor in prehospital emergency care combined with employment as specialist nurse at Södersjukhuset</h3>
 
@@ -508,10 +348,42 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskningsspecialist i Bakteriologi och Cryo-EM</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905499/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskningsspecialist inom Bakteriologi och vacciner (vikariat)</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905513/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-06
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral researcher in precision nutrition and/or epidemiology</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903395/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskningsspecialist inom Bakteriologi och vacciner</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905466/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in Computational Genomics / Bioinformatics</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905387/type:job/where:4/apply:1)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -524,6 +396,22 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Var med och driv AI‑utvecklingen vid ett av världens ledande medicinska universitet – bli vår nya AI‑ingenjör</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906632/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-08
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Coordinator in Pharmacoepidemiology</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904096/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-08
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral research in leukemia microenvironment</h3>
 
@@ -532,10 +420,42 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Senior Research Specialist in Molecular Neuropsychopharmacology</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905120/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-09
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in multimodal analytics of dietary behaviour using digital data collection tools and clinical records</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905366/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-09
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher studying epigenetic changes in quiescent cells</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898374/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-10
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Title TA</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906744/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-10
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in global maternal health</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906058/type:job/where:4/apply:1)
 - **Deadline:** 2026-03-10
 
 </div>
@@ -549,6 +469,14 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant Position</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905828/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-11
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>DevOps-ingenjör (systemadministratör) till forskningsinfrastruktur</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901154/type:job/where:4/apply:1)
@@ -556,19 +484,115 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position - bioimaging approaches in neuroscience Theme: Neural basis of survival behaviors</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in infectious diseases with focus on virological analyses</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:899571/type:job/where:4/apply:1)
-- **Deadline:** 2026-03-20
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903769/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-12
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Doktorandplats med inriktning mot stöd till närstående vid Parkinson – kvalitativa och populationsbaserade perspektiv</h3>
+
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:887905/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-13
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) Student Position in Molecular and Translational Alzheimer’s Disease Research</h3>
+
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:905028/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Biostatistics or Epidemiology</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906394/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Systemutvecklare till institutionen för medicinsk epidemiologi och biostatistik</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906564/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Infrastructure Specialist at the Karolinska Institutet’s 3D-EM facility</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906419/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Karolinska Institutet söker E-handelssamordnare</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906740/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-15
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher positions in developing computational tools for DNA-microscopy based spatial omics</h3>
+<h3>Postdoc position in machine learning for cardiovascular imaging</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895772/type:job/where:4/apply:1)
-- **Deadline:** 2026-03-22
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906977/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Jurist med inriktning mot avtalsfrågor</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:907012/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in magnetic resonance imaging (MRI) physics</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:907001/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Senior Research Specialist</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906146/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-18
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor in clinical epidemiology combined with employment as at least specialist physician at Södersjukhuset</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:886758/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-19
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant to ANA Futura BSL3 Core Facility (part time)</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905573/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-20
 
 </div>
 
@@ -576,6 +600,14 @@
 <h3>Postdoctoral researcher positions in developing computational tools for DNA based data storage</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895724/type:job/where:4/apply:1)
+- **Deadline:** 2026-03-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher positions in developing computational tools for DNA-microscopy based spatial omics</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895772/type:job/where:4/apply:1)
 - **Deadline:** 2026-03-22
 
 </div>
@@ -589,17 +621,17 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors</h3>
+<h3>PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
 - **Deadline:** 2026-04-05
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors</h3>
+<h3>PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors</h3>
 
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
 - **Deadline:** 2026-04-05
 
 </div>

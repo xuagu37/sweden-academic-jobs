@@ -8,6 +8,10 @@
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28554)
 - **Deadline:** 2026-04-15
 
+### PhD student in Statistics and Machine Learning
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28601)
+- **Deadline:** 2026-04-10
+
 ### PhD Student in Computational Mathematics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28545)
 - **Deadline:** 2026-04-09
@@ -16,9 +20,29 @@
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28497)
 - **Deadline:** 2026-03-31
 
+### Assistant professor in Mathematical Analysis
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28612)
+- **Deadline:** 2026-03-31
+
+### PhD student in Medical Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28629)
+- **Deadline:** 2026-03-23
+
+### UX design assistant - Visualization Center C
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28613)
+- **Deadline:** 2026-03-16
+
+### PhD student in Medical Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28625)
+- **Deadline:** 2026-03-16
+
 ### Postdoc on Virtual Knowledge Graph Integration
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28487)
 - **Deadline:** 2026-03-15
+
+### Postdoctoral Researcher in Artificial Intelligence
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28587)
+- **Deadline:** 2026-03-13
 
 ### PhD student in Medical Science
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28588)
@@ -87,12 +111,4 @@
 ### Postdoctoral position on Active Optical Metasurfaces
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28502)
 - **Deadline:** 2026-02-25
-
-### Professor of Ageing and Social Change
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28195)
-- **Deadline:** 2026-02-22
-
-### PhD student in biomedical engineering, deep learning for medical images
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28118)
-- **Deadline:** 2026-02-19
 

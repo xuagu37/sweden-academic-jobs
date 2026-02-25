@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 56</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 55</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,82 +20,10 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in networked control systems</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899065?l=en)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in High-Level Synthesis for Electronic Systems Design</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898304?l=en)
-- **Deadline:** 2026-02-21
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineer in Optimal Control of Wave Energy Converter (WEC) Arrays</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/903797?l=en)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in AI-Driven optimization for future power grids</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900512?l=en)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Modelling of Streaming Electrification in Power Transformers</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899395?l=en)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Nuclear Power Safety</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/851095?l=en)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral Student in High-performance Quantum Software</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/878751?l=en)
-- **Deadline:** 2026-02-23
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Electronics Systems Design in CMOS 2.0</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898678?l=en)
-- **Deadline:** 2026-02-25
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctors in Nuclear Engineering</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/886403?l=en)
-- **Deadline:** 2026-02-25
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Nuclear Engineering</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/874734?l=en)
 - **Deadline:** 2026-02-25
 
 </div>
@@ -117,6 +45,14 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in fluid mechanics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905925?l=en)
+- **Deadline:** 2026-02-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Researcher in recycling of polymers by light-and electricity driven processes</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900382?l=en)
@@ -129,14 +65,6 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/881712?l=en)
 - **Deadline:** 2026-02-28
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in sonic interaction design for sleep technology</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904526?l=en)
-- **Deadline:** 2026-03-01
 
 </div>
 
@@ -169,6 +97,22 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
 - **Deadline:** 2026-03-02
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in methods for technical implementation of circular networks</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905949?l=en)
+- **Deadline:** 2026-03-04
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Molecular Genomics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/906285?l=en)
+- **Deadline:** 2026-03-04
 
 </div>
 
@@ -380,6 +324,14 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in sonic interaction design for sleep technology</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904526?l=en)
+- **Deadline:** 2026-03-15
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Distributed Computing</h3>
 
@@ -393,6 +345,14 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/901401?l=en)
 - **Deadline:** 2026-03-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in AI and Digitalization of Future Power Systems</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/906183?l=en)
+- **Deadline:** 2026-03-16
 
 </div>
 
@@ -417,6 +377,22 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/875645?l=en)
 - **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctors in Nuclear Engineering</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/886403?l=en)
+- **Deadline:** 2026-03-17
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Nuclear Engineering</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/874734?l=en)
+- **Deadline:** 2026-03-17
 
 </div>
 
@@ -457,6 +433,22 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898147?l=en)
 - **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in quantum algorithms for machine learning</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905700?l=en)
+- **Deadline:** 2026-04-06
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdocs in wireless communications</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905758?l=en)
+- **Deadline:** 2026-04-06
 
 </div>
 

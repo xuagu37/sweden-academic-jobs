@@ -1,5 +1,5 @@
 # Dalarna University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 0</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 1</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -16,7 +16,16 @@
 </div>
 
 <div id="jobList">
+<div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
 </div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>University Lecturer in Computer Science</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2686)
+- **Deadline:** 3/22/2026
+</div></div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {

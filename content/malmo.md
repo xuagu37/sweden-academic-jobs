@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 1</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 0</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -16,16 +16,7 @@
 </div>
 
 <div id="jobList">
-<div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
 </div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant in Interpretable Machine Learning</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4370)
-- **Deadline:** 23 February 2026
-</div></div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {

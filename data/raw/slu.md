@@ -1,5 +1,13 @@
 # Swedish University of Agricultural Sciences
 
+### Postdoc – Climate risk assessment in agriculture and forestry
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14647)
+- **Deadline:** 2026-03-31
+
+### Postdoktor Post-doctoral researcher position in soil health
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14696)
+- **Deadline:** 2026-05-04
+
 ### Residency in Large Animal-/Equine Surgery
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14622)
 - **Deadline:** 2026-03-18
@@ -24,10 +32,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14603)
 - **Deadline:** 2026-03-03
 
-### Postdoctoral researcher in anaerobic microbiology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14619)
-- **Deadline:** 2026-02-24
-
 ### Senior Lecturer/Associate Professor* of Veterinary Diagnostic Imaging
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14640)
 - **Deadline:** 2026-04-20
@@ -44,14 +48,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14558)
 - **Deadline:** 2026-03-16
 
-### Field assistent
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14599)
-- **Deadline:** 2026-02-23
-
-### Researcher in Conservation Biology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14581)
-- **Deadline:** 2026-02-23
-
 ### PhD Student in Animal Science
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14597)
 - **Deadline:** 2026-02-28
@@ -59,10 +55,6 @@
 ### Postdoctoral researcher in wood formation
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14535)
 - **Deadline:** 2026-02-27
-
-### Postdoctoral Researcher in Farm Animal Behaviour and Welfare
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14523)
-- **Deadline:** 2026-02-20
 
 ### Specialist in Veterinary Small Animal Surgery, SLU
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14527)

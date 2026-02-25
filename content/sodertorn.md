@@ -1,5 +1,5 @@
 # Södertörn University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 4</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 3</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,14 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Informationskoordinator</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I007/532/job?site=24&lang=UK&validator=2f5f4343b7f80edb4b210427ef968f34&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=9525)
-- **Deadline:** 2026-03-04
 
 </div>
 

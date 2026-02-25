@@ -1,5 +1,57 @@
 # Chalmers University of Technology
 
+### HR-chef
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14627)
+- **Deadline:** 2026-03-17
+
+### Postdoc in Data-driven methods for remote sensing of forests using the Biomass satellite
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14586)
+- **Deadline:** 2026-03-27
+
+### Labtekniker Systembiologi
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14623)
+- **Deadline:** 2026-03-10
+
+### Project assistant in biomaterials and biointerfaces
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14616)
+- **Deadline:** 2026-03-10
+
+### Doctoral Student in Grey-Box Modeling of Multiphase Flows
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14532)
+- **Deadline:** 2026-03-31
+
+### Doctoral Student in Quantum-Classical Modeling of Multiphase Flows
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14533)
+- **Deadline:** 2026-03-31
+
+### Postdoc in Grey-Box Modeling of Multiphase Flows
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14534)
+- **Deadline:** 2026-03-31
+
+### Postdoc in Quantum-Classical Modeling of Multiphase Flows
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14535)
+- **Deadline:** 2026-03-31
+
+### Lokalvårdare till Chalmers lokalvård
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14621)
+- **Deadline:** 2026-03-08
+
+### Postdoc in Conjugated Semiconductor Synthesis for Organic Photodetectors
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14610)
+- **Deadline:** 2026-03-20
+
+### Summer internship on Optimizing Noise Filtering for Robust Qubits
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14620)
+- **Deadline:** 2026-03-13
+
+### PhD student in integrated photonics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14604)
+- **Deadline:** 2026-03-30
+
+### Vill du stötta forskning i världsklass? Bli en del av Chalmers forskarstöd
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14613)
+- **Deadline:** 2026-03-05
+
 ### Summer internship on Efficient Encoding of Quantum Information into a Propagating Mode
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14612)
 - **Deadline:** 2026-03-10
@@ -28,21 +80,9 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14524)
 - **Deadline:** 2026-03-01
 
-### Administratör med fokus på forskarutbildning
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14601)
-- **Deadline:** 2026-02-23
-
-### Doctor in precision nutrition
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14591)
-- **Deadline:** 2026-02-23
-
 ### Doctoral student in LCA of Upcycling of Waste in Food Industry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14574)
 - **Deadline:** 2026-03-08
-
-### Administratör
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14580)
-- **Deadline:** 2026-02-20
 
 ### Doctoral student in satellite observations: deriving climate data by physically-based machine learning
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14589)
@@ -132,10 +172,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14523)
 - **Deadline:** 2026-02-26
 
-### Senior Researcher in Data-driven Nutrition
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14536)
-- **Deadline:** 2026-02-22
-
 ### Doctoral student in graph theory
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14438)
 - **Deadline:** 2026-03-01
@@ -144,10 +180,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14544)
 - **Deadline:** 2026-03-30
 
-### Postdoc in large-scale modeling and simulations of mixed-phase clouds
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14552)
-- **Deadline:** 2026-02-22
-
 ### MSCA Doctoral student in fluid-structure interactions in offshore wind farms
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14551)
 - **Deadline:** 2026-02-25
@@ -155,30 +187,6 @@
 ### Postdoc in mathematical optimization and systems theory
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14522)
 - **Deadline:** 2026-02-28
-
-### Postdoc in Electrosynthesis
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14530)
-- **Deadline:** 2026-02-20
-
-### Postdoc in Quantum-Classical Modeling of Multiphase Flows
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14535)
-- **Deadline:** 2026-02-28
-
-### Postdoc in Grey-Box Modeling of Multiphase Flows
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14534)
-- **Deadline:** 2026-02-28
-
-### Doctoral Student in Grey-Box Modeling of Multiphase Flows
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14532)
-- **Deadline:** 2026-02-28
-
-### Doctoral Student in Quantum-Classical Modeling of Multiphase Flows
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14533)
-- **Deadline:** 2026-02-28
-
-### Doctoral student in Physics-Encoded Neural Network material modeling
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14528)
-- **Deadline:** 2026-02-18
 
 ### Postdoc in Stochastic modeling of shape ensembles
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14519)
@@ -203,54 +211,6 @@
 ### Doctoral student in Accelerated solar cell materials exploration
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14500)
 - **Deadline:** 2026-03-08
-
-### Nine Doctoral student positions at the Department of Mathematical Sciences
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14489)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in computational mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14482)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in Geometric Hydrodynamics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14479)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in discrete optimization and computational complexity
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14478)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in Cancer Bioinformatics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14477)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in AI 3D city modelling
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14476)
-- **Deadline:** 2026-02-23
-
-### Postdoc in arithmetic and algebraic geometry
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14445)
-- **Deadline:** 2026-02-23
-
-### Postdoc in mathematics, with focus on educational science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14443)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in number theory or harmonic analysis
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14442)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14441)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in Mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14447)
-- **Deadline:** 2026-02-23
-
-### Doctoral student in Mathematical General Relativity
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14448)
-- **Deadline:** 2026-02-23
 
 ### Doctoral student in computational modelling of zinc-metal batteries
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14498)

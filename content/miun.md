@@ -1,5 +1,5 @@
 # Mid Sweden University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 4</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 1</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -25,30 +25,6 @@
 
 - **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/postdoctoral-researcher-in-wireless--network-security-and-trustworthy-ai/)
 - **Deadline:** 260304
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>A doctoral (PhD) student in Computer Engineering with focus on Visual AI</h3>
-
-- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/a-doctoral-phd-student-in-computer-engineering-with-focus-on-visual-ai/)
-- **Deadline:** 260218
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD candidate in Sport Science - focus on cross-country skiing and biathlon</h3>
-
-- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/phd-candidate-in-sport-science---focus-on-cross-country-skiing-and-biathlon/)
-- **Deadline:** 260220
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD candidate in Sport Science - focus on athlete health and performance</h3>
-
-- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/phd-candidate-in-sport-science---focus-on-athlete-health-and-performance/)
-- **Deadline:** 260220
 </div></div>
 
 <script>

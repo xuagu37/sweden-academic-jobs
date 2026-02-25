@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 13</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 15</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,14 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Postdoktor i medie- och kommunikationsvetenskap</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893616/iframeEmbedded:0/where:4)
-- **Deadline:** 18.Feb.2026
 
 </div>
 
@@ -93,6 +85,14 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Vikarierande universitetsadjunkt i matematik med inriktning mot didaktik</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:872584/iframeEmbedded:0/where:4)
+- **Deadline:** 12.Mar.2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Projektkoordinator</h3>
 
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895052/iframeEmbedded:0/where:4)
@@ -116,11 +116,27 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Utbildningshandläggare</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:906255/iframeEmbedded:0/where:4)
+- **Deadline:** 16.Mar.2026
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior lecturer in Gender Studies</h3>
 
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:898962/iframeEmbedded:0/where:4)
 - **Deadline:** 22.Mar.2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Educational Work, specialising in Sports Science</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:905516/iframeEmbedded:0/where:4)
+- **Deadline:** 31.Mar.2026
 </div></div>
 
 <script>

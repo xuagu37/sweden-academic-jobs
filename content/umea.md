@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 34</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 35</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,38 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computing Science with focus on Machine Learning for Graph Transformations</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-machine-learning-for-graph-transformations_895263/)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in molecular medicine</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-molecular-medicine_898101/)
-- **Deadline:** 2026-02-18
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Post doctor (2 years) within data privacy and machine learning</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-data-privacy-and-machine-learning-_895019/)
-- **Deadline:** 2026-02-19
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in regenerative plastic surgery</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-regenerative-plastic-surgery_899404/)
-- **Deadline:** 2026-02-24
 
 </div>
 
@@ -109,33 +77,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in philosophy</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Media and communications studies</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -157,9 +101,17 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Language teaching and learning</h3>
+<h3>Doctoral student in Media and communications studies</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -173,25 +125,17 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Language teaching and learning</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral Student in Educational work with focus on language</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-educational-work-with-focus-on-language-_894412/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in ethnology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in history</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history_877484/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -205,9 +149,17 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Sámi (Language didactics)</h3>
+<h3>Doctoral student in history</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history_877484/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in ethnology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -216,6 +168,14 @@
 <h3>Staff Scientist in Membrane Biology 9 months</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Sámi (Language didactics)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -252,6 +212,30 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff scientist within fungal DNA metabarcoding and mycorrhizal ecology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-within-fungal-dna-metabarcoding-and-mycorrhizal-ecology_905674/)
+- **Deadline:** 2026-03-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Systems Developer at the Arctic Centre, 50%</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/systems-developer-at-the-arctic-centre-50_905402/)
+- **Deadline:** 2026-03-13
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in philosophy</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+- **Deadline:** 2026-03-16
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Computing Science with focus on Software Lifecycle Security</h3>
 
@@ -260,11 +244,27 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computing Science with a focus on Machine Learning for Software Security</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-a-focus-on-machine-learning-for-software-security_906293/)
+- **Deadline:** 2026-03-22
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Post doctor (3 years) within mountain plant community and ecosystem processes across a globally distributed experiment</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-3-years-within-mountain-plant-community-and-ecosystem-processes-across-a-globally-distributed-experiment-_896357/)
 - **Deadline:** 2026-03-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Physical Geography, focusing on carbon fluxes in Arctic headwaters</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-physical-geography-focusing-on-carbon-fluxes-in-arctic-headwaters_905098/)
+- **Deadline:** 2026-03-30
 
 </div>
 
@@ -289,6 +289,14 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/2-phd-students-for-the-department-of-political-science_901941/)
 - **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Philosophy, specialization in Ethics in Teacher Education</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy-specialization-in-ethics-in-teacher-education_884774/)
+- **Deadline:** 2026-04-15
 </div></div>
 
 <script>

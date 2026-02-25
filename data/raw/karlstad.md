@@ -1,9 +1,5 @@
 # Karlstad University
 
-### Postdoktor i medie- och kommunikationsvetenskap
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893616/iframeEmbedded:0/where:4)
-- **Deadline:** 18.Feb.2026
-
 ### PhD student positions in Mathematics Education
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:878246/iframeEmbedded:0/where:4)
 - **Deadline:** 25.Feb.2026
@@ -36,6 +32,10 @@
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895196/iframeEmbedded:0/where:4)
 - **Deadline:** 08.Mar.2026
 
+### Vikarierande universitetsadjunkt i matematik med inriktning mot didaktik
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:872584/iframeEmbedded:0/where:4)
+- **Deadline:** 12.Mar.2026
+
 ### Projektkoordinator
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895052/iframeEmbedded:0/where:4)
 - **Deadline:** 15.Mar.2026
@@ -48,7 +48,15 @@
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:887414/iframeEmbedded:0/where:4)
 - **Deadline:** 16.Mar.2026
 
+### Utbildningshandläggare
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:906255/iframeEmbedded:0/where:4)
+- **Deadline:** 16.Mar.2026
+
 ### Senior lecturer in Gender Studies
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:898962/iframeEmbedded:0/where:4)
 - **Deadline:** 22.Mar.2026
+
+### Doctoral student in Educational Work, specialising in Sports Science
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:905516/iframeEmbedded:0/where:4)
+- **Deadline:** 31.Mar.2026
 

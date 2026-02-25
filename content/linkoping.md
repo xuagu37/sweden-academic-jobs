@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 24</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 28</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -37,6 +37,14 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Statistics and Machine Learning</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28601)
+- **Deadline:** 2026-04-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Computational Mathematics</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28545)
@@ -52,11 +60,51 @@
 
 </div>
 
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Mathematical Analysis</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28612)
+- **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28629)
+- **Deadline:** 2026-03-23
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>UX design assistant - Visualization Center C</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28613)
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28625)
+- **Deadline:** 2026-03-16
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc on Virtual Knowledge Graph Integration</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28487)
 - **Deadline:** 2026-03-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Artificial Intelligence</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28587)
+- **Deadline:** 2026-03-13
 
 </div>
 
@@ -193,22 +241,6 @@
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28502)
 - **Deadline:** 2026-02-25
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Ageing and Social Change</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28195)
-- **Deadline:** 2026-02-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in biomedical engineering, deep learning for medical images</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28118)
-- **Deadline:** 2026-02-19
 </div></div>
 
 <script>

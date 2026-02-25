@@ -1,6 +1,84 @@
 # All Current Jobs
 
 
+### HR-chef
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14627)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-17
+
+
+### Postdoc in Data-driven methods for remote sensing of forests using the Biomass satellite
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14586)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-27
+
+
+### Labtekniker Systembiologi
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14623)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-10
+
+
+### Project assistant in biomaterials and biointerfaces
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14616)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-10
+
+
+### Doctoral Student in Grey-Box Modeling of Multiphase Flows
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14532)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-31
+
+
+### Doctoral Student in Quantum-Classical Modeling of Multiphase Flows
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14533)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-31
+
+
+### Postdoc in Grey-Box Modeling of Multiphase Flows
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14534)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-31
+
+
+### Postdoc in Quantum-Classical Modeling of Multiphase Flows
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14535)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-31
+
+
+### Lokalvårdare till Chalmers lokalvård
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14621)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-08
+
+
+### Postdoc in Conjugated Semiconductor Synthesis for Organic Photodetectors
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14610)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-20
+
+
+### Summer internship on Optimizing Noise Filtering for Robust Qubits
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14620)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-13
+
+
+### PhD student in integrated photonics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14604)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-30
+
+
+### Vill du stötta forskning i världsklass? Bli en del av Chalmers forskarstöd
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14613)
+- **University:** Chalmers University of Technology
+- **Deadline:** 2026-03-05
+
+
 ### Summer internship on Efficient Encoding of Quantum Information into a Propagating Mode
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14612)
 - **University:** Chalmers University of Technology
@@ -43,28 +121,10 @@
 - **Deadline:** 2026-03-01
 
 
-### Administratör med fokus på forskarutbildning
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14601)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctor in precision nutrition
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14591)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
 ### Doctoral student in LCA of Upcycling of Waste in Food Industry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14574)
 - **University:** Chalmers University of Technology
 - **Deadline:** 2026-03-08
-
-
-### Administratör
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14580)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-20
 
 
 ### Doctoral student in satellite observations: deriving climate data by physically-based machine learning
@@ -199,12 +259,6 @@
 - **Deadline:** 2026-02-26
 
 
-### Senior Researcher in Data-driven Nutrition
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14536)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-22
-
-
 ### Doctoral student in graph theory
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14438)
 - **University:** Chalmers University of Technology
@@ -217,12 +271,6 @@
 - **Deadline:** 2026-03-30
 
 
-### Postdoc in large-scale modeling and simulations of mixed-phase clouds
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14552)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-22
-
-
 ### MSCA Doctoral student in fluid-structure interactions in offshore wind farms
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14551)
 - **University:** Chalmers University of Technology
@@ -233,42 +281,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14522)
 - **University:** Chalmers University of Technology
 - **Deadline:** 2026-02-28
-
-
-### Postdoc in Electrosynthesis
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14530)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-20
-
-
-### Postdoc in Quantum-Classical Modeling of Multiphase Flows
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14535)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-28
-
-
-### Postdoc in Grey-Box Modeling of Multiphase Flows
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14534)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-28
-
-
-### Doctoral Student in Grey-Box Modeling of Multiphase Flows
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14532)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-28
-
-
-### Doctoral Student in Quantum-Classical Modeling of Multiphase Flows
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14533)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-28
-
-
-### Doctoral student in Physics-Encoded Neural Network material modeling
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14528)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-18
 
 
 ### Postdoc in Stochastic modeling of shape ensembles
@@ -305,78 +317,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14500)
 - **University:** Chalmers University of Technology
 - **Deadline:** 2026-03-08
-
-
-### Nine Doctoral student positions at the Department of Mathematical Sciences
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14489)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in computational mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14482)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Geometric Hydrodynamics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14479)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in discrete optimization and computational complexity
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14478)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Cancer Bioinformatics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14477)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in AI 3D city modelling
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14476)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Postdoc in arithmetic and algebraic geometry
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14445)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Postdoc in mathematics, with focus on educational science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14443)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in number theory or harmonic analysis
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14442)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14441)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14447)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Mathematical General Relativity
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14448)
-- **University:** Chalmers University of Technology
-- **Deadline:** 2026-02-23
 
 
 ### Doctoral student in computational modelling of zinc-metal batteries
@@ -445,6 +385,60 @@
 - **Deadline:** 2026-03-08
 
 
+### University Lecturer in Computer Science
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2686)
+- **University:** Dalarna University
+- **Deadline:** 3/22/2026
+
+
+### Postdoctor in molecular and physiological neuroscience
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39833)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-18
+
+
+### Doctoral student in Basic Medicine, 4 positions
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39776)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-16
+
+
+### Postdoctoral in marine population genomics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39817)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-16
+
+
+### Postdoctoral fellow in development of peptidomimetic compounds for antivirulence therapy
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39726)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-17
+
+
+### Doctoral student in atomic and molecular physics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39322)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-08
+
+
+### Postdoctor in Health economics, biostatistics, epidemiology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39770)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-11
+
+
+### University lecturer in nursing with a specialisation in perioperative care
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39793)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-12
+
+
+### Postdoc in Physics - Minitweezers_POC
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39806)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-13
+
+
 ### Doctoral student in Physical Oceanography
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39778)
 - **University:** Gothenburg University
@@ -455,12 +449,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39755)
 - **University:** Gothenburg University
 - **Deadline:** 2026-03-05
-
-
-### Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39751)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-09
 
 
 ### Research Assistent
@@ -475,16 +463,22 @@
 - **Deadline:** 2026-03-12
 
 
-### Senior lecturer in ethnology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39564)
+### Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39751)
 - **University:** Gothenburg University
-- **Deadline:** 2026-03-19
+- **Deadline:** 2026-03-09
 
 
 ### Doctoral student in Medical Science - Targeting astrocytes in CNS diseases
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39296)
 - **University:** Gothenburg University
 - **Deadline:** 2026-03-11
+
+
+### Senior lecturer in ethnology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39564)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-19
 
 
 ### Researcher Specialized in Agent-Based Environmental Modelling
@@ -505,16 +499,16 @@
 - **Deadline:** 2026-03-12
 
 
-### Postdoctor in Microbiota and metabolism
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39712)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-04
-
-
 ### Postdoctoral fellow in Translational breast cancer research
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39613)
 - **University:** Gothenburg University
 - **Deadline:** 2026-03-05
+
+
+### Postdoctor in Microbiota and metabolism
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39712)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-04
 
 
 ### Doctoral student in Cultural Studies
@@ -523,10 +517,10 @@
 - **Deadline:** 2026-03-26
 
 
-### Associate Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39633)
+### Senior Lecturer in Occupational Therapy
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39318)
 - **University:** Gothenburg University
-- **Deadline:** 2026-03-03
+- **Deadline:** 2026-03-02
 
 
 ### Postdoctor in Hand Surgery and 3D virtual surgical planning
@@ -535,10 +529,10 @@
 - **Deadline:** 2026-03-04
 
 
-### Senior Lecturer in Occupational Therapy
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39318)
+### Associate Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39633)
 - **University:** Gothenburg University
-- **Deadline:** 2026-03-02
+- **Deadline:** 2026-03-03
 
 
 ### Postdoctor in Epidemiological and Clinical Studies in Obstetrics
@@ -547,16 +541,16 @@
 - **Deadline:** 2026-03-03
 
 
-### Researcher position in spintronics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39689)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-06
-
-
 ### Doctoral student in Medical Science - Airborne exposures and small airway dysfunction
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39302)
 - **University:** Gothenburg University
 - **Deadline:** 2026-03-05
+
+
+### Researcher position in spintronics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39689)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-06
 
 
 ### Doctoral student in Medical Science - Immune dysregulation in early juvenile idiopathic arthritis (JIA)
@@ -569,18 +563,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39667)
 - **University:** Gothenburg University
 - **Deadline:** 2026-02-27
-
-
-### Amanuens within research, Software Engineering
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39525)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-20
-
-
-### Amanuens within research in Formal Methods at the Computing Science Division
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39672)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-20
 
 
 ### Doctoral student in Natural Science Specialising in Chemistry - Nanoanalytical Chemistry Methods to Dissect Organelles
@@ -625,16 +607,16 @@
 - **Deadline:** 2026-03-01
 
 
-### Doctoral student in Education
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39422)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-01
-
-
 ### Associate researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39636)
 - **University:** Gothenburg University
 - **Deadline:** 2026-02-25
+
+
+### Doctoral student in Education
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39422)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-01
 
 
 ### Postdoctor in Translational Metabolic and Gastrointestinal Research
@@ -643,28 +625,52 @@
 - **Deadline:** 2026-02-27
 
 
-### Senior lecturer in Child Culture Design
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39603)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-17
-
-
 ### Postdoctor in structure and function of membrane proteins in native systems
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39614)
 - **University:** Gothenburg University
 - **Deadline:** 2026-04-04
 
 
-### Doctoral student in Medical Science - Mitochondrial function in preterm infants
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39556)
+### Senior lecturer in Child Culture Design
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39603)
 - **University:** Gothenburg University
-- **Deadline:** 2026-02-24
+- **Deadline:** 2026-03-17
 
 
-### Researcher in Obstetrics and Gynecology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39558)
+### Associate Senior Lecturer (Assistant Professor) in Psychiatry with a focus on neurobiological and cognitive processes
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39527)
 - **University:** Gothenburg University
-- **Deadline:** 2026-02-19
+- **Deadline:** 2026-03-16
+
+
+### Associate Senior Lecturer (Assistant Professor) in Health and Care Sciences
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39539)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-16
+
+
+### Associate Senior Lecturer (Assistant Professor) in Physiotherapy
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39542)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-16
+
+
+### Associate Senior Lecturer (Assistant Professor) in Translational pharmacology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39555)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-16
+
+
+### Associate Senior Lecturer (Assistant Professor) in Experimental pharmacology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39560)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-16
+
+
+### Associate Senior Lecturer (Assistant Professor) in Medical Radiation Physics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39518)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-16
 
 
 ### Associate Senior Lecturer (Assistant Professor) in Molecular and translational medicine
@@ -685,154 +691,16 @@
 - **Deadline:** 2026-03-16
 
 
-### Associate Senior Lecturer (Assistant Professor) in Experimental pharmacology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39560)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-16
-
-
-### Associate Senior Lecturer (Assistant Professor) in Translational pharmacology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39555)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-16
-
-
-### Associate Senior Lecturer (Assistant Professor) in Physiotherapy
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39542)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-16
-
-
-### Associate Senior Lecturer (Assistant Professor) in Health and Care Sciences
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39539)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-16
-
-
-### Associate Senior Lecturer (Assistant Professor) in Psychiatry with a focus on neurobiological and cognitive processes
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39527)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-16
-
-
-### Associate Senior Lecturer (Assistant Professor) in Medical Radiation Physics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39518)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-16
-
-
-### Doctoral student in Spintronics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39547)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-22
-
-
-### Associate Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39587)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-20
-
-
-### Project assistant within the project Change is Key!, one or several
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39571)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-18
-
-
-### Postdoctoral fellow in Perinatal medical research
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39562)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-22
-
-
-### Postdoctor in Obstetrics and Gynecology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39450)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-24
-
-
-### Postdoctor in Neuroscience/Neuroendocrinology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39472)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-18
-
-
-### Doctoral student in Medical Science - Can Sustained Weight Loss from Midlife Improve Well-being in the Elderly?
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39492)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - Patient-based model systems in cancer
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39284)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - Viral Immunology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39286)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - NOX2-derived ROS in pancreatic cancer
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39288)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - Targeting Lung Cancer Metabolism
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39289)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - Molecular biology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39290)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - Biomaterials
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39295)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - Molecular medicine
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39299)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - Workplace intervention in construction industry
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39300)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral position in Sport Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39489)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-01
-
-
 ### Doctoral student in Food and Nutrition
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39495)
 - **University:** Gothenburg University
 - **Deadline:** 2026-03-01
 
 
-### Doctoral student in Medical Science - From imaging to insight: Loading-based MRI and data-driven approaches for low back pain diagnosis
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39291)
+### Doctoral position in Sport Science
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39489)
 - **University:** Gothenburg University
-- **Deadline:** 2026-02-23
-
-
-### Doctoral student in Medical Science - Post-Radiation Intestinal Health
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39294)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-23
+- **Deadline:** 2026-03-01
 
 
 ### Four Doctoral positions in subject-matter education
@@ -847,14 +715,14 @@
 - **Deadline:** 2026-03-15
 
 
-### Three or more doctoral positions in Education/Educational Work/Subject Matter Education within the research school ASSESS
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39468)
+### Three doctoral positions in Education/Educational Work within the Research School STEPS
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39493)
 - **University:** Gothenburg University
 - **Deadline:** 2026-03-06
 
 
-### Three doctoral positions in Education/Educational Work within the Research School STEPS
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39493)
+### Three or more doctoral positions in Education/Educational Work/Subject Matter Education within the research school ASSESS
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39468)
 - **University:** Gothenburg University
 - **Deadline:** 2026-03-06
 
@@ -865,34 +733,16 @@
 - **Deadline:** 2026-03-06
 
 
-### Senior lecturer in Botany specialising in systematics of non-vascular plants and other cryptogams
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39401)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-26
-
-
 ### Senior Lecturer in Botany specialising in vascular plant systematics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39395)
 - **University:** Gothenburg University
 - **Deadline:** 2026-02-26
 
 
-### ASSOCIATE RESEARCHER IN PROTEOMICS AND MASS SPECTROMETRY
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39347)
+### Senior lecturer in Botany specialising in systematics of non-vascular plants and other cryptogams
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39401)
 - **University:** Gothenburg University
-- **Deadline:** 2026-02-18
-
-
-### Postdoctor in single-cell genomics and imaging of kidney injury
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39310)
-- **University:** Gothenburg University
-- **Deadline:** 2026-03-15
-
-
-### Doctoral student in atomic and molecular physics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39322)
-- **University:** Gothenburg University
-- **Deadline:** 2026-02-22
+- **Deadline:** 2026-02-26
 
 
 ### One doctoral student position in Theoretical Physics (Condensed Matter Theory/Statistical Physics)
@@ -901,10 +751,10 @@
 - **Deadline:** 2026-03-01
 
 
-### Postdoktor i medie- och kommunikationsvetenskap
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893616/iframeEmbedded:0/where:4)
-- **University:** Karlstad University
-- **Deadline:** 18.Feb.2026
+### Postdoctor in single-cell genomics and imaging of kidney injury
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=39310)
+- **University:** Gothenburg University
+- **Deadline:** 2026-03-15
 
 
 ### PhD student positions in Mathematics Education
@@ -955,6 +805,12 @@
 - **Deadline:** 08.Mar.2026
 
 
+### Vikarierande universitetsadjunkt i matematik med inriktning mot didaktik
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:872584/iframeEmbedded:0/where:4)
+- **University:** Karlstad University
+- **Deadline:** 12.Mar.2026
+
+
 ### Projektkoordinator
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895052/iframeEmbedded:0/where:4)
 - **University:** Karlstad University
@@ -973,136 +829,22 @@
 - **Deadline:** 16.Mar.2026
 
 
+### Utbildningshandläggare
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:906255/iframeEmbedded:0/where:4)
+- **University:** Karlstad University
+- **Deadline:** 16.Mar.2026
+
+
 ### Senior lecturer in Gender Studies
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:898962/iframeEmbedded:0/where:4)
 - **University:** Karlstad University
 - **Deadline:** 22.Mar.2026
 
 
-### Lecturer in ---subject---
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900519/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-### Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-### Senior Research Infrastructure Specialist in vaccine immunology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900878/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-### Senior Lecturer in Endocrinology combined with position as least specialist physician at Karolinska University Hospital
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:878655/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-### Postdoctoral Researcher in Psychoneuroimmunology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894098/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-### Lab manager inom forskningsområde kardiovaskulär medicin/kardiologi
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895958/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-### Postdoc within epidemiology and register based research about heart failure in older people
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897678/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-18
-
-
-### Biträdande lektor i reumatologi med fokus på inflammatoriska processer i hjärnan
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899840/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-### Postdoctoral Researcher in Autism and Psychiatric Epidemiology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:896647/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-### Postdoctoral Researcher in Indoor Air Quality – Risk Assessment and Management
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894763/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-### Postdoctoral studies in HPV epidemiology (scholarship)
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901174/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-### Amanuens inom utveckling av datoralgoritmer för framtidens cellterapier
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898360/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-### Postdoctoral Researcher in Registry-Based Psoriasis Research
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:890949/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-### Research specialist in single-cell genomics and malaria
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:900414/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-### Postdoctoral researcher for project on AI and work environment
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901506/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-20
-
-
-### Doctoral (PhD) student position in online autism support
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879039/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-22
-
-
-### Research assistant in peripheral neuroimmunology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898878/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-22
-
-
-### Postdoctoral Researcher in affective learning and decision-making
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894717/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-22
-
-
-### Bioinformatician Position for Analyses of Autoimmune Diseases
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899649/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-23
-
-
-### Postdoctoral Researcher in Clinical Genetics with a Focus on Molecular Hematology
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901944/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-23
-
-
-### Senior Lecturer in Cardiology combined with position as specialist physician at the Karolinska University Hospital - prolonged application period
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:877855/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-24
+### Doctoral student in Educational Work, specialising in Sports Science
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:905516/iframeEmbedded:0/where:4)
+- **University:** Karlstad University
+- **Deadline:** 31.Mar.2026
 
 
 ### Professor in Vascular Surgery combined with employment as at least specialist physician at Karolinska University Hospital
@@ -1111,14 +853,14 @@
 - **Deadline:** 2026-02-25
 
 
-### Research Assistant in Experimental Neuroscience
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902638/type:job/where:4/apply:1)
+### Doctoral (PhD) student position in biostatistics
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:900575/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-25
 
 
-### Postdoctoral Researcher in Spatial Metabolism of Human Adipose Tissue
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897720/type:job/where:4/apply:1)
+### Postdoctoral position in the Nordic Brain Network group: brain imaging data in the context of clinical cohorts and trials, for personalized dementia prediction modelling
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902911/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-25
 
@@ -1129,8 +871,8 @@
 - **Deadline:** 2026-02-25
 
 
-### Professor in Vascular Surgery combined with employment as at least specialist physician at Karolinska University Hospital
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:803480/type:job/where:4/apply:1)
+### Postdoctoral Researcher in Spatial Metabolism of Human Adipose Tissue
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:897720/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-02-25
 
@@ -1183,18 +925,6 @@
 - **Deadline:** 2026-02-27
 
 
-### Projektledare med fokus på processledning till FyFa
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899879/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-28
-
-
-### Postdoctoral studies on Bruton’s Tyrosin Kinase – from inhibitors to gene correction
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898225/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-02-28
-
-
 ### Postdoctoral researcher in Bioinformatics focusing on RNA biology and metabolic disease (scholarship)
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:868318/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1225,20 +955,20 @@
 - **Deadline:** 2026-02-28
 
 
-### PhD position in biodistribution and transport over the blood brain barrier of a biological drug candidate.
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:899854/type:job/where:4/apply:1)
+### Projektledare med fokus på processledning till FyFa
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:899879/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Deadline:** 2026-03-01
+- **Deadline:** 2026-02-28
+
+
+### Postdoctoral studies on Bruton’s Tyrosin Kinase – from inhibitors to gene correction
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898225/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-02-28
 
 
 ### Programmerare Behovsanställning
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:902079/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-03-01
-
-
-### Amanuens till ABC/Komet-projektet
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894283/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-01
 
@@ -1249,14 +979,32 @@
 - **Deadline:** 2026-03-01
 
 
-### Forskningsassistent med fokus på hjärnavbildning inom Lewy Body sjukdom
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904523/type:job/where:4/apply:1)
+### Amanuens till ABC/Komet-projektet
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:894283/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-01
+
+
+### PhD position in biodistribution and transport over the blood brain barrier of a biological drug candidate.
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:899854/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-01
+
+
+### Postdoctoral position(s) in adaptive immunity in cancer (up to 2)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901699/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-02
 
 
 ### Doctoral (PhD) student position in Molecular Virology and Immunology
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:904581/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-02
+
+
+### Postdoctoral position(s) in adaptive immunity in cancer (up to 2)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901699/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-02
 
@@ -1269,12 +1017,6 @@
 
 ### Adjunkt inom käkkirurgi till avdelningen för oral diagnostik och kirurgi
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904673/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Deadline:** 2026-03-02
-
-
-### Postdoctoral position(s) in adaptive immunity in cancer (up to 2)
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901699/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-02
 
@@ -1333,6 +1075,12 @@
 - **Deadline:** 2026-03-05
 
 
+### Ekonom till Karolinska Institutet – Vikariat
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906280/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-06
+
+
 ### Professor in prehospital emergency care combined with employment as specialist nurse at Södersjukhuset
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:878903/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1345,8 +1093,32 @@
 - **Deadline:** 2026-03-06
 
 
+### Forskningsspecialist i Bakteriologi och Cryo-EM
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905499/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-06
+
+
+### Forskningsspecialist inom Bakteriologi och vacciner (vikariat)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905513/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-06
+
+
 ### Postdoctoral researcher in precision nutrition and/or epidemiology
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903395/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-06
+
+
+### Forskningsspecialist inom Bakteriologi och vacciner
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905466/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-06
+
+
+### Research assistant in Computational Genomics / Bioinformatics
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905387/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-06
 
@@ -1357,14 +1129,50 @@
 - **Deadline:** 2026-03-07
 
 
+### Var med och driv AI‑utvecklingen vid ett av världens ledande medicinska universitet – bli vår nya AI‑ingenjör
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906632/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-08
+
+
+### Research Coordinator in Pharmacoepidemiology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:904096/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-08
+
+
 ### Postdoctoral research in leukemia microenvironment
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898674/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-08
 
 
+### Senior Research Specialist in Molecular Neuropsychopharmacology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905120/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-09
+
+
+### Research assistant in multimodal analytics of dietary behaviour using digital data collection tools and clinical records
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905366/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-09
+
+
 ### Postdoctoral Researcher studying epigenetic changes in quiescent cells
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:898374/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-10
+
+
+### Title TA
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906744/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-10
+
+
+### Research assistant in global maternal health
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906058/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-10
 
@@ -1375,26 +1183,110 @@
 - **Deadline:** 2026-03-10
 
 
+### Research Assistant Position
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905828/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-11
+
+
 ### DevOps-ingenjör (systemadministratör) till forskningsinfrastruktur
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:901154/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-11
 
 
-### PhD position - bioimaging approaches in neuroscience Theme: Neural basis of survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:899571/type:job/where:4/apply:1)
+### Postdoctoral Researcher in infectious diseases with focus on virological analyses
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:903769/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-12
+
+
+### Doktorandplats med inriktning mot stöd till närstående vid Parkinson – kvalitativa och populationsbaserade perspektiv
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:887905/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-13
+
+
+### Doctoral (PhD) Student Position in Molecular and Translational Alzheimer’s Disease Research
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:905028/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-13
+
+
+### Research Assistant in Biostatistics or Epidemiology
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906394/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-13
+
+
+### Systemutvecklare till institutionen för medicinsk epidemiologi och biostatistik
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906564/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-13
+
+
+### Research Infrastructure Specialist at the Karolinska Institutet’s 3D-EM facility
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906419/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-13
+
+
+### Karolinska Institutet söker E-handelssamordnare
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906740/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-15
+
+
+### Postdoc position in machine learning for cardiovascular imaging
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906977/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-16
+
+
+### Jurist med inriktning mot avtalsfrågor
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:907012/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-16
+
+
+### Postdoctoral position in magnetic resonance imaging (MRI) physics
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:907001/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-16
+
+
+### Senior Research Specialist
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:906146/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-16
+
+
+### Postdoktor i psykologiska interventioner för återfallsprevention hos barn och ungdomar
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:893703/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-18
+
+
+### Professor in clinical epidemiology combined with employment as at least specialist physician at Södersjukhuset
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:886758/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Deadline:** 2026-03-19
+
+
+### Research Assistant to ANA Futura BSL3 Core Facility (part time)
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:905573/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-20
 
 
-### Postdoctoral researcher positions in developing computational tools for DNA-microscopy based spatial omics
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895772/type:job/where:4/apply:1)
+### Postdoctoral researcher positions in developing computational tools for DNA based data storage
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895724/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-22
 
 
-### Postdoctoral researcher positions in developing computational tools for DNA based data storage
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895724/type:job/where:4/apply:1)
+### Postdoctoral researcher positions in developing computational tools for DNA-microscopy based spatial omics
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:895772/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-03-22
 
@@ -1405,14 +1297,14 @@
 - **Deadline:** 2026-03-29
 
 
-### PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
+### PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-04-05
 
 
-### PhD position – Bioengineering and Neuroscience Theme: Neural basis of survival behaviors
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:877859/type:job/where:4/apply:1)
+### PhD position – Computational Neuroscience and Systems Biology. Theme: Neural dynamics underlying survival behaviors
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:879932/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Deadline:** 2026-04-05
 
@@ -1423,62 +1315,8 @@
 - **Deadline:** 2026-05-15
 
 
-### Postdoc in networked control systems
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899065?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-18
-
-
-### Doctoral student in High-Level Synthesis for Electronic Systems Design
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898304?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-21
-
-
-### Research Engineer in Optimal Control of Wave Energy Converter (WEC) Arrays
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/903797?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-22
-
-
-### Researcher in AI-Driven optimization for future power grids
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900512?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-22
-
-
-### Postdoc in Modelling of Streaming Electrification in Power Transformers
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899395?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-22
-
-
-### Postdoc in Nuclear Power Safety
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/851095?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-22
-
-
-### Doctoral Student in High-performance Quantum Software
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/878751?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-23
-
-
 ### Doctoral student in Electronics Systems Design in CMOS 2.0
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898678?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-25
-
-
-### Postdoctors in Nuclear Engineering
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/886403?l=en)
-- **University:** KTH
-- **Deadline:** 2026-02-25
-
-
-### Postdoc in Nuclear Engineering
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/874734?l=en)
 - **University:** KTH
 - **Deadline:** 2026-02-25
 
@@ -1495,6 +1333,12 @@
 - **Deadline:** 2026-02-27
 
 
+### Postdoc in fluid mechanics
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905925?l=en)
+- **University:** KTH
+- **Deadline:** 2026-02-28
+
+
 ### Researcher in recycling of polymers by light-and electricity driven processes
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900382?l=en)
 - **University:** KTH
@@ -1505,12 +1349,6 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/881712?l=en)
 - **University:** KTH
 - **Deadline:** 2026-02-28
-
-
-### Postdoc in sonic interaction design for sleep technology
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904526?l=en)
-- **University:** KTH
-- **Deadline:** 2026-03-01
 
 
 ### Doctoral student in Predicting hydrological extremes with Earth data
@@ -1535,6 +1373,18 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
 - **University:** KTH
 - **Deadline:** 2026-03-02
+
+
+### Postdoc in methods for technical implementation of circular networks
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905949?l=en)
+- **University:** KTH
+- **Deadline:** 2026-03-04
+
+
+### Research Engineer in Molecular Genomics
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/906285?l=en)
+- **University:** KTH
+- **Deadline:** 2026-03-04
 
 
 ### Doctoral student in nuclear materials
@@ -1693,6 +1543,12 @@
 - **Deadline:** 2026-03-12
 
 
+### Postdoc in sonic interaction design for sleep technology
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/904526?l=en)
+- **University:** KTH
+- **Deadline:** 2026-03-15
+
+
 ### Doctoral student in Distributed Computing
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900111?l=en)
 - **University:** KTH
@@ -1703,6 +1559,12 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/901401?l=en)
 - **University:** KTH
 - **Deadline:** 2026-03-15
+
+
+### Researcher in AI and Digitalization of Future Power Systems
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/906183?l=en)
+- **University:** KTH
+- **Deadline:** 2026-03-16
 
 
 ### Postdoctoral researcher in underwater communication
@@ -1721,6 +1583,18 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/875645?l=en)
 - **University:** KTH
 - **Deadline:** 2026-03-16
+
+
+### Postdoctors in Nuclear Engineering
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/886403?l=en)
+- **University:** KTH
+- **Deadline:** 2026-03-17
+
+
+### Postdoc in Nuclear Engineering
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/874734?l=en)
+- **University:** KTH
+- **Deadline:** 2026-03-17
 
 
 ### Doctoral student in Turbomachinery and fluid mechanics
@@ -1753,6 +1627,18 @@
 - **Deadline:** 2026-03-31
 
 
+### Postdoc in quantum algorithms for machine learning
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905700?l=en)
+- **University:** KTH
+- **Deadline:** 2026-04-06
+
+
+### Postdocs in wireless communications
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905758?l=en)
+- **University:** KTH
+- **Deadline:** 2026-04-06
+
+
 ### Assistant professor in Data driven cell and molecular biology
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/891334?l=en)
 - **University:** KTH
@@ -1771,6 +1657,12 @@
 - **Deadline:** 2026-04-15
 
 
+### PhD student in Statistics and Machine Learning
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28601)
+- **University:** Linköping University
+- **Deadline:** 2026-04-10
+
+
 ### PhD Student in Computational Mathematics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28545)
 - **University:** Linköping University
@@ -1783,10 +1675,40 @@
 - **Deadline:** 2026-03-31
 
 
+### Assistant professor in Mathematical Analysis
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28612)
+- **University:** Linköping University
+- **Deadline:** 2026-03-31
+
+
+### PhD student in Medical Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28629)
+- **University:** Linköping University
+- **Deadline:** 2026-03-23
+
+
+### UX design assistant - Visualization Center C
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28613)
+- **University:** Linköping University
+- **Deadline:** 2026-03-16
+
+
+### PhD student in Medical Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28625)
+- **University:** Linköping University
+- **Deadline:** 2026-03-16
+
+
 ### Postdoc on Virtual Knowledge Graph Integration
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28487)
 - **University:** Linköping University
 - **Deadline:** 2026-03-15
+
+
+### Postdoctoral Researcher in Artificial Intelligence
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28587)
+- **University:** Linköping University
+- **Deadline:** 2026-03-13
 
 
 ### PhD student in Medical Science
@@ -1891,46 +1813,10 @@
 - **Deadline:** 2026-02-25
 
 
-### Professor of Ageing and Social Change
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28195)
-- **University:** Linköping University
-- **Deadline:** 2026-02-22
-
-
-### PhD student in biomedical engineering, deep learning for medical images
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28118)
-- **University:** Linköping University
-- **Deadline:** 2026-02-19
-
-
-### Senior Lecturer in Machine Learning
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9842#item-9842)
+### Postdoctoral position in Applied Geochemistry
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9695#item-9695)
 - **University:** Luleå University
-- **Deadline:** 2026-02-18
-
-
-### PhD Student in Mineral Processing
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9786#item-9786)
-- **University:** Luleå University
-- **Deadline:** 2026-02-22
-
-
-### Senior Research Engineer in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9862#item-9862)
-- **University:** Luleå University
-- **Deadline:** 2026-02-23
-
-
-### PhD Student in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9864#item-9864)
-- **University:** Luleå University
-- **Deadline:** 2026-02-24
-
-
-### PhD Student in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9860#item-9860)
-- **University:** Luleå University
-- **Deadline:** 2026-02-24
+- **Deadline:** 2026-02-28
 
 
 ### PhD Students in Process Metallurgy
@@ -1939,14 +1825,8 @@
 - **Deadline:** 2026-02-28
 
 
-### Postdoctoral position in Applied Geochemistry
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9695#item-9695)
-- **University:** Luleå University
-- **Deadline:** 2026-02-28
-
-
-### PhD Student in Urban Water Engineering – hydrological dynamics in nature-based stormwater solutions
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9806#item-9806)
+### PhD Student in Urban Water Engineering – climate change effects and adaptation in urban streams
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9797#item-9797)
 - **University:** Luleå University
 - **Deadline:** 2026-03-01
 
@@ -1957,8 +1837,8 @@
 - **Deadline:** 2026-03-01
 
 
-### PhD Student in Urban Water Engineering – climate change effects and adaptation in urban streams
-- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9797#item-9797)
+### PhD Student in Urban Water Engineering – hydrological dynamics in nature-based stormwater solutions
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9806#item-9806)
 - **University:** Luleå University
 - **Deadline:** 2026-03-01
 
@@ -1993,94 +1873,22 @@
 - **Deadline:** 2026-03-12
 
 
-### Doctoral student in Electrical Engineering focusing on digital circuit design for 6G (PA2026/105)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:892934/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 18 Feb 2026
+### Postdoc position in Process Metallurgy
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9977#item-9977)
+- **University:** Luleå University
+- **Deadline:** 2026-03-16
 
 
-### PhD student in Infection Medicine (PA2026/314)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897562/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 18 Feb 2026
+### Postdoc position in Structural Engineering
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9975#item-9975)
+- **University:** Luleå University
+- **Deadline:** 2026-03-17
 
 
-### Postdoctoral Research Fellow in Multimodal Liquid Biopsy Analytics (Extracellular Vesicles, ToF-SIMS/MALDI, and Machine Learning) (PA2026/374)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899001/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 18 Feb 2026
-
-
-### Post-doctoral fellow in immunotechnology (PA2026/350)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898446/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 18 Feb 2026
-
-
-### Doctoral students in Automatic Control with focus on Robotics (PA2026/29)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891647/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 19 Feb 2026
-
-
-### Staff scientist LUNARC (PA2026/277)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896758/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 19 Feb 2026
-
-
-### Postdoctoral fellow at the Division of Molecular Skeletal Biology (PA2026/266)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896559/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 19 Feb 2026
-
-
-### Laboratory Assistant to the Unit of Clinical Memory Research (PA2026/295)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897247/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 19 Feb 2026
-
-
-### Assistant Researcher to the Unit Clinical Memory Research (PA2026/281)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896957/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 19 Feb 2026
-
-
-### Associate Senior Lecturer/Assistant Professor in Analytical Chemistry (PA2025/2947)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:866784/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 21 Feb 2026
-
-
-### Machine Safety Engineer (PA2025/3482)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:880900/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 22 Feb 2026
-
-
-### Research engineer - fixed-term employment (PA2026/382)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899238/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 22 Feb 2026
-
-
-### Associate researcher in Neurosurgery (PA2026/355)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898553/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 23 Feb 2026
-
-
-### Bioinformatician in Microbial Gene Context Analysis (PA2026/425)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:900954/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 23 Feb 2026
-
-
-### Post doc Regenerativ Neurofysiologi (PA2026/488)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902609/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 24 Feb 2026
+### Postdoc position in Structural Engineering
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=9972#item-9972)
+- **University:** Luleå University
+- **Deadline:** 2026-03-31
 
 
 ### Assistant Researcher to the unit for molecular metabolism (PA2026/454)
@@ -2119,20 +1927,14 @@
 - **Deadline:** 28 Feb 2026
 
 
+### At least one Doctoral student in Psychology (PA2026/175)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:894675/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
 ### Doctoral Students in Automatic Control (PA2026/40)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:891846/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-### Control System Software Engineer (PA2026/432)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901063/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-### Assistant Professor (Associate Senior Lecturer) with specialization in Cognitive Robotics (PA2025/3065)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:870505/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 1 Mar 2026
 
@@ -2143,8 +1945,20 @@
 - **Deadline:** 1 Mar 2026
 
 
+### Assistant Professor (Associate Senior Lecturer) with specialization in Cognitive Robotics (PA2025/3065)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:870505/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
 ### Doctoral student in Human Rights Studies (PA2026/102)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:892871/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 1 Mar 2026
+
+
+### Control System Software Engineer (PA2026/432)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901063/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 1 Mar 2026
 
@@ -2155,26 +1969,8 @@
 - **Deadline:** 1 Mar 2026
 
 
-### At least one Doctoral student in Psychology (PA2026/175)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:894675/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 1 Mar 2026
-
-
-### Post-doctoral fellow in soft matter physics: multi-faceted conceptual understanding of liquid-liquid phase separation in protein solutions (PA2026/6)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890914/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 2 Mar 2026
-
-
-### Post-doctoral fellow in physical chemistry: liquid-liquid phase separation in complex environments (PA2026/9)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890988/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 2 Mar 2026
-
-
-### Postdoctoral position on transthyretin amyloid formation using X-rays, neutrons and electron microscopy (PA2026/115)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893315/type:job/where:4/apply:1)
+### Research Engineer at the Department of Earth and Environmental Sciences (PA2026/311)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897522/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 2 Mar 2026
 
@@ -2191,8 +1987,20 @@
 - **Deadline:** 2 Mar 2026
 
 
-### Research Engineer at the Department of Earth and Environmental Sciences (PA2026/311)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:897522/type:job/where:4/apply:1)
+### Post-doctoral fellow in physical chemistry: liquid-liquid phase separation in complex environments (PA2026/9)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890988/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 2 Mar 2026
+
+
+### Post-doctoral fellow in soft matter physics: multi-faceted conceptual understanding of liquid-liquid phase separation in protein solutions (PA2026/6)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:890914/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 2 Mar 2026
+
+
+### Postdoctoral position on transthyretin amyloid formation using X-rays, neutrons and electron microscopy (PA2026/115)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893315/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 2 Mar 2026
 
@@ -2221,6 +2029,18 @@
 - **Deadline:** 4 Mar 2026
 
 
+### Assistant Researcher to the unit Health Economics (PA2026/542)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904124/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 5 Mar 2026
+
+
+### Researcher in Cardiovascular Research (PA2026/632)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906273/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 5 Mar 2026
+
+
 ### Doctoral students in immunotechnology (PA2026/348)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898444/type:job/where:4/apply:1)
 - **University:** Lund University
@@ -2229,6 +2049,12 @@
 
 ### Doctoral student in Computer Science with a focus on Sensor Fusion for Multi-task Learning (PA2026/525)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903830/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 6 Mar 2026
+
+
+### Project assistant (PA2026/420)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:900665/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 6 Mar 2026
 
@@ -2257,10 +2083,10 @@
 - **Deadline:** 9 Mar 2026
 
 
-### PhD-Student in Gender Studies (PA2026/482)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902469/type:job/where:4/apply:1)
+### Post-doctoral fellow in Physical Chemistry (PA2026/637)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906451/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 10 Mar 2026
+- **Deadline:** 9 Mar 2026
 
 
 ### Postdoctoral researcher in Gender Studies (PA2026/483)
@@ -2269,16 +2095,46 @@
 - **Deadline:** 10 Mar 2026
 
 
-### PostDoc in Electrochemical APXPS (PA2026/499)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903111/type:job/where:4/apply:1)
+### PhD-Student in Gender Studies (PA2026/482)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902469/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 15 Mar 2026
+- **Deadline:** 10 Mar 2026
+
+
+### Assistant Researcher to the unit Islet Cell Exocytosis (PA2026/623)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906063/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 11 Mar 2026
 
 
 ### Technician to CoSAXS and ForMAX (PA2026/79)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:892517/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 15 Mar 2026
+
+
+### Teaching assistants as SI-leaders at the Service management master programme (PA2026/592)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905242/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 15 Mar 2026
+
+
+### PostDoc in Electrochemical APXPS (PA2026/499)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903111/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 15 Mar 2026
+
+
+### Student worker and SI-leader at the Service management master programme (PA2026/597)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905277/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 15 Mar 2026
+
+
+### Doctoral student in Electrical Engineering focusing on Cybersecurity (PA2026/267)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896562/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 16 Mar 2026
 
 
 ### Doctoral student in Industrial Electrical Engineering with a focus on Battery Integration (PA2026/462)
@@ -2293,16 +2149,40 @@
 - **Deadline:** 16 Mar 2026
 
 
-### Doctoral student in Electrical Engineering focusing on Cybersecurity (PA2026/267)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896562/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Deadline:** 16 Mar 2026
-
-
 ### Project Assistant in biologi (PA2026/211)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:895798/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Deadline:** 19 Mar 2026
+
+
+### Doctoral student in Mathematics (PA2026/615)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905699/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 23 Mar 2026
+
+
+### Postdoctoral position in applied mathematics (PA2026/354)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898491/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 24 Mar 2026
+
+
+### Doctoral student in Computer Science with focus on AI engineering (PA2026/537)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904051/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 25 Mar 2026
+
+
+### Doctoral student in Social Anthropology (PA2026/629)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906200/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 30 Mar 2026
+
+
+### Senior Lecturer of Neurology combined with a Position as Specialist Physician/Consultant (PA2025/1658)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:827015/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Deadline:** 31 Mar 2026
 
 
 ### Doctoral Student in Media and Communication Studies (PA2026/227)
@@ -2311,10 +2191,10 @@
 - **Deadline:** 31 Mar 2026
 
 
-### Senior Lecturer of Neurology combined with a Position as Specialist Physician/Consultant (PA2025/1658)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:827015/type:job/where:4/apply:1)
+### Senior Lecturer in Architectural design with focus on artistic research in architecture (PA2026/389)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899494/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Deadline:** 31 Mar 2026
+- **Deadline:** 22 Apr 2026
 
 
 ### Professor of Social Work (PA2025/3142)
@@ -2329,34 +2209,10 @@
 - **Deadline:** 2026-12-31
 
 
-### Research Assistant in Interpretable Machine Learning
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4370)
-- **University:** Malmö University
-- **Deadline:** 23 February 2026
-
-
 ### Postdoctoral Researcher in Wireless Network Security and Trustworthy AI
 - **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/postdoctoral-researcher-in-wireless--network-security-and-trustworthy-ai/)
 - **University:** Mid Sweden University
 - **Deadline:** 260304
-
-
-### A doctoral (PhD) student in Computer Engineering with focus on Visual AI
-- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/a-doctoral-phd-student-in-computer-engineering-with-focus-on-visual-ai/)
-- **University:** Mid Sweden University
-- **Deadline:** 260218
-
-
-### PhD candidate in Sport Science - focus on cross-country skiing and biathlon
-- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/phd-candidate-in-sport-science---focus-on-cross-country-skiing-and-biathlon/)
-- **University:** Mid Sweden University
-- **Deadline:** 260220
-
-
-### PhD candidate in Sport Science - focus on athlete health and performance
-- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/phd-candidate-in-sport-science---focus-on-athlete-health-and-performance/)
-- **University:** Mid Sweden University
-- **Deadline:** 260220
 
 
 ### Professor of Biology specialising in molecular physiology
@@ -2381,6 +2237,18 @@
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260006)
 - **University:** Örebro University
 - **Deadline:** 2026-03-11
+
+
+### Postdoc – Climate risk assessment in agriculture and forestry
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14647)
+- **University:** Swedish University of Agricultural Sciences
+- **Deadline:** 2026-03-31
+
+
+### Postdoktor Post-doctoral researcher position in soil health
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14696)
+- **University:** Swedish University of Agricultural Sciences
+- **Deadline:** 2026-05-04
 
 
 ### Residency in Large Animal-/Equine Surgery
@@ -2419,12 +2287,6 @@
 - **Deadline:** 2026-03-03
 
 
-### Postdoctoral researcher in anaerobic microbiology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14619)
-- **University:** Swedish University of Agricultural Sciences
-- **Deadline:** 2026-02-24
-
-
 ### Senior Lecturer/Associate Professor* of Veterinary Diagnostic Imaging
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14640)
 - **University:** Swedish University of Agricultural Sciences
@@ -2449,18 +2311,6 @@
 - **Deadline:** 2026-03-16
 
 
-### Field assistent
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14599)
-- **University:** Swedish University of Agricultural Sciences
-- **Deadline:** 2026-02-23
-
-
-### Researcher in Conservation Biology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14581)
-- **University:** Swedish University of Agricultural Sciences
-- **Deadline:** 2026-02-23
-
-
 ### PhD Student in Animal Science
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14597)
 - **University:** Swedish University of Agricultural Sciences
@@ -2471,12 +2321,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14535)
 - **University:** Swedish University of Agricultural Sciences
 - **Deadline:** 2026-02-27
-
-
-### Postdoctoral Researcher in Farm Animal Behaviour and Welfare
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=14523)
-- **University:** Swedish University of Agricultural Sciences
-- **Deadline:** 2026-02-20
 
 
 ### Specialist in Veterinary Small Animal Surgery, SLU
@@ -2521,12 +2365,6 @@
 - **Deadline:** 2026-04-13
 
 
-### Informationskoordinator
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I007/532/job?site=24&lang=UK&validator=2f5f4343b7f80edb4b210427ef968f34&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=9525)
-- **University:** Södertörn University
-- **Deadline:** 2026-03-04
-
-
 ### Project-specific researcher at CBEES
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I007/532/job?site=24&lang=UK&validator=2f5f4343b7f80edb4b210427ef968f34&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=9482)
 - **University:** Södertörn University
@@ -2545,58 +2383,10 @@
 - **Deadline:** 2026-02-27
 
 
-### Researcher in Tropical Convective Clouds and Aerosols
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900926/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-18
-
-
-### PhD student in Ecology and Evolution
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888446/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-20
-
-
-### Scientific Programmer with IT Responsibilities
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896129/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-22
-
-
-### PhD student in Bioinformatics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:893396/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-22
-
-
-### PhD student in Biochemistry
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892649/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-22
-
-
-### PhD student in Bioinformatics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:892435/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-22
-
-
-### Postdoctoral Fellow in High Energy Physics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:904110/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-24
-
-
 ### Researcher in demography
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:899206/where:4/)
 - **University:** Stockholm University
 - **Deadline:** 2026-02-25
-
-
-### Researcher in Psychology - Work and Organisational Psychology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896673/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-27
 
 
 ### PhD student in Computer and Systems Sciences, with focus on Design of Energy Markets
@@ -2605,22 +2395,10 @@
 - **Deadline:** 2026-02-27
 
 
-### Associate Professor in Zoology with focus on ecology and evolution
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883922/where:4/)
+### Researcher in Psychology - Work and Organisational Psychology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896673/where:4/)
 - **University:** Stockholm University
-- **Deadline:** 2026-02-28
-
-
-### Postdoctoral Fellow in parasite population genetics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896511/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-28
-
-
-### Assistant Professor in Biodiversity
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883518/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-02-28
+- **Deadline:** 2026-02-27
 
 
 ### PhD student in Physical Geography: Remote sensing of ice shelves in East Antarctica
@@ -2631,6 +2409,24 @@
 
 ### Postdoctoral Fellow in Quantum Information and Complex Dynamical Systems
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896438/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-02-28
+
+
+### Assistant Professor in Biodiversity
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883518/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-02-28
+
+
+### Postdoctoral Fellow in parasite population genetics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896511/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-02-28
+
+
+### Associate Professor in Zoology with focus on ecology and evolution
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:883922/where:4/)
 - **University:** Stockholm University
 - **Deadline:** 2026-02-28
 
@@ -2647,8 +2443,8 @@
 - **Deadline:** 2026-03-01
 
 
-### PhD student in Chemical Physics: Quantum Chemical Simulations of Light-Induced Pathways
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888169/where:4/)
+### PhD student in Physics: open quantum system simulations with trapped ions
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894049/where:4/)
 - **University:** Stockholm University
 - **Deadline:** 2026-03-02
 
@@ -2659,14 +2455,8 @@
 - **Deadline:** 2026-03-02
 
 
-### PhD student in Physics: open quantum system simulations with trapped ions
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:894049/where:4/)
-- **University:** Stockholm University
-- **Deadline:** 2026-03-02
-
-
-### PhD student in Education - the Research School FYSALIS
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895419/where:4/)
+### PhD student in Chemical Physics: Quantum Chemical Simulations of Light-Induced Pathways
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888169/where:4/)
 - **University:** Stockholm University
 - **Deadline:** 2026-03-02
 
@@ -2677,10 +2467,22 @@
 - **Deadline:** 2026-03-02
 
 
+### PhD student in Education - the Research School FYSALIS
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895419/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-03-02
+
+
 ### PhD student in Theoretical Physics: Theoretical Cosmology of the Early Universe
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:888131/where:4/)
 - **University:** Stockholm University
 - **Deadline:** 2026-03-02
+
+
+### Project Assistant in Astroparticle Physics – IceCube
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:903132/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-03-04
 
 
 ### Postdoctoral Fellow in quantum simulations with trapped Rydberg ions
@@ -2701,14 +2503,26 @@
 - **Deadline:** 2026-03-15
 
 
+### Postdoctoral Fellow in Public Health Sciences
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:903060/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-03-15
+
+
+### PhD student in Astronomy
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900572/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-03-16
+
+
 ### Senior Nordita Fellow
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895929/where:4/)
 - **University:** Stockholm University
 - **Deadline:** 2026-03-16
 
 
-### PhD student in Astronomy
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900572/where:4/)
+### Associate Senior Lecturer/Assistant Professor in [ärendemall] Välj EN av titlarna.
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895734/where:4/)
 - **University:** Stockholm University
 - **Deadline:** 2026-03-16
 
@@ -2737,34 +2551,22 @@
 - **Deadline:** 2026-04-10
 
 
+### PhD student in International Relations
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896733/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-04-10
+
+
+### PhD student in International Relations
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:896722/where:4/)
+- **University:** Stockholm University
+- **Deadline:** 2026-04-10
+
+
 ### PhD student in Computer and Systems Sciences, with focus on Data Science
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:901900/where:4/)
 - **University:** Stockholm University
 - **Deadline:** 2026-04-15
-
-
-### PhD student in Computing Science with focus on Machine Learning for Graph Transformations
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-machine-learning-for-graph-transformations_895263/)
-- **University:** Umeå University
-- **Deadline:** 2026-02-18
-
-
-### Postdoctoral position in molecular medicine
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-molecular-medicine_898101/)
-- **University:** Umeå University
-- **Deadline:** 2026-02-18
-
-
-### Post doctor (2 years) within data privacy and machine learning
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-data-privacy-and-machine-learning-_895019/)
-- **University:** Umeå University
-- **Deadline:** 2026-02-19
-
-
-### Postdoctoral position in regenerative plastic surgery
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-regenerative-plastic-surgery_899404/)
-- **University:** Umeå University
-- **Deadline:** 2026-02-24
 
 
 ### PhD Student in Education with a focus on AI in Teacher Education (LH)
@@ -2809,26 +2611,8 @@
 - **Deadline:** 2026-02-28
 
 
-### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
 ### Doctoral student in English, Russian, French, or Spanish Literature
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-### Doctoral student in philosophy
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-### Doctoral student in Media and communications studies
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -2845,8 +2629,14 @@
 - **Deadline:** 2026-03-06
 
 
-### Doctoral student in Language teaching and learning
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
+### Doctoral student in Media and communications studies
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-linguistics-english-linguistics-russian-or-swedishscandinavian-languages_874957/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -2857,20 +2647,14 @@
 - **Deadline:** 2026-03-06
 
 
+### Doctoral student in Language teaching and learning
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-language-teaching-and-learning-_894184/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
 ### Doctoral Student in Educational work with focus on language
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-educational-work-with-focus-on-language-_894412/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-### Doctoral student in ethnology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
-- **University:** Umeå University
-- **Deadline:** 2026-03-06
-
-
-### Doctoral student in history
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history_877484/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -2881,14 +2665,26 @@
 - **Deadline:** 2026-03-06
 
 
-### Doctoral student in Sámi (Language didactics)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
+### Doctoral student in history
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history_877484/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+### Doctoral student in ethnology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
 
 ### Staff Scientist in Membrane Biology 9 months
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-06
+
+
+### Doctoral student in Sámi (Language didactics)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-06
 
@@ -2917,16 +2713,46 @@
 - **Deadline:** 2026-03-11
 
 
+### Staff scientist within fungal DNA metabarcoding and mycorrhizal ecology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-within-fungal-dna-metabarcoding-and-mycorrhizal-ecology_905674/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-13
+
+
+### Systems Developer at the Arctic Centre, 50%
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/systems-developer-at-the-arctic-centre-50_905402/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-13
+
+
+### Doctoral student in philosophy
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy_873988/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-16
+
+
 ### PhD student in Computing Science with focus on Software Lifecycle Security
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-software-lifecycle-security_900565/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-16
 
 
+### PhD student in Computing Science with a focus on Machine Learning for Software Security
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-a-focus-on-machine-learning-for-software-security_906293/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-22
+
+
 ### Post doctor (3 years) within mountain plant community and ecosystem processes across a globally distributed experiment
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-3-years-within-mountain-plant-community-and-ecosystem-processes-across-a-globally-distributed-experiment-_896357/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-26
+
+
+### PhD position in Physical Geography, focusing on carbon fluxes in Arctic headwaters
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-physical-geography-focusing-on-carbon-fluxes-in-arctic-headwaters_905098/)
+- **University:** Umeå University
+- **Deadline:** 2026-03-30
 
 
 ### PhD position in plant science
@@ -2945,6 +2771,12 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/2-phd-students-for-the-department-of-political-science_901941/)
 - **University:** Umeå University
 - **Deadline:** 2026-03-31
+
+
+### Doctoral student in Philosophy, specialization in Ethics in Teacher Education
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-philosophy-specialization-in-ethics-in-teacher-education_884774/)
+- **University:** Umeå University
+- **Deadline:** 2026-04-15
 
 
 ### Professor of Carriculumn Studies
@@ -2981,6 +2813,12 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=852858)
 - **University:** Uppsala University
 - **Deadline:** 28 February 2026
+
+
+### Doktorand i Beräkningsbiologi / Bioinformatik
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=868317)
+- **University:** Uppsala University
+- **Deadline:** 6 March 2026
 
 
 ### Research Engineer
@@ -3049,10 +2887,10 @@
 - **Deadline:** 2 March 2026
 
 
-### Research Assistant
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=886187)
+### Forskare inom tidsupplöst mjukröntgen-spektroelektrokemi
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=886215)
 - **University:** Uppsala University
-- **Deadline:** 19 February 2026
+- **Deadline:** 25 February 2026
 
 
 ### PhD positions at the Faculty of Languages
@@ -3073,12 +2911,6 @@
 - **Deadline:** 27 February 2026
 
 
-### Postdoctoral positions in digital philology
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=889222)
-- **University:** Uppsala University
-- **Deadline:** 18 February 2026
-
-
 ### 2 PhD student positions in Human Geography
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=891697)
 - **University:** Uppsala University
@@ -3089,24 +2921,6 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=892291)
 - **University:** Uppsala University
 - **Deadline:** 27 February 2026
-
-
-### Postdoctoral position in Condensed Matter Physics of Energy Materials
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=892437)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
-
-
-### PhD Position in Empirical Ethics: Fair AI Tools for Disease Prevention
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=892713)
-- **University:** Uppsala University
-- **Deadline:** 23 February 2026
-
-
-### Statistiker
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=892895)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
 
 
 ### Tidsbegränsad universitetslektor i italienska
@@ -3163,12 +2977,6 @@
 - **Deadline:** 16 March 2026
 
 
-### PhD Student position in Materials Chemistry with focus on the development of anode materials for Sodium-ion Batteries
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=894406)
-- **University:** Uppsala University
-- **Deadline:** 23 February 2026
-
-
 ### Universitetslektor i finska
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=894613)
 - **University:** Uppsala University
@@ -3187,12 +2995,6 @@
 - **Deadline:** 24 March 2026
 
 
-### Amanuens till lika villkorsgruppen - Matematiska Institutionen UU
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=895770)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
-
-
 ### FORTE-funded Postdoctoral position in Immunology
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=895796)
 - **University:** Uppsala University
@@ -3203,12 +3005,6 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=895804)
 - **University:** Uppsala University
 - **Deadline:** 20 March 2026
-
-
-### Upphandlare
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=896026)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
 
 
 ### 2 Doctoral candidates in peace and conflict research
@@ -3227,12 +3023,6 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=896741)
 - **University:** Uppsala University
 - **Deadline:** 2 March 2026
-
-
-### Sommarpersonal till Gustavianum
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=896793)
-- **University:** Uppsala University
-- **Deadline:** 24 February 2026
 
 
 ### Assistant Professor in Physics
@@ -3259,10 +3049,10 @@
 - **Deadline:** 28 February 2026
 
 
-### Postdoctoral position in AI, epidemiology and health inequalities
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=897806)
+### Universitetsadjunkt i didaktik med inriktning mot svenskämnets didaktik
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=897757)
 - **University:** Uppsala University
-- **Deadline:** 18 February 2026
+- **Deadline:** 5 March 2026
 
 
 ### Research assistant in translational immunology
@@ -3283,94 +3073,52 @@
 - **Deadline:** 6 March 2026
 
 
-### Enhetschef till lokalvården
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898396)
+### PhD student in Xingqi Chen group
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=898514)
 - **University:** Uppsala University
-- **Deadline:** 23 February 2026
-
-
-### PhD student in Environmental Analysis with focus on peatland management
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=898498)
-- **University:** Uppsala University
-- **Deadline:** 23 February 2026
-
-
-### Postdoctoral position within the Center of Excellence for Chemical Mechanisms of Life at Uppsala University
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=898641)
-- **University:** Uppsala University
-- **Deadline:** 23 February 2026
-
-
-### Forskningsamanuens inom neurologi
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898642)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
+- **Deadline:** 14 March 2026
 
 
 ### Doktorand i människa–datorinteraktion: AI, lärares arbete och arbetsmiljö i högre utbildning
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898722)
 - **University:** Uppsala University
-- **Deadline:** 23 February 2026
+- **Deadline:** 7 April 2026
 
 
 ### Doktorand i människa-datorinteraktion: AI:s påverkan på universitetslärarens professionella omdöme
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898724)
 - **University:** Uppsala University
-- **Deadline:** 23 February 2026
+- **Deadline:** 7 April 2026
 
 
 ### Doktorand i människa–datorinteraktion: AI, etiska dilemman och lärares professionella praktik i högre utbildning
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898725)
 - **University:** Uppsala University
-- **Deadline:** 23 February 2026
+- **Deadline:** 7 April 2026
 
 
 ### PhD student in Computing Education Research: Pedagogical innovations in AI-augmented classrooms
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=898727)
 - **University:** Uppsala University
-- **Deadline:** 23 February 2026
+- **Deadline:** 7 April 2026
 
 
 ### PhD student in Computing Education Research: Knowledge, AI Competence and Organizational Support
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=898728)
 - **University:** Uppsala University
-- **Deadline:** 23 February 2026
-
-
-### Postdoctoral researcher in economics
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=898817)
-- **University:** Uppsala University
-- **Deadline:** 18 February 2026
-
-
-### Tidsbegränsad Universitetsadjunkt Filosofi
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898868)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
+- **Deadline:** 7 April 2026
 
 
 ### Postdoctoral positions in Distributed Learning and Optimization
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=898876)
 - **University:** Uppsala University
-- **Deadline:** 23 February 2026
-
-
-### PhD Student position in Cellular Structural Biology/Biophysics
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899123)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
+- **Deadline:** 6 March 2026
 
 
 ### Research Assistant in brain tumor biology and treatment resistance
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899244)
 - **University:** Uppsala University
 - **Deadline:** 4 March 2026
-
-
-### Research administrator
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899331)
-- **University:** Uppsala University
-- **Deadline:** 18 February 2026
 
 
 ### Computational assistant in brain tumor evolution and treatment resistance
@@ -3397,16 +3145,16 @@
 - **Deadline:** 2 April 2026
 
 
+### Three PhD position in Education with a focus on educational equity and school segregation
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899775)
+- **University:** Uppsala University
+- **Deadline:** 25 March 2026
+
+
 ### Researchengineer in superconducting accelerator technology
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899871)
 - **University:** Uppsala University
 - **Deadline:** 27 February 2026
-
-
-### Researcher position in gene engineering
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899945)
-- **University:** Uppsala University
-- **Deadline:** 18 February 2026
 
 
 ### PhD student in vertebrate palaeontology
@@ -3421,22 +3169,10 @@
 - **Deadline:** 27 February 2026
 
 
-### Project Coordinator ReAct
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=900267)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
-
-
 ### Postdoctoral position in toxicity of battery materials
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=900270)
 - **University:** Uppsala University
 - **Deadline:** 4 March 2026
-
-
-### Amanuens inom klinisk kemi
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=900662)
-- **University:** Uppsala University
-- **Deadline:** 20 February 2026
 
 
 ### PhD position in pharmaceutical technology within regulatory science
@@ -3445,16 +3181,16 @@
 - **Deadline:** 13 March 2026
 
 
+### PhD in psychology
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=900724)
+- **University:** Uppsala University
+- **Deadline:** 18 March 2026
+
+
 ### PhD student in Molecular Evolution
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=900807)
 - **University:** Uppsala University
 - **Deadline:** 2 March 2026
-
-
-### Forskningsingenjör - Organoidmodeller för bakterieinfektion och antibiotikastudier
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=900856)
-- **University:** Uppsala University
-- **Deadline:** 23 February 2026
 
 
 ### Postdoctoral position in Industrial Engineering, with a specialization in AI-based decision support for sustainable manufacturing systems
@@ -3479,12 +3215,6 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=901355)
 - **University:** Uppsala University
 - **Deadline:** 16 March 2026
-
-
-### Research assistant
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=901495)
-- **University:** Uppsala University
-- **Deadline:** 23 February 2026
 
 
 ### 1-2 Data Steward(s)
@@ -3523,12 +3253,6 @@
 - **Deadline:** 25 February 2026
 
 
-### Forskningsassistent i psykiatri
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=901665)
-- **University:** Uppsala University
-- **Deadline:** 23 February 2026
-
-
 ### 1-2 Data Stewards with focus on human data management
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=901689)
 - **University:** Uppsala University
@@ -3545,6 +3269,12 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=902324)
 - **University:** Uppsala University
 - **Deadline:** 20 March 2026
+
+
+### Postdoctoral position in Materials Physics
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=902357)
+- **University:** Uppsala University
+- **Deadline:** 18 March 2026
 
 
 ### Amanuenser till Universitetsbiblioteket
@@ -3571,10 +3301,10 @@
 - **Deadline:** 9 March 2026
 
 
-### Teaching assistant Chemistry Ångström
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=902758)
+### PhD position in Pharmacometrics for regulatory science
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=902805)
 - **University:** Uppsala University
-- **Deadline:** 24 February 2026
+- **Deadline:** 13 March 2026
 
 
 ### 2 PhD positions in Musicology
@@ -3649,6 +3379,12 @@
 - **Deadline:** 2 March 2026
 
 
+### PHD position in Biochemistry - structure and dynamics of photoreceptor proteins time-resolved serial crystallography.
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=904551)
+- **University:** Uppsala University
+- **Deadline:** 19 March 2026
+
+
 ### Postdoctoral Researcher in Child and Adolescent Psychiatry
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=904608)
 - **University:** Uppsala University
@@ -3661,7 +3397,61 @@
 - **Deadline:** 11 March 2026
 
 
+### HR-generalist
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=904978)
+- **University:** Uppsala University
+- **Deadline:** 10 March 2026
+
+
+### PhD student in physical geography with focus on ice sheet modelling
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=905001)
+- **University:** Uppsala University
+- **Deadline:** 20 March 2026
+
+
 ### Forskare till projekt VR Bortom traditionen
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=905073)
 - **University:** Uppsala University
 - **Deadline:** 3 March 2026
+
+
+### Fakultetshandläggare
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=905249)
+- **University:** Uppsala University
+- **Deadline:** 5 March 2026
+
+
+### Bioinformatician with focus on systems development, NGI Uppsala, SNP&SEQ
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=905601)
+- **University:** Uppsala University
+- **Deadline:** 13 March 2026
+
+
+### Projektsamordnare på det forskningsstödjande centret Circus
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=905707)
+- **University:** Uppsala University
+- **Deadline:** 5 March 2026
+
+
+### Forskare i strukturbiologi
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=905955)
+- **University:** Uppsala University
+- **Deadline:** 5 March 2026
+
+
+### HR-Generalist IBF/IRES
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=906134)
+- **University:** Uppsala University
+- **Deadline:** 27 March 2026
+
+
+### Ekonom
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=906221)
+- **University:** Uppsala University
+- **Deadline:** 9 March 2026
+
+
+### Kursadministratör, vikariat
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=907746)
+- **University:** Uppsala University
+- **Deadline:** 11 March 2026
