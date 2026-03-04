@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 28</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 18</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -49,6 +49,22 @@
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28545)
 - **Deadline:** 2026-04-09
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Students in Cyberresilient AI</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28676)
+- **Deadline:** 2026-04-01
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position on Trustworthy AI</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28678)
+- **Deadline:** 2026-04-01
 
 </div>
 
@@ -140,107 +156,11 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Statistics</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant with a focus in Unmanned Traffic Management</h3>
 
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28230)
-- **Deadline:** 2026-03-03
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Bayesian Computational Mathematics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28185)
-- **Deadline:** 2026-03-02
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Medical Image Processing</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28501)
-- **Deadline:** 2026-03-01
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Automatic Control</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28117)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Automatic Control with focus on sensor informatics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28521)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Automatic Control with focus on sensor fusion for distributed situational awareness</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28522)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Automatic Control with focus on sensor fusion for localization</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28525)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Automatic Control with focus on control allocation for future stealth aircraft</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28526)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Automatic Control for Adaptive Hearing Aids</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28528)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Automatic Control with focus on optimization under uncertainty</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28532)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Automatic Control with focus on learning robotics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28537)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Visualization and Media Technology with a focus on visual learning and communication</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27975)
-- **Deadline:** 2026-02-25
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position on Active Optical Metasurfaces</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28502)
-- **Deadline:** 2026-02-25
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28667)
+- **Deadline:** 2026-03-09
 </div></div>
 
 <script>

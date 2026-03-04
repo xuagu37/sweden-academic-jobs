@@ -1,5 +1,41 @@
 # Chalmers University of Technology
 
+### Doctoral student in Trustworthy and Resilient IoT Swarm Security
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14565)
+- **Deadline:** 2026-04-15
+
+### Postdoc in Microbial & Data-Driven Food Biotechnology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14625)
+- **Deadline:** 2026-03-31
+
+### Doctoral student in Control-oriented system identification
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14630)
+- **Deadline:** 2026-04-15
+
+### Doctoral student in Kernel-based multi-task learning
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14632)
+- **Deadline:** 2026-04-15
+
+### Postdoc in Kernel-based learning for predictive control
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14634)
+- **Deadline:** 2026-04-30
+
+### Doctoral student in Human-Robot Interaction
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14633)
+- **Deadline:** 2026-04-17
+
+### Postdoc in microwave hyperthermia
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14617)
+- **Deadline:** 2026-03-26
+
+### Postdoc in far-infrared semiconductor electronics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14631)
+- **Deadline:** 2026-03-27
+
+### Project assistant in environmental assessment of batteries
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14628)
+- **Deadline:** 2026-03-31
+
 ### HR-chef
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14627)
 - **Deadline:** 2026-03-17
@@ -10,10 +46,6 @@
 
 ### Labtekniker Systembiologi
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14623)
-- **Deadline:** 2026-03-10
-
-### Project assistant in biomaterials and biointerfaces
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14616)
 - **Deadline:** 2026-03-10
 
 ### Doctoral Student in Grey-Box Modeling of Multiphase Flows
@@ -76,10 +108,6 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14583)
 - **Deadline:** 2026-04-11
 
-### Staff Scientist in Structural Battery Synthesis and Characterisation
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14524)
-- **Deadline:** 2026-03-01
-
 ### Doctoral student in LCA of Upcycling of Waste in Food Industry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14574)
 - **Deadline:** 2026-03-08
@@ -88,25 +116,9 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14589)
 - **Deadline:** 2026-03-08
 
-### Postdoc in AI for radio localization and sensing
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14590)
-- **Deadline:** 2026-02-28
-
 ### Doctoral student in computational metabolic engineering
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14436)
 - **Deadline:** 2026-03-06
-
-### Postdoc in uptake of fluids in superabsorbent polymers with MRI
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14578)
-- **Deadline:** 2026-03-03
-
-### Postdoc in experimental superconducting quantum computing
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14585)
-- **Deadline:** 2026-03-03
-
-### Doctoral student in physics-guided foundation model for time-series data
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14569)
-- **Deadline:** 2026-03-03
 
 ### Doctoral student in organic synthesis of monomers and polymers
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14577)
@@ -116,81 +128,21 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14573)
 - **Deadline:** 2026-03-04
 
-### Chalmers Entrepreneurial Fellowship
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14531)
-- **Deadline:** 2026-03-01
-
-### Postdoc in Characterization of white layers in Hybrid 60 steel
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14549)
-- **Deadline:** 2026-03-01
-
-### Doctoral student in Network Security
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14398)
-- **Deadline:** 2026-02-28
-
-### Doctoral students in AI for Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14568)
-- **Deadline:** 2026-02-28
-
-### Two doctoral students in materials science with a focus on cementitious materials
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14542)
-- **Deadline:** 2026-03-01
-
-### Systembibliotekarie, vikariat
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14559)
-- **Deadline:** 2026-02-26
-
 ### Assistant or Associate Professors – Two WISE Fellows in Materials Science for a Sustainable Future
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14331)
 - **Deadline:** 2026-03-31
-
-### Postdoc in novel approaches for compact wavelength-tunable lasers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14557)
-- **Deadline:** 2026-02-26
-
-### Postdoc in heat management for aircraft and propulsion
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14560)
-- **Deadline:** 2026-02-28
 
 ### Doctoral student in Solid and structural dynamics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14518)
 - **Deadline:** 2026-03-31
 
-### Postdoc in thermochemical conversion technology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14561)
-- **Deadline:** 2026-02-28
-
-### Doctoral Student in Optical Communications and Fiber Sensing
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14548)
-- **Deadline:** 2026-02-28
-
 ### Doctoral student in perovskite materials for energy and chemical processes
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14430)
 - **Deadline:** 2026-03-13
 
-### Doctoral student in machine learning theory
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14523)
-- **Deadline:** 2026-02-26
-
-### Doctoral student in graph theory
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14438)
-- **Deadline:** 2026-03-01
-
 ### Postdoc in Writing for Publication and Generative Artificial Intelligence
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14544)
 - **Deadline:** 2026-03-30
-
-### MSCA Doctoral student in fluid-structure interactions in offshore wind farms
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14551)
-- **Deadline:** 2026-02-25
-
-### Postdoc in mathematical optimization and systems theory
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14522)
-- **Deadline:** 2026-02-28
-
-### Postdoc in Stochastic modeling of shape ensembles
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14519)
-- **Deadline:** 2026-02-28
 
 ### 15 Doctoral students in the field of Nanoscience and Nanotechnologies
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14529)
@@ -243,10 +195,6 @@
 ### Postdoc in photochemical reactivity under confinement
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14405)
 - **Deadline:** 2026-03-08
-
-### Postdoc position in efficient simulation of noisy quantum circuits
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13923)
-- **Deadline:** 2026-03-01
 
 ### Doctoral student in Optimal control of a superconducting bosonic processor
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14408)

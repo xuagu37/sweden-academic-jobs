@@ -1,49 +1,5 @@
 # KTH
 
-### Doctoral student in Electronics Systems Design in CMOS 2.0
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898678?l=en)
-- **Deadline:** 2026-02-25
-
-### Doctoral student in Topological Spin Textures for Neuromorphic Functionality
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/901631?l=en)
-- **Deadline:** 2026-02-27
-
-### Assistant professor in Medical imaging with specialization in imaging technologies in vivo
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/878050?l=en)
-- **Deadline:** 2026-02-27
-
-### Postdoc in fluid mechanics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905925?l=en)
-- **Deadline:** 2026-02-28
-
-### Researcher in recycling of polymers by light-and electricity driven processes
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900382?l=en)
-- **Deadline:** 2026-02-28
-
-### Postdoc in Formal Verification of Protocols and Secure Compilation
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/881712?l=en)
-- **Deadline:** 2026-02-28
-
-### Doctoral student in Predicting hydrological extremes with Earth data
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/895900?l=en)
-- **Deadline:** 2026-03-01
-
-### Doctoral student in Generative Modeling, Super Resolution of Brain Imaging
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899298?l=en)
-- **Deadline:** 2026-03-01
-
-### Doctoral student in Generative Modeling of Biomolecules
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899309?l=en)
-- **Deadline:** 2026-03-01
-
-### Postdoc in Algebraic Geometry
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
-- **Deadline:** 2026-03-02
-
-### Postdoc in methods for technical implementation of circular networks
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905949?l=en)
-- **Deadline:** 2026-03-04
-
 ### Research Engineer in Molecular Genomics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/906285?l=en)
 - **Deadline:** 2026-03-04
@@ -72,14 +28,6 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898368?l=en)
 - **Deadline:** 2026-03-05
 
-### Doctoral student in Material Science
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898543?l=en)
-- **Deadline:** 2026-03-05
-
-### Doctoral student (Licentiate) in Engineering Materials Science
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898564?l=en)
-- **Deadline:** 2026-03-05
-
 ### Doctoral student in  machine learning
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898611?l=en)
 - **Deadline:** 2026-03-05
@@ -88,12 +36,20 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898733?l=en)
 - **Deadline:** 2026-03-05
 
-### Doctoral students in Learning and Control of Networked CPHS
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900491?l=en)
-- **Deadline:** 2026-03-05
+### Doctoral student in Generative Modeling, Super Resolution of Brain Imaging
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899298?l=en)
+- **Deadline:** 2026-03-07
+
+### Doctoral student in Generative Modeling of Biomolecules
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899309?l=en)
+- **Deadline:** 2026-03-07
 
 ### Postdoc in atmospheric turbulence
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904326?l=en)
+- **Deadline:** 2026-03-09
+
+### Postdoc in Algebraic Geometry
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
 - **Deadline:** 2026-03-09
 
 ### Doctoral student in Optimal Transport for Optimization and Machine Learning
@@ -111,6 +67,10 @@
 ### Bioinformatician/Data scientist (biomarkers)
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/902965?l=en)
 - **Deadline:** 2026-03-11
+
+### Researcher in Monte-Carlo methods in superconductivity
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/908639?l=en)
+- **Deadline:** 2026-03-12
 
 ### Doctoral student in the history of polar governance in the national polar research school
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/896294?l=en)
@@ -152,6 +112,14 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/880357?l=en)
 - **Deadline:** 2026-03-12
 
+### Doctoral students in Learning and Control of Networked CPHS
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900491?l=en)
+- **Deadline:** 2026-03-13
+
+### Postdoc in methods for technical implementation of circular networks
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905949?l=en)
+- **Deadline:** 2026-03-15
+
 ### Postdoc in sonic interaction design for sleep technology
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904526?l=en)
 - **Deadline:** 2026-03-15
@@ -188,6 +156,18 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/874734?l=en)
 - **Deadline:** 2026-03-17
 
+### Research Engineer in AI-driven predictive maintenance for buildings
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/907919?l=en)
+- **Deadline:** 2026-03-19
+
+### Doctoral student in Material Science
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898543?l=en)
+- **Deadline:** 2026-03-19
+
+### Doctoral student (Licentiate) in Engineering Materials Science
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898564?l=en)
+- **Deadline:** 2026-03-19
+
 ### Doctoral student in Turbomachinery and fluid mechanics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898984?l=en)
 - **Deadline:** 2026-03-20
@@ -195,6 +175,10 @@
 ### Postdoc in wireless communications
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/903854?l=en)
 - **Deadline:** 2026-03-22
+
+### Postdoc in joint sensing and underwater communication
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/909777?l=en)
+- **Deadline:** 2026-03-23
 
 ### Doctoral student in Sustainable Metallurgy: Slag Design & Refractories
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898070?l=en)
@@ -215,6 +199,10 @@
 ### Postdocs in wireless communications
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/905758?l=en)
 - **Deadline:** 2026-04-06
+
+### Postdoc in generative AI for humanoid assistive robots
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/909261?l=en)
+- **Deadline:** 2026-04-15
 
 ### Assistant professor in Data driven cell and molecular biology
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/891334?l=en)

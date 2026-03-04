@@ -1,5 +1,5 @@
 # Mid Sweden University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 1</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 2</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,14 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Autonomous Sensor Systems</h3>
+
+- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/postdoc-position-in-autonomous-sensor-systems/)
+- **Deadline:** 260330
 
 </div>
 

@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 55</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 52</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,94 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Electronics Systems Design in CMOS 2.0</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898678?l=en)
-- **Deadline:** 2026-02-25
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Topological Spin Textures for Neuromorphic Functionality</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/901631?l=en)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in Medical imaging with specialization in imaging technologies in vivo</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/878050?l=en)
-- **Deadline:** 2026-02-27
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in fluid mechanics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905925?l=en)
-- **Deadline:** 2026-02-28
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in recycling of polymers by light-and electricity driven processes</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900382?l=en)
-- **Deadline:** 2026-02-28
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Formal Verification of Protocols and Secure Compilation</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/881712?l=en)
-- **Deadline:** 2026-02-28
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Predicting hydrological extremes with Earth data</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/895900?l=en)
-- **Deadline:** 2026-03-01
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Generative Modeling, Super Resolution of Brain Imaging</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899298?l=en)
-- **Deadline:** 2026-03-01
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Generative Modeling of Biomolecules</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899309?l=en)
-- **Deadline:** 2026-03-01
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Algebraic Geometry</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
-- **Deadline:** 2026-03-02
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in methods for technical implementation of circular networks</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905949?l=en)
-- **Deadline:** 2026-03-04
 
 </div>
 
@@ -165,22 +77,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Material Science</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898543?l=en)
-- **Deadline:** 2026-03-05
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student (Licentiate) in Engineering Materials Science</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898564?l=en)
-- **Deadline:** 2026-03-05
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in  machine learning</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898611?l=en)
@@ -197,10 +93,18 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in Learning and Control of Networked CPHS</h3>
+<h3>Doctoral student in Generative Modeling, Super Resolution of Brain Imaging</h3>
 
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900491?l=en)
-- **Deadline:** 2026-03-05
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899298?l=en)
+- **Deadline:** 2026-03-07
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Generative Modeling of Biomolecules</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899309?l=en)
+- **Deadline:** 2026-03-07
 
 </div>
 
@@ -208,6 +112,14 @@
 <h3>Postdoc in atmospheric turbulence</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904326?l=en)
+- **Deadline:** 2026-03-09
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Algebraic Geometry</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
 - **Deadline:** 2026-03-09
 
 </div>
@@ -241,6 +153,14 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/902965?l=en)
 - **Deadline:** 2026-03-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Monte-Carlo methods in superconductivity</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/908639?l=en)
+- **Deadline:** 2026-03-12
 
 </div>
 
@@ -324,6 +244,22 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in Learning and Control of Networked CPHS</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900491?l=en)
+- **Deadline:** 2026-03-13
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in methods for technical implementation of circular networks</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/905949?l=en)
+- **Deadline:** 2026-03-15
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in sonic interaction design for sleep technology</h3>
 
@@ -396,6 +332,30 @@
 
 </div>
 
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in AI-driven predictive maintenance for buildings</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/907919?l=en)
+- **Deadline:** 2026-03-19
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Material Science</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898543?l=en)
+- **Deadline:** 2026-03-19
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student (Licentiate) in Engineering Materials Science</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/898564?l=en)
+- **Deadline:** 2026-03-19
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Turbomachinery and fluid mechanics</h3>
 
@@ -409,6 +369,14 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/903854?l=en)
 - **Deadline:** 2026-03-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in joint sensing and underwater communication</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/909777?l=en)
+- **Deadline:** 2026-03-23
 
 </div>
 
@@ -449,6 +417,14 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/905758?l=en)
 - **Deadline:** 2026-04-06
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in generative AI for humanoid assistive robots</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/909261?l=en)
+- **Deadline:** 2026-04-15
 
 </div>
 

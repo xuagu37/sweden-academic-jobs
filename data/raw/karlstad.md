@@ -1,29 +1,5 @@
 # Karlstad University
 
-### PhD student positions in Mathematics Education
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:878246/iframeEmbedded:0/where:4)
-- **Deadline:** 25.Feb.2026
-
-### Doktorand i omvårdnad
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:887013/iframeEmbedded:0/where:4)
-- **Deadline:** 28.Feb.2026
-
-### Universitetsadjunkt i genusvetenskap, vikariat 100 %
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:898848/iframeEmbedded:0/where:4)
-- **Deadline:** 01.Mar.2026
-
-### Projektassistent forskning inom de samhällsvetenskapliga ämnenas didaktik
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:894726/iframeEmbedded:0/where:4)
-- **Deadline:** 01.Mar.2026
-
-### Doctoral student in science education or technology education
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:888726/iframeEmbedded:0/where:4)
-- **Deadline:** 01.Mar.2026
-
-### University lecturer in computer science with a specialisation in artificial intelligence (temporary position)
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:878594/iframeEmbedded:0/where:4)
-- **Deadline:** 03.Mar.2026
-
 ### Amanuens i psykologi
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893805/iframeEmbedded:0/where:4)
 - **Deadline:** 04.Mar.2026
@@ -31,6 +7,10 @@
 ### Postdoctoral Researcher in Computer Science with focus on High Quality Synthetic Data
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895196/iframeEmbedded:0/where:4)
 - **Deadline:** 08.Mar.2026
+
+### University lecturer in computer science with a specialisation in artificial intelligence (temporary position)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:878594/iframeEmbedded:0/where:4)
+- **Deadline:** 10.Mar.2026
 
 ### Vikarierande universitetsadjunkt i matematik med inriktning mot didaktik
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:872584/iframeEmbedded:0/where:4)
@@ -55,6 +35,18 @@
 ### Senior lecturer in Gender Studies
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:898962/iframeEmbedded:0/where:4)
 - **Deadline:** 22.Mar.2026
+
+### Projektassistent i biologi
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:902259/iframeEmbedded:0/where:4)
+- **Deadline:** 22.Mar.2026
+
+### Gästforskare i idrottsvetenskap
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:909928/iframeEmbedded:0/where:4)
+- **Deadline:** 24.Mar.2026
+
+### 
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:906499/iframeEmbedded:0/where:4)
+- **Deadline:** 29.Mar.2026
 
 ### Doctoral student in Educational Work, specialising in Sports Science
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:905516/iframeEmbedded:0/where:4)

@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 4</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 3</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,14 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Biology specialising in molecular physiology</h3>
-
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250355)
-- **Deadline:** 2026-02-27
 
 </div>
 
