@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 13</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 12</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,14 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens i psykologi</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893805/iframeEmbedded:0/where:4)
-- **Deadline:** 04.Mar.2026
 
 </div>
 
@@ -106,7 +98,11 @@
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:909928/iframeEmbedded:0/where:4)
 - **Deadline:** 24.Mar.2026
 
-### 
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Systemutvecklare</h3>
+
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:906499/iframeEmbedded:0/where:4)
 - **Deadline:** 29.Mar.2026
 

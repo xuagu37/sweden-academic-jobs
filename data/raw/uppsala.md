@@ -128,10 +128,6 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=898876)
 - **Deadline:** 20 March 2026
 
-### Research Assistant in brain tumor biology and treatment resistance
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899244)
-- **Deadline:** 4 March 2026
-
 ### Computational assistant in brain tumor evolution and treatment resistance
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899408)
 - **Deadline:** 5 March 2026
@@ -147,10 +143,6 @@
 ### Three PhD position in Education with a focus on educational equity and school segregation
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=899775)
 - **Deadline:** 8 April 2026
-
-### Postdoctoral position in toxicity of battery materials
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=900270)
-- **Deadline:** 4 March 2026
 
 ### PhD position in pharmaceutical technology within regulatory science
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=900718)
@@ -178,7 +170,7 @@
 
 ### PhD position in antenna arrays for communication and energy harvesting SATCOM applications
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=901609)
-- **Deadline:** 6 March 2026
+- **Deadline:** 20 March 2026
 
 ### PhD student in Materials Physics
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=901637)
@@ -187,6 +179,10 @@
 ### 1-2 Data Stewards with focus on human data management
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=901689)
 - **Deadline:** 10 March 2026
+
+### Two PhD positions in Curriculum Studies (focused on teaching and learning)
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=901742)
+- **Deadline:** 2 April 2026
 
 ### Two PhD positions in Education
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=901849)
@@ -203,10 +199,6 @@
 ### Postdoctoral position in Materials Physics
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=902357)
 - **Deadline:** 18 March 2026
-
-### Amanuenser till Universitetsbiblioteket
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=902466)
-- **Deadline:** 4 March 2026
 
 ### Phd Student position Pharmaceutical sciences
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=902487)
@@ -247,6 +239,10 @@
 ### Research assistant in immunology and cancer biology
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=903934)
 - **Deadline:** 16 March 2026
+
+### Ekonomiadministratör
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=903987)
+- **Deadline:** 19 March 2026
 
 ### Kursadministratör
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=903988)
@@ -308,6 +304,14 @@
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=906523)
 - **Deadline:** 16 March 2026
 
+### Universitetslektor i straffrätt
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=906961)
+- **Deadline:** 4 May 2026
+
+### Universitetslektor i förvaltningsrätt
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=906972)
+- **Deadline:** 4 May 2026
+
 ### Postdoctoral position on databases of compound climate extremes
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=907173)
 - **Deadline:** 12 March 2026
@@ -323,6 +327,10 @@
 ### PhD student in Materials Chemistry with Focus on Cathode Materials for Sodium-Ion Batteries
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=907491)
 - **Deadline:** 10 April 2026
+
+### Tekniker
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=907679)
+- **Deadline:** 13 March 2026
 
 ### PhD student focusing on Scalable Quantum Program Verification
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=907722)
@@ -352,9 +360,21 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=908022)
 - **Deadline:** 16 April 2026
 
+### Biträdande universitetslektor i genusvetenskap
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=908145)
+- **Deadline:** 15 April 2026
+
 ### Forskare
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=908198)
 - **Deadline:** 12 March 2026
+
+### Researcher
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=908266)
+- **Deadline:** 4 June 2026
+
+### Doktorand i kostvetenskap med inriktning säker och hållbar matkonsumtion bland barn och unga vuxna
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=908473)
+- **Deadline:** 10 April 2026
 
 ### Researcher in Molecular Systems Biology
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=908536)
@@ -372,6 +392,14 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=909166)
 - **Deadline:** 7 April 2026
 
+### Forskningsadministratör
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=909183)
+- **Deadline:** 18 March 2026
+
+### Researcher in Synthesis and analysis of alicyclic carboxylic acids
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=909362)
+- **Deadline:** 18 March 2026
+
 ### Ekonom
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=909497)
 - **Deadline:** 17 March 2026
@@ -383,4 +411,52 @@
 ### Kursadministratör
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=909872)
 - **Deadline:** 20 March 2026
+
+### Universitetslektor i pediatrik 50%
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=909894)
+- **Deadline:** 18 March 2026
+
+### Researcher at the Centre for Medical Humanities
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=909922)
+- **Deadline:** 19 March 2026
+
+### Teaching assistant in Data Engineering for digitalization of research labs
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=909990)
+- **Deadline:** 23 March 2026
+
+### Biomedicinsk analytiker
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=910053)
+- **Deadline:** 25 March 2026
+
+### Research engineer
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=910271)
+- **Deadline:** 25 March 2026
+
+### Kommunikatör studentrekrytering
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=910285)
+- **Deadline:** 18 March 2026
+
+### Forskare inom Neuroendokrinologi och toxikologi
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=910289)
+- **Deadline:** 18 March 2026
+
+### Forskare i organisk kemi och masspektrometri
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=910372)
+- **Deadline:** 18 March 2026
+
+### Doktorand i folkhälsa och psykologi -Barn till föräldrar med psykisk sjukdom
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=910445)
+- **Deadline:** 26 March 2026
+
+### Projektassistent
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=910664)
+- **Deadline:** 19 March 2026
+
+### Forskare i radiologisk bildanalys
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=910761)
+- **Deadline:** 19 March 2026
+
+### Forskare inom antik patogengenomik och paleomikrobiologi hos afrikanska populationer
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=910805)
+- **Deadline:** 19 March 2026
 

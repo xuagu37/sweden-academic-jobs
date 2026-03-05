@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 5</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,14 +20,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Biology with specialisation in Toxicology</h3>
-
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260029)
-- **Deadline:** 2026-03-04
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior lecturers in Statistics</h3>
 
@@ -41,6 +33,30 @@
 
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260006)
 - **Deadline:** 2026-03-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Multimodal Perception and AI for Safe Autonomous Navigation</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260052)
+- **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on Secure Coordination and Interaction in Distributed AI</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260050)
+- **Deadline:** 2026-04-01
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on AI Runtime Security Assurance</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260051)
+- **Deadline:** 2026-04-01
 </div></div>
 
 <script>

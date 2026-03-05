@@ -1,15 +1,15 @@
 # Stockholm University
 
-### Project Assistant in Astroparticle Physics – IceCube
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:903132/where:4/)
-- **Deadline:** 2026-03-04
-
-### Postdoctoral Fellow in Theoretical Physics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:907631/where:4/)
-- **Deadline:** 2026-03-09
+### PhD student in Law
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895023/where:4/)
+- **Deadline:** 2026-03-05
 
 ### Postdoctoral Fellow in quantum simulations with trapped Rydberg ions
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900483/where:4/)
+- **Deadline:** 2026-03-09
+
+### Postdoctoral Fellow in Theoretical Physics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:907631/where:4/)
 - **Deadline:** 2026-03-09
 
 ### Postdoctoral Fellow in Eco-evolutionary Modelling and Machine Learning
@@ -40,6 +40,14 @@
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:906216/where:4/)
 - **Deadline:** 2026-03-20
 
+### Research Assistant in Applied Econometrics and Data Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:910396/where:4/)
+- **Deadline:** 2026-03-25
+
+### Researcher in Plant evolution
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:910273/where:4/)
+- **Deadline:** 2026-03-26
+
 ### Senior Lecturer in Procedural law with a focus on Arbitration Law
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:897645/where:4/)
 - **Deadline:** 2026-03-27
@@ -59,6 +67,10 @@
 ### Research Assistant within Unexplored Language Phenomena (UNLAP)
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:906474/where:4/)
 - **Deadline:** 2026-04-03
+
+### Postdoctoral Fellow to research project SURPRISES
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:908913/where:4/)
+- **Deadline:** 2026-04-07
 
 ### Postdoctoral Fellow in International Relations
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:904113/where:4/)
@@ -82,6 +94,10 @@
 
 ### PhD student in Computer and Systems Sciences, with focus on Data Science
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:901900/where:4/)
+- **Deadline:** 2026-04-15
+
+### Research Engineer in the field of atmospheric and environmental science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:909372/where:4/)
 - **Deadline:** 2026-04-15
 
 ### PhD student in Environmental Science focusing on Toxicology

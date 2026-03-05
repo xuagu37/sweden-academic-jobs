@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 18</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 23</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,6 +20,22 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in efficient and robust decentralized AI</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28722)
+- **Deadline:** 2026-05-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student for Sustainable and Resource-Efficient Machine Learning</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28717)
+- **Deadline:** 2026-04-24
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Position in Industrial Marketing</h3>
 
@@ -36,10 +52,26 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Mathematical Optimization of Dose Planning for Radiation Treatment</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28686)
+- **Deadline:** 2026-04-15
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Statistics and Machine Learning</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28601)
+- **Deadline:** 2026-04-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD students in Ethnic and Migration Studies</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28721)
 - **Deadline:** 2026-04-10
 
 </div>
@@ -81,6 +113,14 @@
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28612)
 - **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Cryo-EM Image Reconstruction and Volumetric Analysis</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28590)
+- **Deadline:** 2026-03-30
 
 </div>
 

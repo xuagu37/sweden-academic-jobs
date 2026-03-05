@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 34</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 37</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,17 +21,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Archaeology</h3>
+<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-archaeology_877494/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in History and Education</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -53,9 +45,25 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Archaeology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-archaeology_877494/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in History of Science and Ideas</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-of-science-and-ideas_877483/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in History and Education</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -72,30 +80,6 @@
 <h3>Doctoral student in Media and communications studies</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in English, Russian, French, or Spanish Literature</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Gender Studies, focusing on Educational Sciences</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
-- **Deadline:** 2026-03-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in ethnology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -124,10 +108,26 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in ethnology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
+- **Deadline:** 2026-03-06
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Staff Scientist in Membrane Biology 9 months</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **Deadline:** 2026-03-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Gender Studies, focusing on Educational Sciences</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
 - **Deadline:** 2026-03-06
 
 </div>
@@ -204,6 +204,14 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist within impacts of global change on northern lake ecosystems</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-within-impacts-of-global-change-on-northern-lake-ecosystems_907201/)
+- **Deadline:** 2026-03-27
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>1-3 PhD students in materials science with a focus on cementitious materials</h3>
 
@@ -232,6 +240,14 @@
 <h3>PhD position in Medical Science with Specialization in Virology</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-medical-science-with-specialization-in-virology_907579/)
+- **Deadline:** 2026-03-30
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position (2 years) on carbon biogeochemistry of inland waters</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-on-carbon-biogeochemistry-of-inland-waters-_911065/)
 - **Deadline:** 2026-03-30
 
 </div>
@@ -281,6 +297,14 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-physical-geography-focusing-on-greenhouse-gas-dynamics-in-streams-and-groundwater_909653/)
 - **Deadline:** 2026-04-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor (3 years) on the Development of Adaptive Interventions to Promote Life-Long Learning</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctor-3-years-on-the-development-of-adaptive-interventions-to-promote-life-long-learning_910146/)
+- **Deadline:** 2026-04-20
 
 </div>
 

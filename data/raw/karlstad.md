@@ -1,9 +1,5 @@
 # Karlstad University
 
-### Amanuens i psykologi
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:893805/iframeEmbedded:0/where:4)
-- **Deadline:** 04.Mar.2026
-
 ### Postdoctoral Researcher in Computer Science with focus on High Quality Synthetic Data
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:895196/iframeEmbedded:0/where:4)
 - **Deadline:** 08.Mar.2026
@@ -44,7 +40,7 @@
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:909928/iframeEmbedded:0/where:4)
 - **Deadline:** 24.Mar.2026
 
-### 
+### Systemutvecklare
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:906499/iframeEmbedded:0/where:4)
 - **Deadline:** 29.Mar.2026
 

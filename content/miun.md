@@ -1,5 +1,5 @@
 # Mid Sweden University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 2</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 1</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -25,14 +25,6 @@
 
 - **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/postdoc-position-in-autonomous-sensor-systems/)
 - **Deadline:** 260330
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Wireless Network Security and Trustworthy AI</h3>
-
-- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/postdoctoral-researcher-in-wireless--network-security-and-trustworthy-ai/)
-- **Deadline:** 260304
 </div></div>
 
 <script>

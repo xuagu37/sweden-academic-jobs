@@ -1,5 +1,5 @@
 # Luleå University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 8</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 12</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -60,6 +60,22 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuensis Machine Learning</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10039#item-10039)
+- **Deadline:** 2026-03-26
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Cyber-Physical Systems</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10042#item-10042)
+- **Deadline:** 2026-03-27
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc position in Structural Engineering</h3>
 
@@ -76,10 +92,26 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Space Systems with focus on spacecraft avionics</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10045#item-10045)
+- **Deadline:** 2026-05-03
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Space Systems</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10032#item-10032)
+- **Deadline:** 2026-05-28
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Space Systems</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10034#item-10034)
 - **Deadline:** 2026-05-28
 </div></div>
 

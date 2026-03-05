@@ -88,7 +88,7 @@ html_css_files = ["overrides.css"]
 from os.path import basename, dirname, realpath
 
 html_context = {
-    "display_github": True,
+    "display_github": False,
     "github_user": github_user,
     # Auto-detect directory name.  This can break, but
     # useful as a default.

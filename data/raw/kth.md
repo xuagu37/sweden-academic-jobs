@@ -1,21 +1,5 @@
 # KTH
 
-### Research Engineer in Molecular Genomics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/906285?l=en)
-- **Deadline:** 2026-03-04
-
-### Doctoral student in nuclear materials
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/900065?l=en)
-- **Deadline:** 2026-03-04
-
-### Doctoral student polymeric materials in nuclear power plants
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/897238?l=en)
-- **Deadline:** 2026-03-05
-
-### Doctoral student in material physics and non-destructive diagnostics of polymers
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/897278?l=en)
-- **Deadline:** 2026-03-05
-
 ### Doctoral student in models, algorithms, and optimization for machine learning
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898105?l=en)
 - **Deadline:** 2026-03-05
@@ -36,32 +20,24 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898733?l=en)
 - **Deadline:** 2026-03-05
 
-### Doctoral student in Generative Modeling, Super Resolution of Brain Imaging
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899298?l=en)
-- **Deadline:** 2026-03-07
-
-### Doctoral student in Generative Modeling of Biomolecules
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899309?l=en)
-- **Deadline:** 2026-03-07
-
 ### Postdoc in atmospheric turbulence
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904326?l=en)
-- **Deadline:** 2026-03-09
-
-### Postdoc in Algebraic Geometry
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
 - **Deadline:** 2026-03-09
 
 ### Doctoral student in Optimal Transport for Optimization and Machine Learning
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/877863?l=en)
 - **Deadline:** 2026-03-09
 
-### Doctoral student in integrated TN-NTN 6G and future networks
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899845?l=en)
+### Doctoral student in Generative Modeling, Super Resolution of Brain Imaging
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899298?l=en)
 - **Deadline:** 2026-03-11
 
-### Doctoral student in technology foresight and digital skills forecasting
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/903300?l=en)
+### Doctoral student in Generative Modeling of Biomolecules
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899309?l=en)
+- **Deadline:** 2026-03-11
+
+### Doctoral student in integrated TN-NTN 6G and future networks
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/899845?l=en)
 - **Deadline:** 2026-03-11
 
 ### Bioinformatician/Data scientist (biomarkers)
@@ -116,6 +92,10 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/900491?l=en)
 - **Deadline:** 2026-03-13
 
+### Research Engineer in Robotics, Perception and Learning
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/910843?l=en)
+- **Deadline:** 2026-03-14
+
 ### Postdoc in methods for technical implementation of circular networks
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/905949?l=en)
 - **Deadline:** 2026-03-15
@@ -144,9 +124,25 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/894652?l=en)
 - **Deadline:** 2026-03-16
 
+### Postdoc in Algebraic Geometry
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/902380?l=en)
+- **Deadline:** 2026-03-16
+
 ### Assistant professor in NMR spectroscopy with specialization in materials chemistry
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/875645?l=en)
 - **Deadline:** 2026-03-16
+
+### Post-doc in Techno-Economic System Modelling of Energy Communities
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/909904?l=en)
+- **Deadline:** 2026-03-17
+
+### Geothermal energy systems for district and industrial heat decarbonization
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/909940?l=en)
+- **Deadline:** 2026-03-17
+
+### Post-doc in techno-economic modelling of hybrid renewable power plants.
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/909971?l=en)
+- **Deadline:** 2026-03-17
 
 ### Postdoctors in Nuclear Engineering
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/886403?l=en)
@@ -158,6 +154,14 @@
 
 ### Research Engineer in AI-driven predictive maintenance for buildings
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/907919?l=en)
+- **Deadline:** 2026-03-19
+
+### Doctoral student polymeric materials in nuclear power plants
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/897238?l=en)
+- **Deadline:** 2026-03-19
+
+### Doctoral student in material physics and non-destructive diagnostics of polymers
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/897278?l=en)
 - **Deadline:** 2026-03-19
 
 ### Doctoral student in Material Science
@@ -180,6 +184,14 @@
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/909777?l=en)
 - **Deadline:** 2026-03-23
 
+### Doctoral student in technology foresight and digital skills forecasting
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/903300?l=en)
+- **Deadline:** 2026-03-24
+
+### Software Developer Python - SciLifeLab Data Centre, KTH
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/907166?l=en)
+- **Deadline:** 2026-03-26
+
 ### Doctoral student in Sustainable Metallurgy: Slag Design & Refractories
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898070?l=en)
 - **Deadline:** 2026-03-26
@@ -187,6 +199,10 @@
 ### Postdoc in machine learning, autonomous decision-making, and optimization.
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/904538?l=en)
 - **Deadline:** 2026-03-27
+
+### Postdoc in Safe Robot Planning
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/911111?l=en)
+- **Deadline:** 2026-03-31
 
 ### Doctoral student in Experimental Fluid Mechanics & Artificial Intelligence
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/898147?l=en)

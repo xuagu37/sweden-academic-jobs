@@ -1,11 +1,7 @@
 # Umeå University
 
-### Doctoral student in Archaeology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-archaeology_877494/)
-- **Deadline:** 2026-03-06
-
-### Doctoral student in History and Education
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
+### Doctoral student in English, Russian, French, or Spanish Literature
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
 - **Deadline:** 2026-03-06
 
 ### Doctoral student in Language teaching and learning
@@ -16,8 +12,16 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-educational-work-with-focus-on-language-_894412/)
 - **Deadline:** 2026-03-06
 
+### Doctoral student in Archaeology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-archaeology_877494/)
+- **Deadline:** 2026-03-06
+
 ### Doctoral student in History of Science and Ideas
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-of-science-and-ideas_877483/)
+- **Deadline:** 2026-03-06
+
+### Doctoral student in History and Education
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-history-and-education_884778/)
 - **Deadline:** 2026-03-06
 
 ### Doctoral student in Linguistics (English, Linguistics, Russian or Swedish/Scandinavian languages)
@@ -26,18 +30,6 @@
 
 ### Doctoral student in Media and communications studies
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-media-and-communications-studies_874433/)
-- **Deadline:** 2026-03-06
-
-### Doctoral student in English, Russian, French, or Spanish Literature
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-english-russian-french-or-spanish-literature-_873990/)
-- **Deadline:** 2026-03-06
-
-### PhD position in Gender Studies, focusing on Educational Sciences
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
-- **Deadline:** 2026-03-06
-
-### Doctoral student in ethnology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
 - **Deadline:** 2026-03-06
 
 ### Doctoral student in history
@@ -52,8 +44,16 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-sami-language-didactics_879678/)
 - **Deadline:** 2026-03-06
 
+### Doctoral student in ethnology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/doctoral-student-in-ethnology_874437/)
+- **Deadline:** 2026-03-06
+
 ### Staff Scientist in Membrane Biology 9 months
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-membrane-biology-9-months_890955/)
+- **Deadline:** 2026-03-06
+
+### PhD position in Gender Studies, focusing on Educational Sciences
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-gender-studies-focusing-on-educational-sciences_902868/)
 - **Deadline:** 2026-03-06
 
 ### Postdoc within gut microbial mucus modulation
@@ -92,6 +92,10 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-3-years-within-mountain-plant-community-and-ecosystem-processes-across-a-globally-distributed-experiment-_896357/)
 - **Deadline:** 2026-03-26
 
+### Staff Scientist within impacts of global change on northern lake ecosystems
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-within-impacts-of-global-change-on-northern-lake-ecosystems_907201/)
+- **Deadline:** 2026-03-27
+
 ### 1-3 PhD students in materials science with a focus on cementitious materials
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/1-3-phd-students-in-materials-science-with-a-focus-on-cementitious-materials-_899582/)
 - **Deadline:** 2026-03-29
@@ -106,6 +110,10 @@
 
 ### PhD position in Medical Science with Specialization in Virology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-medical-science-with-specialization-in-virology_907579/)
+- **Deadline:** 2026-03-30
+
+### Postdoctoral position (2 years) on carbon biogeochemistry of inland waters
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-on-carbon-biogeochemistry-of-inland-waters-_911065/)
 - **Deadline:** 2026-03-30
 
 ### PhD position in plant science
@@ -131,6 +139,10 @@
 ### PhD position in Physical Geography, focusing on greenhouse gas dynamics in streams and groundwater
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-physical-geography-focusing-on-greenhouse-gas-dynamics-in-streams-and-groundwater_909653/)
 - **Deadline:** 2026-04-15
+
+### Postdoctor (3 years) on the Development of Adaptive Interventions to Promote Life-Long Learning
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctor-3-years-on-the-development-of-adaptive-interventions-to-promote-life-long-learning_910146/)
+- **Deadline:** 2026-04-20
 
 ### PhD position in Spatial Statistics
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-spatial-statistics_908634/)

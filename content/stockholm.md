@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 23</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 27</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,19 +20,11 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project Assistant in Astroparticle Physics – IceCube</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Law</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:903132/where:4/)
-- **Deadline:** 2026-03-04
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Theoretical Physics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:907631/where:4/)
-- **Deadline:** 2026-03-09
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:895023/where:4/)
+- **Deadline:** 2026-03-05
 
 </div>
 
@@ -40,6 +32,14 @@
 <h3>Postdoctoral Fellow in quantum simulations with trapped Rydberg ions</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:900483/where:4/)
+- **Deadline:** 2026-03-09
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Theoretical Physics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:907631/where:4/)
 - **Deadline:** 2026-03-09
 
 </div>
@@ -100,6 +100,22 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Applied Econometrics and Data Science</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:910396/where:4/)
+- **Deadline:** 2026-03-25
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Plant evolution</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:910273/where:4/)
+- **Deadline:** 2026-03-26
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Procedural law with a focus on Arbitration Law</h3>
 
@@ -137,6 +153,14 @@
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:906474/where:4/)
 - **Deadline:** 2026-04-03
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow to research project SURPRISES</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:908913/where:4/)
+- **Deadline:** 2026-04-07
 
 </div>
 
@@ -184,6 +208,14 @@
 <h3>PhD student in Computer and Systems Sciences, with focus on Data Science</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:901900/where:4/)
+- **Deadline:** 2026-04-15
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in the field of atmospheric and environmental science</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:909372/where:4/)
 - **Deadline:** 2026-04-15
 
 </div>

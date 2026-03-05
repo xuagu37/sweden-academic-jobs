@@ -1,5 +1,25 @@
 # Chalmers University of Technology
 
+### Internship in laser stabilization for laser cooling
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14661)
+- **Deadline:** 2026-04-05
+
+### Postdoc in experimental superconducting quantum computing
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14585)
+- **Deadline:** 2026-04-30
+
+### Postdoc in machine learning to improve decision making
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14567)
+- **Deadline:** 2026-04-10
+
+### Doctoral student in Computational Genomics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14653)
+- **Deadline:** 2026-05-01
+
+### Administratör med inriktning mot grundutbildning
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14648)
+- **Deadline:** 2026-03-18
+
 ### Doctoral student in Trustworthy and Resilient IoT Swarm Security
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14565)
 - **Deadline:** 2026-04-15
@@ -123,10 +143,6 @@
 ### Doctoral student in organic synthesis of monomers and polymers
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14577)
 - **Deadline:** 2026-03-05
-
-### Postdoc in future aviation concepts: aircraft design and novel propulsion systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14573)
-- **Deadline:** 2026-03-04
 
 ### Assistant or Associate Professors – Two WISE Fellows in Materials Science for a Sustainable Future
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14331)

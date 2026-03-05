@@ -1,5 +1,13 @@
 # Linköping University
 
+### Postdoc in efficient and robust decentralized AI
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28722)
+- **Deadline:** 2026-05-15
+
+### PhD Student for Sustainable and Resource-Efficient Machine Learning
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28717)
+- **Deadline:** 2026-04-24
+
 ### PhD Position in Industrial Marketing
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28393)
 - **Deadline:** 2026-04-16
@@ -8,8 +16,16 @@
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28554)
 - **Deadline:** 2026-04-15
 
+### Postdoc in Mathematical Optimization of Dose Planning for Radiation Treatment
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28686)
+- **Deadline:** 2026-04-15
+
 ### PhD student in Statistics and Machine Learning
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28601)
+- **Deadline:** 2026-04-10
+
+### PhD students in Ethnic and Migration Studies
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28721)
 - **Deadline:** 2026-04-10
 
 ### PhD Student in Computational Mathematics
@@ -31,6 +47,10 @@
 ### Assistant professor in Mathematical Analysis
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28612)
 - **Deadline:** 2026-03-31
+
+### Postdoc in Cryo-EM Image Reconstruction and Volumetric Analysis
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28590)
+- **Deadline:** 2026-03-30
 
 ### PhD student in Medical Science
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28629)

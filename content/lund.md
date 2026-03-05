@@ -1,5 +1,5 @@
 # Lund University
-<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 49</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 50</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,18 +21,10 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher at the division of Water Resources Engineering (PA2026/207)</h3>
+<h3>Assistant Researcher to the unit Health Economics (PA2026/542)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:895616/type:job/where:4/apply:1)
-- **Deadline:** 4 Mar 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant vid Internationella Miljöinstitutet (PA2026/497)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:902899/type:job/where:4/apply:1)
-- **Deadline:** 4 Mar 2026
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904124/type:job/where:4/apply:1)
+- **Deadline:** 5 Mar 2026
 
 </div>
 
@@ -44,11 +36,11 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Assistant Researcher to the unit Health Economics (PA2026/542)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on Sensor Fusion for Multi-task Learning (PA2026/525)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904124/type:job/where:4/apply:1)
-- **Deadline:** 5 Mar 2026
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903830/type:job/where:4/apply:1)
+- **Deadline:** 6 Mar 2026
 
 </div>
 
@@ -68,18 +60,10 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computer Science with a focus on Sensor Fusion for Multi-task Learning (PA2026/525)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>RF Engineer, MAX IV (PA2026/268)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903830/type:job/where:4/apply:1)
-- **Deadline:** 6 Mar 2026
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>1-2 Doctoral studentships in human geography (PA2026/394)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899586/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896581/type:job/where:4/apply:1)
 - **Deadline:** 8 Mar 2026
 
 </div>
@@ -92,10 +76,10 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>RF Engineer, MAX IV (PA2026/268)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>1-2 Doctoral studentships in human geography (PA2026/394)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896581/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899586/type:job/where:4/apply:1)
 - **Deadline:** 8 Mar 2026
 
 </div>
@@ -189,17 +173,17 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistants as SI-leaders at the Service management master programme (PA2026/592)</h3>
+<h3>Student worker and SI-leader at the Service management master programme (PA2026/597)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905242/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905277/type:job/where:4/apply:1)
 - **Deadline:** 15 Mar 2026
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Student worker and SI-leader at the Service management master programme (PA2026/597)</h3>
+<h3>Teaching assistants as SI-leaders at the Service management master programme (PA2026/592)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905277/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905242/type:job/where:4/apply:1)
 - **Deadline:** 15 Mar 2026
 
 </div>
@@ -268,6 +252,30 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant in urban ecology (PA2026/646)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906919/type:job/where:4/apply:1)
+- **Deadline:** 18 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project Assistant in biologi (PA2026/211)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:895798/type:job/where:4/apply:1)
+- **Deadline:** 19 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Assistant Researcher in Radiotherapy (PA2026/716)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909515/type:job/where:4/apply:1)
+- **Deadline:** 19 Mar 2026
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Biology (PA2026/638)</h3>
 
@@ -288,14 +296,6 @@
 <h3>Research engineer at Lund Nano Lab (PA2026/565)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904792/type:job/where:4/apply:1)
-- **Deadline:** 19 Mar 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project Assistant in biologi (PA2026/211)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:895798/type:job/where:4/apply:1)
 - **Deadline:** 19 Mar 2026
 
 </div>
@@ -324,14 +324,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Electrical Engineering focusing on Cybersecurity (PA2026/626)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906127/type:job/where:4/apply:1)
-- **Deadline:** 24 Mar 2026
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral position in applied mathematics (PA2026/354)</h3>
 
@@ -352,6 +344,14 @@
 <h3>Postdoctoral position in Electrical Engineering focusing on Cybersecurity (PA2026/627)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906129/type:job/where:4/apply:1)
+- **Deadline:** 24 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Electrical Engineering focusing on Cybersecurity (PA2026/626)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906127/type:job/where:4/apply:1)
 - **Deadline:** 24 Mar 2026
 
 </div>
@@ -401,6 +401,14 @@
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899494/type:job/where:4/apply:1)
 - **Deadline:** 22 Apr 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer/Assistant Professor in Molecular Microbiology (PA2026/136)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893891/type:job/where:4/apply:1)
+- **Deadline:** 28 Apr 2026
 
 </div>
 
