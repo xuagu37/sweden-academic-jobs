@@ -1,0 +1,671 @@
+# Lund University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 74</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Technician to CoSAXS and ForMAX (PA2026/79)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:892517/type:job/where:4/apply:1)
+- **Deadline:** 15 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PostDoc in Electrochemical APXPS (PA2026/499)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903111/type:job/where:4/apply:1)
+- **Deadline:** 15 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>SciLifeLab PULSE postdoctor (PA2025/3650)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:885473/type:job/where:4/apply:1)
+- **Deadline:** 16 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Industrial Electrical Engineering with a focus on Battery Integration (PA2026/462)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901919/type:job/where:4/apply:1)
+- **Deadline:** 16 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc Epigenetic and chromatin dynamics (PA2026/735)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909919/type:job/where:4/apply:1)
+- **Deadline:** 17 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Assistant reasearcher (PA2026/741)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:910021/type:job/where:4/apply:1)
+- **Deadline:** 17 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Project assistant in urban ecology (PA2026/646)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906919/type:job/where:4/apply:1)
+- **Deadline:** 18 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Assistant Researcher to the unit Diagnostic Radiology (PA2026/543)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904153/type:job/where:4/apply:1)
+- **Deadline:** 18 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in biomedical engineering with a focus on acoustofluidics (PA2026/631)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906261/type:job/where:4/apply:1)
+- **Deadline:** 18 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Project Assistant for a Research Project on Water from a Social Science Perspective (LU4Water) (PA2026/501)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:903175/type:job/where:4/apply:1)
+- **Deadline:** 18 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Biology (PA2026/638)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906506/type:job/where:4/apply:1)
+- **Deadline:** 19 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Assistant Researcher in Radiotherapy (PA2026/716)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909515/type:job/where:4/apply:1)
+- **Deadline:** 19 Mar 2026
+
+</div>
+
+<div class="job" data-type="Research Engineer" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Research engineer at Lund Nano Lab (PA2026/565)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904792/type:job/where:4/apply:1)
+- **Deadline:** 19 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Electrical Engineering focusing on Microwave Quantum Technology (PA2026/624)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906125/type:job/where:4/apply:1)
+- **Deadline:** 19 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Project Assistant in biologi (PA2026/211)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:895798/type:job/where:4/apply:1)
+- **Deadline:** 19 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Projectassistant (PA2026/670)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908164/type:job/where:4/apply:1)
+- **Deadline:** 20 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>1-2 Season employed fieldassitants by the Department of earth and enviromental science. (PA2026/808)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:911584/type:job/where:4/apply:1)
+- **Deadline:** 20 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants as SI-leaders at the Service management master programme (PA2026/592)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905242/type:job/where:4/apply:1)
+- **Deadline:** 22 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Student worker and SI-leader at the Service management master programme (PA2026/597)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905277/type:job/where:4/apply:1)
+- **Deadline:** 22 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral Student in Experimental Clinical Genetics (PA2026/680)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908423/type:job/where:4/apply:1)
+- **Deadline:** 23 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Mathematics (PA2026/618)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905918/type:job/where:4/apply:1)
+- **Deadline:** 23 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Mathematics (PA2026/615)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905699/type:job/where:4/apply:1)
+- **Deadline:** 23 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Teaching assistant to the Department of Electrical and Information Technology (PA2026/625)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906126/type:job/where:4/apply:1)
+- **Deadline:** 23 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>KOPIA AV Amanuens, KEG, 20% (PA2026/818)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:911860/type:job/where:4/apply:1)
+- **Deadline:** 23 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Researcher in Biomedical Engineering (PA2026/766)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:910848/type:job/where:4/apply:1)
+- **Deadline:** 23 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Project assistant at the Department of Biology (PA2026/724)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909824/type:job/where:4/apply:1)
+- **Deadline:** 23 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in applied mathematics (PA2026/354)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898491/type:job/where:4/apply:1)
+- **Deadline:** 24 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Project assistant in computational genome analysis (PA2026/814)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:911692/type:job/where:4/apply:1)
+- **Deadline:** 24 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Project Assistant in Industrial Electrical Engineering (PA2026/609)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905553/type:job/where:4/apply:1)
+- **Deadline:** 24 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Electrical Engineering focusing on Cybersecurity (PA2026/627)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906129/type:job/where:4/apply:1)
+- **Deadline:** 24 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Electrical Engineering focusing on Cybersecurity (PA2026/626)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906127/type:job/where:4/apply:1)
+- **Deadline:** 24 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher at the Balder Beamline (PA2025/3364)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:877821/type:job/where:4/apply:1)
+- **Deadline:** 24 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in Biology (PA2026/767)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:910872/type:job/where:4/apply:1)
+- **Deadline:** 25 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with focus on AI engineering (PA2026/537)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904051/type:job/where:4/apply:1)
+- **Deadline:** 25 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Research Administrator to the MoRe Lab (PA2026/549)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:904270/type:job/where:4/apply:1)
+- **Deadline:** 25 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Accelerator Operator (PA2026/898)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:914171/type:job/where:4/apply:1)
+- **Deadline:** 27 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Assistant researcher in anesthesia (PA2026/853)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:913097/type:job/where:4/apply:1)
+- **Deadline:** 27 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Programmerare av grafiskt gränssnitt (PA2026/786)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:911247/type:job/where:4/apply:1)
+- **Deadline:** 27 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Accelerator Operator Assistant (PA2026/897)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:914170/type:job/where:4/apply:1)
+- **Deadline:** 27 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Researcher in arthropod visual ecology (PA2026/726)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909838/type:job/where:4/apply:1)
+- **Deadline:** 27 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Programmer in C++ to the department of Earth and environmental sciences (PA2026/785)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:911246/type:job/where:4/apply:1)
+- **Deadline:** 27 Mar 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in Computational Biophysics (PA2026/701)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908861/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer worker Accelerator Development (PA2026/740)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:910017/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer worker Vacuum Team (PA2026/739)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909956/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer worker Heavy Lifting and Goods Reception (PA2026/737)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909941/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer worker Engineering-SAM (PA2026/714)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909500/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer worker in Scientific Data group – detector environmental control (PA2026/706)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909062/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer worker Radio Frequency (PA2026/699)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908807/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer Worker SoftiMAX Beamline (PA2026/691)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908511/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer worker Beamline Office – Sample environment (PA2026/689)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908501/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Summer worker Beamline Office – Biology and Chemistry labs (PA2026/688)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908498/type:job/where:4/apply:1)
+- **Deadline:** 29 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Social Anthropology (PA2026/629)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:906200/type:job/where:4/apply:1)
+- **Deadline:** 30 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral Student in Media and Communication Studies (PA2026/227)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896015/type:job/where:4/apply:1)
+- **Deadline:** 31 Mar 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer of Neurology combined with a Position as Specialist Physician/Consultant (PA2025/1658)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:827015/type:job/where:4/apply:1)
+- **Deadline:** 31 Mar 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD in Sociology of Authoritarian Law – “Outside the Law” Legal Mobilization in Central Asia (PA2026/855)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:913314/type:job/where:4/apply:1)
+- **Deadline:** 31 Mar 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Project assistant in biology (PA2026/820)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:911949/type:job/where:4/apply:1)
+- **Deadline:** 1 Apr 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc in human rights, with focus on the digital and green transition (PA2026/693)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908591/type:job/where:4/apply:1)
+- **Deadline:** 1 Apr 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Project assistant LUCSUS (PA2025/3457)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:880306/type:job/where:4/apply:1)
+- **Deadline:** 1 Apr 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Immunotechnology within Antibody development in allergy (PA2026/351)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:898447/type:job/where:4/apply:1)
+- **Deadline:** 2 Apr 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Sustainability Science (PA2026/725)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909827/type:job/where:4/apply:1)
+- **Deadline:** 5 Apr 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Beamline Data Scientist (PA2026/655)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:907360/type:job/where:4/apply:1)
+- **Deadline:** 5 Apr 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doktorand (PA2026/694)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:908626/type:job/where:4/apply:1)
+- **Deadline:** 5 Apr 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Electrical Engineering focusing on Cybersecurity (PA2026/267)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:896562/type:job/where:4/apply:1)
+- **Deadline:** 6 Apr 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Industrial Relations Scientist - BioSAXS & MX services (PA2026/738)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909944/type:job/where:4/apply:1)
+- **Deadline:** 6 Apr 2026
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>User Access Systems Coordinator (PA2026/736)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:909932/type:job/where:4/apply:1)
+- **Deadline:** 6 Apr 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Reproductive Governance and Family Formations among Minority Communities (PA2026/607)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:905527/type:job/where:4/apply:1)
+- **Deadline:** 9 Apr 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral positions in Energy Sciences with a focus on thermal runaway modeling (COMPEL) (PA2026/762)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:910636/type:job/where:4/apply:1)
+- **Deadline:** 12 Apr 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in applied mathematics with focus on numerical analysis (PA2026/440)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901260/type:job/where:4/apply:1)
+- **Deadline:** 13 Apr 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Architectural design with focus on artistic research in architecture (PA2026/389)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:899494/type:job/where:4/apply:1)
+- **Deadline:** 22 Apr 2026
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on Computer Graphics (PA2026/822)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:912043/type:job/where:4/apply:1)
+- **Deadline:** 24 Apr 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer/Assistant Professor in Molecular Microbiology (PA2026/136)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:893891/type:job/where:4/apply:1)
+- **Deadline:** 28 Apr 2026
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Sociology of Law - Amazon adapt (PA2026/854)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:913098/type:job/where:4/apply:1)
+- **Deadline:** 28 Apr 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Automatic Control with focus on the intersection of optimization, learning, and control (PA2026/464)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:901949/type:job/where:4/apply:1)
+- **Deadline:** 15 May 2026
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Professor of Social Work (PA2025/3142)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:872387/type:job/where:4/apply:1)
+- **Deadline:** 15 May 2026
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    job.dataset.originalHtml = job.innerHTML;
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    job.innerHTML = job.dataset.originalHtml;
+
+    if (!query) return;
+
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+
+    job.innerHTML = job.innerHTML.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+      job.innerHTML = job.dataset.originalHtml;
+
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const text = job.textContent.toLowerCase();
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || text.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+});
+</script>

@@ -1,0 +1,95 @@
+# Mid Sweden University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 2</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Electronics within Applied Sound Sensor Systems</h3>
+
+- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/postdoc-position-in-electronics-within-applied-sound-sensor-systems/)
+- **Deadline:** 260401
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Autonomous Sensor Systems</h3>
+
+- **Link:** [View job posting](https://www.miun.se/en/work-at-the-university/career/jobs/vacancy/postdoc-position-in-autonomous-sensor-systems/)
+- **Deadline:** 260330
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    job.dataset.originalHtml = job.innerHTML;
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    job.innerHTML = job.dataset.originalHtml;
+
+    if (!query) return;
+
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+
+    job.innerHTML = job.innerHTML.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+      job.innerHTML = job.dataset.originalHtml;
+
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const text = job.textContent.toLowerCase();
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || text.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+});
+</script>

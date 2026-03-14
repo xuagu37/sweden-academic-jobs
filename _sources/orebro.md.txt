@@ -1,0 +1,103 @@
+# Örebro University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 3</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Multimodal Perception and AI for Safe Autonomous Navigation</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260052)
+- **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on Secure Coordination and Interaction in Distributed AI</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260050)
+- **Deadline:** 2026-04-01
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on AI Runtime Security Assurance</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20260051)
+- **Deadline:** 2026-04-01
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    job.dataset.originalHtml = job.innerHTML;
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    job.innerHTML = job.dataset.originalHtml;
+
+    if (!query) return;
+
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+
+    job.innerHTML = job.innerHTML.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+      job.innerHTML = job.dataset.originalHtml;
+
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const text = job.textContent.toLowerCase();
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || text.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+});
+</script>

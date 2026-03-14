@@ -1,0 +1,63 @@
+# Sweden Academic Jobs
+
+Welcome! This site presents regularly scraped academic job listings from Swedish universities.
+
+_Last updated: 2026-03-14_
+
+<!-- :::{prereq}
+prerequisites
+:::
+
+```{csv-table}
+:delim: ;
+:widths: auto
+
+20 min ; {doc}`filename`
+``` -->
+
+<!-- ```{toctree}
+:caption: The lesson
+:maxdepth: 1
+``` -->
+
+```{toctree}
+:caption: All Current Jobs
+:maxdepth: 1
+
+all_current_jobs
+boras
+bth
+chalmers
+dalarna
+gavle
+gothenburg
+halmstad
+karlstad
+ki
+kth
+linkoping
+lnu
+lulea
+lund
+malardalen
+malmo
+miun
+slu
+sodertorn
+sse
+stockholm
+umea
+uppsala
+west
+orebro
+```
+
+<!-- (learner-personas)= -->
+
+<!-- ## Who is the course for?
+
+## About the course
+
+## See also
+
+## Credits -->

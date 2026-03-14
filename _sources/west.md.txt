@@ -1,0 +1,159 @@
+# University West
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 10</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Mentorer för studenter med funktionsnedsättning</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:891953/type:job/where:3/apply:1?token=5ac2eee7c5b583115aa27f309111fd60)
+- **Deadline:** 2026-12-31
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Anteckningshjälp för studenter med funktionsnedsättning</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:891954/type:job/where:3/apply:1?token=38ac99b3072b0c4bc95a1692cd0f1e8b)
+- **Deadline:** 2026-12-31
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Studentmedarbetare till datateknik</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:910734/type:job/where:3/apply:1?token=37f3e026ebdc1b99a3af2a8f1819cfaa)
+- **Deadline:** 2026-04-30
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i utbildningsvetenskap, inriktning svenskdidaktik</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:902280/type:job/where:3/apply:1?token=2b6cd7d0a42a4bd73c9fb8896ca9fcf2)
+- **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Ekonomichef</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:908887/type:job/where:3/apply:1?token=52db115852f8e3d2d45cef3e0937bf6a)
+- **Deadline:** 2026-03-29
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Doktorand i produktionsteknik - specialisering mot friktionssvetsning</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:876145/type:job/where:3/apply:1?token=cc4b5b47063f216762384d8e40cf95f3)
+- **Deadline:** 2026-03-20
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoktor i produktionsteknik med inriktning mot friktionssvetsning</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:876146/type:job/where:3/apply:1?token=9a01a553d7e8533711e89411cca3bbaa)
+- **Deadline:** 2026-03-20
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Campustekniker</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:897358/type:job/where:3/apply:1?token=8ecad398e9d7df24c04e50d34fd96bc2)
+- **Deadline:** 2026-03-19
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i logistik och supply chain management</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:886485/type:job/where:3/apply:1?token=5600563ab6cc1d4e23dfd15a8bf1c915)
+- **Deadline:** 2026-03-18
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Studentmedarbetare till projekt inom AIL</h3>
+
+- **Link:** [View job posting](https://hv.varbi.com/se/what:job/jobID:908600/type:job/where:3/apply:1?token=52d262006ab4a258487e50603f46953d)
+- **Deadline:** 2026-03-15
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    job.dataset.originalHtml = job.innerHTML;
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    job.innerHTML = job.dataset.originalHtml;
+
+    if (!query) return;
+
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+
+    job.innerHTML = job.innerHTML.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+      job.innerHTML = job.dataset.originalHtml;
+
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const text = job.textContent.toLowerCase();
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || text.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+});
+</script>

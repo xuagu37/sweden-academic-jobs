@@ -1,0 +1,255 @@
+# Linköping University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 22</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc in efficient and robust decentralized AI</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28722)
+- **Deadline:** 2026-05-15
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD Student for Sustainable and Resource-Efficient Machine Learning</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28717)
+- **Deadline:** 2026-04-24
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD student in AI Security</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28735)
+- **Deadline:** 2026-04-20
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD student in Cybersecurity</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28759)
+- **Deadline:** 2026-04-20
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Industrial Marketing</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28393)
+- **Deadline:** 2026-04-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc in cognitive science with a focus on children and AI</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28554)
+- **Deadline:** 2026-04-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Mathematical Optimization of Dose Planning for Radiation Treatment</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28686)
+- **Deadline:** 2026-04-15
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD student in Statistics and Machine Learning</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28601)
+- **Deadline:** 2026-04-10
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD students in Ethnic and Migration Studies</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28721)
+- **Deadline:** 2026-04-10
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD Students in Culture and Society</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28741)
+- **Deadline:** 2026-04-10
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Computational Mathematics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28545)
+- **Deadline:** 2026-04-09
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Statistician</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28788)
+- **Deadline:** 2026-04-03
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD Students in Cyberresilient AI</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28676)
+- **Deadline:** 2026-04-01
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc position on Trustworthy AI</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28678)
+- **Deadline:** 2026-04-01
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Ethology</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28497)
+- **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Mathematical Analysis</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28612)
+- **Deadline:** 2026-03-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Cryo-EM Image Reconstruction and Volumetric Analysis</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28590)
+- **Deadline:** 2026-03-30
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants in Applied Thermodynamics and Fluid Mechanics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28756)
+- **Deadline:** 2026-03-30
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28629)
+- **Deadline:** 2026-03-23
+
+</div>
+
+<div class="job" data-type="Other" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>UX design assistant - Visualization Center C</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28613)
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="PhD" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28625)
+- **Deadline:** 2026-03-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" data-university="Unknown" style="margin-bottom: 1.5em;">
+<h3>Postdoc on Virtual Knowledge Graph Integration</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/28487)
+- **Deadline:** 2026-03-15
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    job.dataset.originalHtml = job.innerHTML;
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    job.innerHTML = job.dataset.originalHtml;
+
+    if (!query) return;
+
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+
+    job.innerHTML = job.innerHTML.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+      job.innerHTML = job.dataset.originalHtml;
+
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const text = job.textContent.toLowerCase();
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || text.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+});
+</script>
